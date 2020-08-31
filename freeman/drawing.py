@@ -732,6 +732,7 @@ def interact(g, physics=False, path=None):
         bgcolor='#ffffff',
         font_color='#000000',
         layout=None,
+        heading='',
     )
 
     pos = _build_graph_pos(g, bounds)

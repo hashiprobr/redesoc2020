@@ -234,22 +234,16 @@ def set_each_edge(g, key, map):
         g.edges[n, m][key] = value
 
 
-def set_all_nodes(g, key, value, filter=None):
-    if filter is None:
-        nodes = g.nodes
-    else:
-        nodes = [n for n in g.nodes if filter(n)]
-    for n in nodes:
-        g.nodes[n][key] = value
+def set_all_nodes(g, **kwargs):
+    for key, value in kwargs.items():
+        for n in g.nodes:
+            g.nodes[n][key] = value
 
 
-def set_all_edges(g, key, value, filter=None):
-    if filter is None:
-        edges = g.edges
-    else:
-        edges = [(n, m) for n, m in g.edges if filter(n, m)]
-    for n, m in edges:
-        g.edges[n, m][key] = value
+def set_all_edges(g, **kwargs):
+    for key, value in kwargs.items():
+        for n, m in g.edges:
+            g.edges[n, m][key] = value
 
 
 def unset_nodes(g, key):
@@ -513,10 +507,10 @@ class Graph(ObjectProxy):
         set_each_node(self, key, map)
     def set_each_edge(self, key, map):
         set_each_edge(self, key, map)
-    def set_all_nodes(self, key, value, filter=None):
-        set_all_nodes(self, key, value, filter)
-    def set_all_edges(self, key, value, filter=None):
-        set_all_edges(self, key, value, filter)
+    def set_all_nodes(self, **kwargs):
+        set_all_nodes(self, **kwargs)
+    def set_all_edges(self, **kwargs):
+        set_all_edges(self, **kwargs)
     def unset_nodes(self, key):
         unset_nodes(self, key)
     def unset_edges(self, key):
