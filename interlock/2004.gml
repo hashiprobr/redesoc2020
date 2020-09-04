@@ -1,18791 +1,22895 @@
 graph [
   directed 0
   node [
-    id 11
+    id "member9192"
     male 1
   ]
   node [
-    id 21
+    id "member2244"
     male 1
   ]
   node [
-    id 33
+    id "member7489"
     male 1
   ]
   node [
-    id 44
+    id "member1637"
     male 1
   ]
   node [
-    id 45
+    id "member2982"
     male 1
   ]
   node [
-    id 56
+    id "member2073"
     male 1
   ]
   node [
-    id 63
+    id "member11438"
     male 1
   ]
   node [
-    id 67
+    id "member10070"
     male 1
   ]
   node [
-    id 85
+    id "member8828"
     male 1
   ]
   node [
-    id 110
+    id "member478"
     male 1
   ]
   node [
-    id 121
+    id "member10063"
     male 1
   ]
   node [
-    id 134
+    id "member9548"
     male 1
   ]
   node [
-    id 136
+    id "member11073"
     male 1
   ]
   node [
-    id 149
+    id "member7030"
     male 1
   ]
   node [
-    id 157
+    id "member1555"
     male 1
   ]
   node [
-    id 161
+    id "member3230"
     male 1
   ]
   node [
-    id 162
+    id "member8665"
     male 1
   ]
   node [
-    id 163
+    id "member6946"
     male 1
   ]
   node [
-    id 164
+    id "member2572"
     male 1
   ]
   node [
-    id 169
-    male 1
-  ]
-  node [
-    id 187
-    male 1
-  ]
-  node [
-    id 196
-    male 1
-  ]
-  node [
-    id 213
-    male 1
-  ]
-  node [
-    id 214
-    male 1
-  ]
-  node [
-    id 218
-    male 1
-  ]
-  node [
-    id 227
-    male 1
-  ]
-  node [
-    id 266
-    male 1
-  ]
-  node [
-    id 269
-    male 1
-  ]
-  node [
-    id 275
-    male 1
-  ]
-  node [
-    id 277
-    male 1
-  ]
-  node [
-    id 317
-    male 1
-  ]
-  node [
-    id 334
-    male 1
-  ]
-  node [
-    id 350
+    id "member13264"
     male 0
   ]
   node [
-    id 364
+    id "member5423"
     male 1
   ]
   node [
-    id 370
+    id "member214"
     male 1
   ]
   node [
-    id 398
+    id "member4482"
     male 1
   ]
   node [
-    id 436
+    id "member4209"
     male 1
   ]
   node [
-    id 437
+    id "member13154"
     male 1
   ]
   node [
-    id 443
+    id "member483"
     male 1
   ]
   node [
-    id 447
+    id "member4933"
     male 1
   ]
   node [
-    id 466
+    id "member1042"
     male 1
   ]
   node [
-    id 477
+    id "member9983"
     male 1
   ]
   node [
-    id 482
+    id "member1093"
     male 1
   ]
   node [
-    id 490
+    id "member7863"
     male 1
   ]
   node [
-    id 510
+    id "member9071"
     male 1
   ]
   node [
-    id 538
+    id "member7033"
     male 1
   ]
   node [
-    id 549
+    id "member13097"
     male 1
   ]
   node [
-    id 560
+    id "member9607"
     male 1
   ]
   node [
-    id 656
+    id "member1451"
     male 1
   ]
   node [
-    id 667
+    id "member892"
     male 1
   ]
   node [
-    id 695
+    id "member7892"
     male 1
   ]
   node [
-    id 700
+    id "member8347"
     male 1
   ]
   node [
-    id 711
+    id "member9330"
     male 1
   ]
   node [
-    id 740
+    id "member6037"
     male 1
   ]
   node [
-    id 766
+    id "member10512"
     male 1
   ]
   node [
-    id 811
+    id "member10491"
     male 1
   ]
   node [
-    id 813
+    id "member1039"
     male 1
   ]
   node [
-    id 816
+    id "member467"
     male 1
   ]
   node [
-    id 841
+    id "member219"
     male 1
   ]
   node [
-    id 852
+    id "member5620"
     male 1
   ]
   node [
-    id 863
+    id "member8699"
     male 1
   ]
   node [
-    id 880
+    id "member7214"
     male 1
   ]
   node [
-    id 886
+    id "member8415"
     male 1
   ]
   node [
-    id 891
+    id "member3006"
     male 1
   ]
   node [
-    id 973
+    id "member11464"
+    male 1
+  ]
+  node [
+    id "member10006"
+    male 1
+  ]
+  node [
+    id "member10126"
+    male 1
+  ]
+  node [
+    id "member11604"
+    male 1
+  ]
+  node [
+    id "member11801"
+    male 1
+  ]
+  node [
+    id "member188"
+    male 1
+  ]
+  node [
+    id "member8391"
+    male 1
+  ]
+  node [
+    id "member9795"
+    male 1
+  ]
+  node [
+    id "member511"
+    male 1
+  ]
+  node [
+    id "member3922"
+    male 1
+  ]
+  node [
+    id "member8686"
+    male 1
+  ]
+  node [
+    id "member8371"
+    male 1
+  ]
+  node [
+    id "member5877"
+    male 1
+  ]
+  node [
+    id "member6144"
+    male 1
+  ]
+  node [
+    id "member10147"
+    male 1
+  ]
+  node [
+    id "member11605"
+    male 1
+  ]
+  node [
+    id "member10789"
     male 0
   ]
   node [
-    id 981
+    id "member2254"
     male 1
   ]
   node [
-    id 986
+    id "member2864"
     male 1
   ]
   node [
-    id 1002
+    id "member5010"
     male 1
   ]
   node [
-    id 1010
+    id "member5043"
     male 1
   ]
   node [
-    id 1026
+    id "member2342"
     male 1
   ]
   node [
-    id 1028
+    id "member887"
     male 1
   ]
   node [
-    id 1038
+    id "member4809"
     male 1
   ]
   node [
-    id 1041
+    id "member1473"
     male 1
   ]
   node [
-    id 1043
+    id "member12437"
     male 1
   ]
   node [
-    id 1088
+    id "member10307"
     male 1
   ]
   node [
-    id 1092
+    id "member1421"
     male 1
   ]
   node [
-    id 1112
+    id "member5789"
     male 1
   ]
   node [
-    id 1120
+    id "member335"
     male 1
   ]
   node [
-    id 1123
+    id "member4198"
     male 1
   ]
   node [
-    id 1131
+    id "member1718"
     male 1
   ]
   node [
-    id 1145
+    id "member351"
     male 0
   ]
   node [
-    id 1170
+    id "member6700"
     male 1
   ]
   node [
-    id 1172
+    id "member12483"
     male 1
   ]
   node [
-    id 1175
+    id "member11148"
     male 1
   ]
   node [
-    id 1177
+    id "member9104"
     male 1
   ]
   node [
-    id 1190
+    id "member10106"
     male 1
   ]
   node [
-    id 1191
+    id "member2032"
     male 1
   ]
   node [
-    id 1199
+    id "member165"
     male 1
   ]
   node [
-    id 1219
+    id "member2373"
     male 1
   ]
   node [
-    id 1234
-    male 1
-  ]
-  node [
-    id 1240
-    male 1
-  ]
-  node [
-    id 1257
-    male 1
-  ]
-  node [
-    id 1278
-    male 1
-  ]
-  node [
-    id 1281
-    male 1
-  ]
-  node [
-    id 1292
-    male 1
-  ]
-  node [
-    id 1298
-    male 1
-  ]
-  node [
-    id 1315
-    male 1
-  ]
-  node [
-    id 1349
-    male 1
-  ]
-  node [
-    id 1358
-    male 1
-  ]
-  node [
-    id 1360
-    male 1
-  ]
-  node [
-    id 1390
-    male 1
-  ]
-  node [
-    id 1391
-    male 1
-  ]
-  node [
-    id 1405
-    male 1
-  ]
-  node [
-    id 1414
-    male 1
-  ]
-  node [
-    id 1420
-    male 1
-  ]
-  node [
-    id 1431
-    male 1
-  ]
-  node [
-    id 1445
-    male 1
-  ]
-  node [
-    id 1450
-    male 1
-  ]
-  node [
-    id 1472
-    male 1
-  ]
-  node [
-    id 1483
-    male 1
-  ]
-  node [
-    id 1506
-    male 1
-  ]
-  node [
-    id 1547
-    male 1
-  ]
-  node [
-    id 1550
-    male 1
-  ]
-  node [
-    id 1554
-    male 1
-  ]
-  node [
-    id 1596
-    male 1
-  ]
-  node [
-    id 1625
+    id "member12773"
     male 0
   ]
   node [
-    id 1636
+    id "member9011"
     male 1
   ]
   node [
-    id 1653
+    id "member1984"
     male 1
   ]
   node [
-    id 1663
+    id "member3960"
     male 1
   ]
   node [
-    id 1699
+    id "member13085"
     male 1
   ]
   node [
-    id 1701
+    id "member7966"
     male 1
   ]
   node [
-    id 1717
+    id "member8731"
     male 1
   ]
   node [
-    id 1733
+    id "member8379"
     male 1
   ]
   node [
-    id 1746
+    id "member10955"
     male 1
   ]
   node [
-    id 1750
+    id "member3971"
     male 1
   ]
   node [
-    id 1758
+    id "member1171"
     male 1
   ]
   node [
-    id 1761
+    id "member267"
+    male 1
+  ]
+  node [
+    id "member11963"
+    male 1
+  ]
+  node [
+    id "member10363"
+    male 1
+  ]
+  node [
+    id "member1350"
+    male 1
+  ]
+  node [
+    id "member4116"
+    male 1
+  ]
+  node [
+    id "member8995"
+    male 1
+  ]
+  node [
+    id "member4324"
+    male 1
+  ]
+  node [
+    id "member4377"
+    male 1
+  ]
+  node [
+    id "member1415"
+    male 1
+  ]
+  node [
+    id "member5746"
+    male 1
+  ]
+  node [
+    id "member4829"
+    male 1
+  ]
+  node [
+    id "member197"
+    male 1
+  ]
+  node [
+    id "member1751"
+    male 1
+  ]
+  node [
+    id "member10637"
+    male 1
+  ]
+  node [
+    id "member12071"
+    male 1
+  ]
+  node [
+    id "member7298"
+    male 1
+  ]
+  node [
+    id "member2695"
     male 0
   ]
   node [
-    id 1780
+    id "member10743"
     male 1
   ]
   node [
-    id 1819
+    id "member5627"
     male 1
   ]
   node [
-    id 1841
+    id "member3908"
     male 1
   ]
   node [
-    id 1854
+    id "member7431"
     male 1
   ]
   node [
-    id 1876
+    id "member10801"
+    male 1
+  ]
+  node [
+    id "member881"
+    male 1
+  ]
+  node [
+    id "member7436"
+    male 1
+  ]
+  node [
+    id "member5558"
+    male 1
+  ]
+  node [
+    id "member6009"
+    male 1
+  ]
+  node [
+    id "member4505"
+    male 1
+  ]
+  node [
+    id "member1235"
+    male 1
+  ]
+  node [
+    id "member3961"
+    male 1
+  ]
+  node [
+    id "member10404"
+    male 1
+  ]
+  node [
+    id "member10970"
+    male 1
+  ]
+  node [
+    id "member11388"
+    male 1
+  ]
+  node [
+    id "member6183"
+    male 1
+  ]
+  node [
+    id "member491"
+    male 1
+  ]
+  node [
+    id "member13157"
+    male 1
+  ]
+  node [
+    id "member9112"
+    male 1
+  ]
+  node [
+    id "member11003"
+    male 1
+  ]
+  node [
+    id "member4115"
+    male 1
+  ]
+  node [
+    id "member2274"
+    male 1
+  ]
+  node [
+    id "member9242"
+    male 1
+  ]
+  node [
+    id "member2890"
+    male 1
+  ]
+  node [
+    id "member1011"
+    male 1
+  ]
+  node [
+    id "member3265"
+    male 1
+  ]
+  node [
+    id "member7156"
+    male 1
+  ]
+  node [
+    id "member1977"
+    male 1
+  ]
+  node [
+    id "member3462"
+    male 1
+  ]
+  node [
+    id "member7498"
+    male 1
+  ]
+  node [
+    id "member12893"
+    male 1
+  ]
+  node [
+    id "member3153"
+    male 1
+  ]
+  node [
+    id "member1747"
+    male 1
+  ]
+  node [
+    id "member9174"
+    male 1
+  ]
+  node [
+    id "member5463"
+    male 1
+  ]
+  node [
+    id "member10678"
+    male 1
+  ]
+  node [
+    id "member10968"
+    male 1
+  ]
+  node [
+    id "member5496"
+    male 1
+  ]
+  node [
+    id "member9110"
     male 0
   ]
   node [
-    id 1886
-    male 1
-  ]
-  node [
-    id 1949
+    id "member10402"
     male 0
   ]
   node [
-    id 1954
+    id "member9233"
     male 1
   ]
   node [
-    id 1976
+    id "member9941"
     male 1
   ]
   node [
-    id 1983
+    id "member8218"
     male 1
   ]
   node [
-    id 1986
+    id "member215"
     male 1
   ]
   node [
-    id 1999
-    male 1
-  ]
-  node [
-    id 2031
-    male 1
-  ]
-  node [
-    id 2072
-    male 1
-  ]
-  node [
-    id 2100
-    male 1
-  ]
-  node [
-    id 2111
-    male 1
-  ]
-  node [
-    id 2123
-    male 1
-  ]
-  node [
-    id 2130
+    id "member1146"
     male 0
   ]
   node [
-    id 2148
+    id "member2687"
     male 1
   ]
   node [
-    id 2176
+    id "member13098"
     male 1
   ]
   node [
-    id 2195
+    id "member3048"
     male 1
   ]
   node [
-    id 2243
+    id "member7537"
     male 1
   ]
   node [
-    id 2253
+    id "member539"
     male 1
   ]
   node [
-    id 2260
+    id "member8894"
     male 1
   ]
   node [
-    id 2273
+    id "member1241"
     male 1
   ]
   node [
-    id 2325
+    id "member9650"
     male 1
   ]
   node [
-    id 2341
+    id "member9802"
     male 1
   ]
   node [
-    id 2365
+    id "member10312"
     male 1
   ]
   node [
-    id 2368
-    male 1
-  ]
-  node [
-    id 2372
-    male 1
-  ]
-  node [
-    id 2408
-    male 1
-  ]
-  node [
-    id 2416
-    male 1
-  ]
-  node [
-    id 2458
-    male 1
-  ]
-  node [
-    id 2481
-    male 1
-  ]
-  node [
-    id 2499
-    male 1
-  ]
-  node [
-    id 2514
-    male 1
-  ]
-  node [
-    id 2540
-    male 1
-  ]
-  node [
-    id 2545
-    male 1
-  ]
-  node [
-    id 2552
-    male 1
-  ]
-  node [
-    id 2560
-    male 1
-  ]
-  node [
-    id 2571
-    male 1
-  ]
-  node [
-    id 2686
-    male 1
-  ]
-  node [
-    id 2694
+    id "member9615"
     male 0
   ]
   node [
-    id 2732
+    id "member4996"
     male 1
   ]
   node [
-    id 2812
+    id "member561"
     male 1
   ]
   node [
-    id 2861
+    id "member10713"
     male 1
   ]
   node [
-    id 2863
+    id "member1113"
     male 1
   ]
   node [
-    id 2887
+    id "member5842"
     male 1
   ]
   node [
-    id 2889
+    id "member2459"
     male 1
   ]
   node [
-    id 2891
+    id "member1200"
+    male 1
+  ]
+  node [
+    id "member1432"
+    male 1
+  ]
+  node [
+    id "member5559"
+    male 1
+  ]
+  node [
+    id "member10206"
+    male 1
+  ]
+  node [
+    id "member550"
+    male 1
+  ]
+  node [
+    id "member3346"
+    male 1
+  ]
+  node [
+    id "member1762"
     male 0
   ]
   node [
-    id 2893
+    id "member9628"
     male 1
   ]
   node [
-    id 2895
+    id "member1887"
+    male 1
+  ]
+  node [
+    id "member7217"
+    male 1
+  ]
+  node [
+    id "member2000"
+    male 1
+  ]
+  node [
+    id "member4413"
+    male 1
+  ]
+  node [
+    id "member11457"
+    male 1
+  ]
+  node [
+    id "member8298"
+    male 1
+  ]
+  node [
+    id "member11359"
+    male 1
+  ]
+  node [
+    id "member12810"
+    male 1
+  ]
+  node [
+    id "member4811"
+    male 1
+  ]
+  node [
+    id "member5351"
+    male 1
+  ]
+  node [
+    id "member8269"
+    male 1
+  ]
+  node [
+    id "member12323"
+    male 1
+  ]
+  node [
+    id "member6823"
+    male 1
+  ]
+  node [
+    id "member11374"
+    male 1
+  ]
+  node [
+    id "member1877"
     male 0
   ]
   node [
-    id 2920
-    male 1
-  ]
-  node [
-    id 2957
-    male 1
-  ]
-  node [
-    id 2981
-    male 1
-  ]
-  node [
-    id 2998
-    male 1
-  ]
-  node [
-    id 3005
-    male 1
-  ]
-  node [
-    id 3009
-    male 1
-  ]
-  node [
-    id 3039
-    male 1
-  ]
-  node [
-    id 3044
-    male 1
-  ]
-  node [
-    id 3047
-    male 1
-  ]
-  node [
-    id 3069
-    male 1
-  ]
-  node [
-    id 3100
-    male 1
-  ]
-  node [
-    id 3152
-    male 1
-  ]
-  node [
-    id 3157
+    id "member4699"
     male 0
   ]
   node [
-    id 3169
+    id "member11254"
     male 1
   ]
   node [
-    id 3229
+    id "member11136"
     male 1
   ]
   node [
-    id 3234
+    id "member6050"
     male 1
   ]
   node [
-    id 3264
+    id "member10472"
     male 1
   ]
   node [
-    id 3295
+    id "member170"
     male 1
   ]
   node [
-    id 3345
+    id "member9731"
     male 1
   ]
   node [
-    id 3386
+    id "member2196"
     male 1
   ]
   node [
-    id 3392
+    id "member11116"
     male 1
   ]
   node [
-    id 3411
+    id "member1955"
     male 1
   ]
   node [
-    id 3424
+    id "member122"
     male 1
   ]
   node [
-    id 3436
+    id "member9652"
     male 1
   ]
   node [
-    id 3461
+    id "member1392"
     male 1
   ]
   node [
-    id 3468
+    id "member1446"
     male 1
   ]
   node [
-    id 3500
+    id "member12559"
     male 1
   ]
   node [
-    id 3535
+    id "member437"
     male 1
   ]
   node [
-    id 3582
+    id "member11211"
     male 1
   ]
   node [
-    id 3709
+    id "member6974"
     male 1
   ]
   node [
-    id 3724
+    id "member7357"
     male 1
   ]
   node [
-    id 3730
+    id "member12031"
     male 1
   ]
   node [
-    id 3769
+    id "member982"
     male 1
   ]
   node [
-    id 3819
+    id "member668"
+    male 1
+  ]
+  node [
+    id "member8874"
+    male 1
+  ]
+  node [
+    id "member8423"
+    male 1
+  ]
+  node [
+    id "member7757"
+    male 1
+  ]
+  node [
+    id "member11444"
+    male 1
+  ]
+  node [
+    id "member22"
+    male 1
+  ]
+  node [
+    id "member1178"
+    male 1
+  ]
+  node [
+    id "member3875"
+    male 1
+  ]
+  node [
+    id "member3045"
+    male 1
+  ]
+  node [
+    id "member9467"
+    male 1
+  ]
+  node [
+    id "member9577"
+    male 1
+  ]
+  node [
+    id "member1548"
+    male 1
+  ]
+  node [
+    id "member11082"
+    male 1
+  ]
+  node [
+    id "member4178"
+    male 1
+  ]
+  node [
+    id "member9395"
+    male 1
+  ]
+  node [
+    id "member12120"
+    male 1
+  ]
+  node [
+    id "member164"
+    male 1
+  ]
+  node [
+    id "member7458"
+    male 1
+  ]
+  node [
+    id "member4319"
+    male 1
+  ]
+  node [
+    id "member12653"
+    male 1
+  ]
+  node [
+    id "member7209"
+    male 1
+  ]
+  node [
+    id "member1406"
+    male 1
+  ]
+  node [
+    id "member2999"
+    male 1
+  ]
+  node [
+    id "member1279"
+    male 1
+  ]
+  node [
+    id "member371"
+    male 1
+  ]
+  node [
+    id "member6568"
+    male 1
+  ]
+  node [
+    id "member3976"
+    male 1
+  ]
+  node [
+    id "member10617"
+    male 1
+  ]
+  node [
+    id "member10561"
+    male 1
+  ]
+  node [
+    id "member6078"
+    male 1
+  ]
+  node [
+    id "member7320"
+    male 1
+  ]
+  node [
+    id "member11100"
+    male 1
+  ]
+  node [
+    id "member8060"
+    male 1
+  ]
+  node [
+    id "member12395"
+    male 1
+  ]
+  node [
+    id "member11453"
+    male 1
+  ]
+  node [
+    id "member7334"
+    male 1
+  ]
+  node [
+    id "member11482"
+    male 1
+  ]
+  node [
+    id "member11429"
+    male 1
+  ]
+  node [
+    id "member10763"
+    male 1
+  ]
+  node [
+    id "member12484"
+    male 1
+  ]
+  node [
+    id "member842"
+    male 1
+  ]
+  node [
+    id "member276"
+    male 1
+  ]
+  node [
+    id "member34"
+    male 1
+  ]
+  node [
+    id "member8581"
+    male 1
+  ]
+  node [
+    id "member2921"
+    male 1
+  ]
+  node [
+    id "member9453"
+    male 1
+  ]
+  node [
+    id "member1124"
+    male 1
+  ]
+  node [
+    id "member11036"
+    male 1
+  ]
+  node [
+    id "member5586"
+    male 1
+  ]
+  node [
+    id "member3070"
+    male 1
+  ]
+  node [
+    id "member111"
+    male 1
+  ]
+  node [
+    id "member8204"
     male 0
   ]
   node [
-    id 3854
+    id "member3993"
     male 1
   ]
   node [
-    id 3874
+    id "member2894"
     male 1
   ]
   node [
-    id 3907
+    id "member13053"
     male 1
   ]
   node [
-    id 3913
+    id "member5812"
     male 1
   ]
   node [
-    id 3920
+    id "member3725"
     male 1
   ]
   node [
-    id 3921
+    id "member9300"
     male 1
   ]
   node [
-    id 3944
+    id "member13272"
     male 1
   ]
   node [
-    id 3959
+    id "member2177"
     male 1
   ]
   node [
-    id 3960
-    male 1
-  ]
-  node [
-    id 3970
-    male 1
-  ]
-  node [
-    id 3975
-    male 1
-  ]
-  node [
-    id 3990
-    male 1
-  ]
-  node [
-    id 3992
-    male 1
-  ]
-  node [
-    id 4114
-    male 1
-  ]
-  node [
-    id 4115
-    male 1
-  ]
-  node [
-    id 4125
-    male 1
-  ]
-  node [
-    id 4177
-    male 1
-  ]
-  node [
-    id 4197
-    male 1
-  ]
-  node [
-    id 4208
-    male 1
-  ]
-  node [
-    id 4209
-    male 1
-  ]
-  node [
-    id 4214
-    male 1
-  ]
-  node [
-    id 4224
-    male 1
-  ]
-  node [
-    id 4255
-    male 1
-  ]
-  node [
-    id 4293
-    male 1
-  ]
-  node [
-    id 4318
-    male 1
-  ]
-  node [
-    id 4323
-    male 1
-  ]
-  node [
-    id 4376
-    male 1
-  ]
-  node [
-    id 4412
-    male 1
-  ]
-  node [
-    id 4436
-    male 1
-  ]
-  node [
-    id 4468
-    male 1
-  ]
-  node [
-    id 4481
-    male 1
-  ]
-  node [
-    id 4504
-    male 1
-  ]
-  node [
-    id 4508
-    male 1
-  ]
-  node [
-    id 4531
-    male 1
-  ]
-  node [
-    id 4532
-    male 1
-  ]
-  node [
-    id 4698
+    id "member3158"
     male 0
   ]
   node [
-    id 4776
+    id "member712"
     male 1
   ]
   node [
-    id 4808
+    id "member11702"
     male 1
   ]
   node [
-    id 4810
+    id "member6403"
     male 1
   ]
   node [
-    id 4825
+    id "member9908"
     male 1
   ]
   node [
-    id 4828
+    id "member8679"
     male 1
   ]
   node [
-    id 4840
+    id "member6178"
     male 1
   ]
   node [
-    id 4874
+    id "member2813"
     male 1
   ]
   node [
-    id 4881
+    id "member6811"
     male 1
   ]
   node [
-    id 4932
+    id "member11787"
     male 1
   ]
   node [
-    id 4952
+    id "member741"
     male 1
   ]
   node [
-    id 4995
+    id "member7455"
     male 1
   ]
   node [
-    id 5005
+    id "member5083"
     male 1
   ]
   node [
-    id 5009
+    id "member814"
     male 1
   ]
   node [
-    id 5042
+    id "member11886"
     male 1
   ]
   node [
-    id 5082
+    id "member1258"
     male 1
   ]
   node [
-    id 5115
+    id "member8197"
     male 1
   ]
   node [
-    id 5181
+    id "member11861"
     male 1
   ]
   node [
-    id 5182
+    id "member9894"
     male 1
   ]
   node [
-    id 5233
+    id "member1176"
     male 1
   ]
   node [
-    id 5350
+    id "member9816"
     male 1
   ]
   node [
-    id 5398
+    id "member12565"
     male 1
   ]
   node [
-    id 5406
+    id "member1132"
     male 1
   ]
   node [
-    id 5408
+    id "member12190"
     male 1
   ]
   node [
-    id 5422
+    id "member8381"
     male 1
   ]
   node [
-    id 5462
+    id "member444"
     male 1
   ]
   node [
-    id 5495
+    id "member9376"
     male 1
   ]
   node [
-    id 5528
-    male 1
-  ]
-  node [
-    id 5541
-    male 1
-  ]
-  node [
-    id 5543
-    male 1
-  ]
-  node [
-    id 5557
-    male 1
-  ]
-  node [
-    id 5558
-    male 1
-  ]
-  node [
-    id 5561
-    male 1
-  ]
-  node [
-    id 5585
-    male 1
-  ]
-  node [
-    id 5619
-    male 1
-  ]
-  node [
-    id 5626
-    male 1
-  ]
-  node [
-    id 5655
+    id "member6187"
     male 0
   ]
   node [
-    id 5745
+    id "member7496"
     male 1
   ]
   node [
-    id 5788
+    id "member9695"
     male 1
   ]
   node [
-    id 5811
+    id "member150"
     male 1
   ]
   node [
-    id 5830
-    male 1
-  ]
-  node [
-    id 5841
-    male 1
-  ]
-  node [
-    id 5876
-    male 1
-  ]
-  node [
-    id 5999
-    male 1
-  ]
-  node [
-    id 6000
-    male 1
-  ]
-  node [
-    id 6008
-    male 1
-  ]
-  node [
-    id 6036
-    male 1
-  ]
-  node [
-    id 6049
-    male 1
-  ]
-  node [
-    id 6060
-    male 1
-  ]
-  node [
-    id 6065
-    male 1
-  ]
-  node [
-    id 6077
-    male 1
-  ]
-  node [
-    id 6110
-    male 1
-  ]
-  node [
-    id 6121
-    male 1
-  ]
-  node [
-    id 6131
-    male 1
-  ]
-  node [
-    id 6143
-    male 1
-  ]
-  node [
-    id 6163
-    male 1
-  ]
-  node [
-    id 6177
-    male 1
-  ]
-  node [
-    id 6182
-    male 1
-  ]
-  node [
-    id 6186
+    id "member1626"
     male 0
   ]
   node [
-    id 6202
+    id "member10899"
     male 1
   ]
   node [
-    id 6237
+    id "member3536"
     male 1
   ]
   node [
-    id 6402
+    id "member7712"
     male 1
   ]
   node [
-    id 6567
+    id "member6122"
     male 1
   ]
   node [
-    id 6595
+    id "member1734"
     male 1
   ]
   node [
-    id 6676
+    id "member8856"
     male 1
   ]
   node [
-    id 6678
+    id "member5529"
     male 1
   ]
   node [
-    id 6684
+    id "member4225"
     male 1
   ]
   node [
-    id 6699
+    id "member2958"
     male 1
   ]
   node [
-    id 6746
+    id "member12777"
     male 1
   ]
   node [
-    id 6810
+    id "member10242"
     male 1
   ]
   node [
-    id 6822
+    id "member8169"
     male 1
   ]
   node [
-    id 6866
+    id "member2546"
     male 1
   ]
   node [
-    id 6888
+    id "member853"
     male 1
   ]
   node [
-    id 6945
+    id "member8901"
     male 1
   ]
   node [
-    id 6964
+    id "member4294"
     male 1
   ]
   node [
-    id 6973
+    id "member8435"
     male 1
   ]
   node [
-    id 7016
+    id "member11139"
     male 1
   ]
   node [
-    id 7029
+    id "member12549"
     male 1
   ]
   node [
-    id 7032
+    id "member8468"
     male 1
   ]
   node [
-    id 7064
+    id "member8613"
     male 1
   ]
   node [
-    id 7069
-    male 1
-  ]
-  node [
-    id 7095
+    id "member2896"
     male 0
   ]
   node [
-    id 7102
+    id "member9820"
     male 1
   ]
   node [
-    id 7155
+    id "member6164"
     male 1
   ]
   node [
-    id 7179
+    id "member1173"
     male 1
   ]
   node [
-    id 7208
+    id "member1003"
     male 1
   ]
   node [
-    id 7213
+    id "member3296"
     male 1
   ]
   node [
-    id 7216
+    id "member1192"
     male 1
   ]
   node [
-    id 7297
+    id "member3583"
     male 1
   ]
   node [
-    id 7319
+    id "member10432"
     male 1
   ]
   node [
-    id 7333
-    male 1
-  ]
-  node [
-    id 7356
-    male 1
-  ]
-  node [
-    id 7430
-    male 1
-  ]
-  node [
-    id 7435
-    male 1
-  ]
-  node [
-    id 7454
-    male 1
-  ]
-  node [
-    id 7457
-    male 1
-  ]
-  node [
-    id 7476
-    male 1
-  ]
-  node [
-    id 7478
-    male 1
-  ]
-  node [
-    id 7488
-    male 1
-  ]
-  node [
-    id 7495
-    male 1
-  ]
-  node [
-    id 7497
-    male 1
-  ]
-  node [
-    id 7511
-    male 1
-  ]
-  node [
-    id 7535
-    male 1
-  ]
-  node [
-    id 7536
-    male 1
-  ]
-  node [
-    id 7542
-    male 1
-  ]
-  node [
-    id 7698
-    male 1
-  ]
-  node [
-    id 7711
-    male 1
-  ]
-  node [
-    id 7756
-    male 1
-  ]
-  node [
-    id 7794
-    male 1
-  ]
-  node [
-    id 7837
-    male 1
-  ]
-  node [
-    id 7862
-    male 1
-  ]
-  node [
-    id 7891
-    male 1
-  ]
-  node [
-    id 7916
+    id "member2131"
     male 0
   ]
   node [
-    id 7946
+    id "member64"
     male 1
   ]
   node [
-    id 7965
+    id "member158"
     male 1
   ]
   node [
-    id 8059
+    id "member10360"
     male 1
   ]
   node [
-    id 8084
+    id "member2553"
     male 1
   ]
   node [
-    id 8100
+    id "member9694"
     male 1
   ]
   node [
-    id 8137
+    id "member12471"
+    male 1
+  ]
+  node [
+    id "member4533"
+    male 1
+  ]
+  node [
+    id "member45"
+    male 1
+  ]
+  node [
+    id "member11968"
+    male 1
+  ]
+  node [
+    id "member13020"
+    male 1
+  ]
+  node [
+    id "member11363"
     male 0
   ]
   node [
-    id 8167
+    id "member6238"
     male 1
   ]
   node [
-    id 8168
+    id "member2149"
     male 1
   ]
   node [
-    id 8196
+    id "member8660"
     male 1
   ]
   node [
-    id 8203
+    id "member3425"
+    male 1
+  ]
+  node [
+    id "member1359"
+    male 1
+  ]
+  node [
+    id "member12032"
     male 0
   ]
   node [
-    id 8217
+    id "member8326"
     male 1
   ]
   node [
-    id 8268
+    id "member5182"
     male 1
   ]
   node [
-    id 8297
+    id "member1507"
     male 1
   ]
   node [
-    id 8325
+    id "member2261"
     male 1
   ]
   node [
-    id 8346
+    id "member12463"
     male 1
   ]
   node [
-    id 8370
+    id "member4841"
     male 1
   ]
   node [
-    id 8378
+    id "member2733"
     male 1
   ]
   node [
-    id 8380
+    id "member10329"
     male 1
   ]
   node [
-    id 8390
+    id "member1781"
     male 1
   ]
   node [
-    id 8414
+    id "member7070"
     male 1
   ]
   node [
-    id 8422
+    id "member767"
     male 1
   ]
   node [
-    id 8434
+    id "member3412"
     male 1
   ]
   node [
-    id 8467
+    id "member12353"
     male 1
   ]
   node [
-    id 8493
+    id "member12506"
+    male 1
+  ]
+  node [
+    id "member13200"
+    male 1
+  ]
+  node [
+    id "member1220"
+    male 1
+  ]
+  node [
+    id "member365"
+    male 1
+  ]
+  node [
+    id "member987"
+    male 1
+  ]
+  node [
+    id "member3469"
+    male 1
+  ]
+  node [
+    id "member12550"
+    male 1
+  ]
+  node [
+    id "member12"
+    male 1
+  ]
+  node [
+    id "member10888"
+    male 1
+  ]
+  node [
+    id "member1702"
+    male 1
+  ]
+  node [
+    id "member2369"
+    male 1
+  ]
+  node [
+    id "member10547"
+    male 1
+  ]
+  node [
+    id "member3914"
+    male 1
+  ]
+  node [
+    id "member9857"
+    male 1
+  ]
+  node [
+    id "member270"
+    male 1
+  ]
+  node [
+    id "member12555"
+    male 1
+  ]
+  node [
+    id "member7103"
+    male 1
+  ]
+  node [
+    id "member4256"
+    male 1
+  ]
+  node [
+    id "member701"
+    male 1
+  ]
+  node [
+    id "member8085"
+    male 1
+  ]
+  node [
+    id "member9643"
+    male 1
+  ]
+  node [
+    id "member9954"
+    male 1
+  ]
+  node [
+    id "member7477"
+    male 1
+  ]
+  node [
+    id "member12468"
+    male 1
+  ]
+  node [
+    id "member7065"
+    male 1
+  ]
+  node [
+    id "member7180"
+    male 1
+  ]
+  node [
+    id "member6677"
+    male 1
+  ]
+  node [
+    id "member9217"
+    male 1
+  ]
+  node [
+    id "member5407"
+    male 1
+  ]
+  node [
+    id "member11569"
+    male 1
+  ]
+  node [
+    id "member6061"
+    male 1
+  ]
+  node [
+    id "member5542"
+    male 1
+  ]
+  node [
+    id "member2888"
+    male 1
+  ]
+  node [
+    id "member3101"
+    male 1
+  ]
+  node [
+    id "member4509"
+    male 1
+  ]
+  node [
+    id "member1044"
+    male 1
+  ]
+  node [
+    id "member9476"
+    male 1
+  ]
+  node [
+    id "member11885"
+    male 1
+  ]
+  node [
+    id "member2541"
+    male 1
+  ]
+  node [
+    id "member3770"
+    male 1
+  ]
+  node [
+    id "member7512"
+    male 1
+  ]
+  node [
+    id "member8597"
+    male 1
+  ]
+  node [
+    id "member1654"
+    male 1
+  ]
+  node [
+    id "member12941"
     male 0
   ]
   node [
-    id 8580
+    id "member7947"
     male 1
   ]
   node [
-    id 8596
+    id "member2101"
     male 1
   ]
   node [
-    id 8612
+    id "member7838"
     male 1
   ]
   node [
-    id 8616
+    id "member228"
     male 1
   ]
   node [
-    id 8659
-    male 1
-  ]
-  node [
-    id 8664
-    male 1
-  ]
-  node [
-    id 8678
-    male 1
-  ]
-  node [
-    id 8685
-    male 1
-  ]
-  node [
-    id 8698
-    male 1
-  ]
-  node [
-    id 8725
+    id "member3820"
     male 0
   ]
   node [
-    id 8730
+    id "member7699"
     male 1
   ]
   node [
-    id 8827
+    id "member2326"
     male 1
   ]
   node [
-    id 8855
+    id "member278"
     male 1
   ]
   node [
-    id 8873
+    id "member1029"
     male 1
   ]
   node [
-    id 8893
+    id "member5234"
     male 1
   ]
   node [
-    id 8900
+    id "member3921"
     male 1
   ]
   node [
-    id 8994
+    id "member1293"
     male 1
   ]
   node [
-    id 9008
+    id "member11493"
     male 1
   ]
   node [
-    id 9010
+    id "member1191"
     male 1
   ]
   node [
-    id 9070
+    id "member3945"
     male 1
   ]
   node [
-    id 9103
+    id "member1855"
     male 1
   ]
   node [
-    id 9109
+    id "member12453"
+    male 1
+  ]
+  node [
+    id "member9387"
+    male 1
+  ]
+  node [
+    id "member3437"
+    male 1
+  ]
+  node [
+    id "member6685"
+    male 1
+  ]
+  node [
+    id "member1484"
+    male 1
+  ]
+  node [
+    id "member9199"
+    male 1
+  ]
+  node [
+    id "member4875"
+    male 1
+  ]
+  node [
+    id "member1361"
+    male 1
+  ]
+  node [
+    id "member1597"
+    male 1
+  ]
+  node [
+    id "member10615"
+    male 1
+  ]
+  node [
+    id "member13153"
+    male 1
+  ]
+  node [
+    id "member6111"
+    male 1
+  ]
+  node [
+    id "member8726"
     male 0
   ]
   node [
-    id 9111
+    id "member11045"
     male 1
   ]
   node [
-    id 9158
+    id "member3855"
     male 1
   ]
   node [
-    id 9173
+    id "member6001"
     male 1
   ]
   node [
-    id 9191
+    id "member135"
     male 1
   ]
   node [
-    id 9198
+    id "member9009"
     male 1
   ]
   node [
-    id 9203
+    id "member1842"
     male 1
   ]
   node [
-    id 9216
+    id "member448"
     male 1
   ]
   node [
-    id 9232
+    id "member696"
     male 1
   ]
   node [
-    id 9241
+    id "member3040"
     male 1
   ]
   node [
-    id 9299
+    id "member4826"
     male 1
   ]
   node [
-    id 9329
-    male 1
-  ]
-  node [
-    id 9375
-    male 1
-  ]
-  node [
-    id 9386
-    male 1
-  ]
-  node [
-    id 9394
-    male 1
-  ]
-  node [
-    id 9396
-    male 1
-  ]
-  node [
-    id 9452
-    male 1
-  ]
-  node [
-    id 9456
-    male 1
-  ]
-  node [
-    id 9458
-    male 1
-  ]
-  node [
-    id 9466
-    male 1
-  ]
-  node [
-    id 9475
-    male 1
-  ]
-  node [
-    id 9503
-    male 1
-  ]
-  node [
-    id 9547
-    male 1
-  ]
-  node [
-    id 9576
-    male 1
-  ]
-  node [
-    id 9606
-    male 1
-  ]
-  node [
-    id 9614
+    id "member10578"
     male 0
   ]
   node [
-    id 9627
+    id "member2124"
     male 1
   ]
   node [
-    id 9642
+    id "member2417"
     male 1
   ]
   node [
-    id 9649
+    id "member12212"
     male 1
   ]
   node [
-    id 9651
+    id "member4469"
     male 1
   ]
   node [
-    id 9693
+    id "member5831"
     male 1
   ]
   node [
-    id 9694
+    id "member10856"
     male 1
   ]
   node [
-    id 9730
+    id "member1089"
     male 1
   ]
   node [
-    id 9752
+    id "member4437"
     male 1
   ]
   node [
-    id 9794
+    id "member2409"
     male 1
   ]
   node [
-    id 9801
+    id "member11822"
     male 1
   ]
   node [
-    id 9815
+    id "member1391"
     male 1
   ]
   node [
-    id 9819
+    id "member7017"
     male 1
   ]
   node [
-    id 9856
+    id "member9753"
     male 1
   ]
   node [
-    id 9893
+    id "member11285"
     male 1
   ]
   node [
-    id 9907
-    male 1
-  ]
-  node [
-    id 9940
-    male 1
-  ]
-  node [
-    id 9953
-    male 1
-  ]
-  node [
-    id 9982
-    male 1
-  ]
-  node [
-    id 10005
-    male 1
-  ]
-  node [
-    id 10009
-    male 1
-  ]
-  node [
-    id 10048
+    id "member10049"
     male 0
   ]
   node [
-    id 10062
+    id "member57"
     male 1
   ]
   node [
-    id 10069
+    id "member4532"
     male 1
   ]
   node [
-    id 10105
+    id "member1282"
     male 1
   ]
   node [
-    id 10125
+    id "member10252"
     male 1
   ]
   node [
-    id 10146
+    id "member9459"
     male 1
   ]
   node [
-    id 10205
+    id "member9159"
     male 1
   ]
   node [
-    id 10226
+    id "member5562"
     male 1
   ]
   node [
-    id 10241
+    id "member10010"
     male 1
   ]
   node [
-    id 10251
-    male 1
-  ]
-  node [
-    id 10306
-    male 1
-  ]
-  node [
-    id 10311
-    male 1
-  ]
-  node [
-    id 10316
-    male 1
-  ]
-  node [
-    id 10328
-    male 1
-  ]
-  node [
-    id 10359
-    male 1
-  ]
-  node [
-    id 10362
-    male 1
-  ]
-  node [
-    id 10401
+    id "member12003"
     male 0
   ]
   node [
-    id 10403
+    id "member11023"
     male 1
   ]
   node [
-    id 10431
+    id "member11294"
     male 1
   ]
   node [
-    id 10471
+    id "member3235"
     male 1
   ]
   node [
-    id 10490
-    male 1
-  ]
-  node [
-    id 10511
-    male 1
-  ]
-  node [
-    id 10546
-    male 1
-  ]
-  node [
-    id 10560
-    male 1
-  ]
-  node [
-    id 10577
+    id "member11619"
     male 0
   ]
   node [
-    id 10598
+    id "member10599"
     male 1
   ]
   node [
-    id 10614
+    id "member2112"
     male 1
   ]
   node [
-    id 10616
+    id "member4777"
     male 1
   ]
   node [
-    id 10636
+    id "member11260"
     male 1
   ]
   node [
-    id 10672
+    id "member1316"
     male 1
   ]
   node [
-    id 10677
+    id "member1121"
     male 1
   ]
   node [
-    id 10712
+    id "member8617"
     male 1
   ]
   node [
-    id 10720
+    id "member6867"
     male 1
   ]
   node [
-    id 10742
+    id "member6747"
     male 1
   ]
   node [
-    id 10762
+    id "member3501"
     male 1
   ]
   node [
-    id 10788
+    id "member2561"
+    male 1
+  ]
+  node [
+    id "member162"
+    male 1
+  ]
+  node [
+    id "member1551"
+    male 1
+  ]
+  node [
+    id "member1820"
+    male 1
+  ]
+  node [
+    id "member8138"
     male 0
   ]
   node [
-    id 10800
+    id "member137"
     male 1
   ]
   node [
-    id 10855
+    id "member11462"
     male 1
   ]
   node [
-    id 10887
+    id "member4953"
     male 1
   ]
   node [
-    id 10898
+    id "member3393"
     male 1
   ]
   node [
-    id 10954
+    id "member1299"
     male 1
   ]
   node [
-    id 10967
+    id "member3991"
     male 1
   ]
   node [
-    id 10969
-    male 1
-  ]
-  node [
-    id 11002
-    male 1
-  ]
-  node [
-    id 11022
-    male 1
-  ]
-  node [
-    id 11035
-    male 1
-  ]
-  node [
-    id 11044
-    male 1
-  ]
-  node [
-    id 11072
-    male 1
-  ]
-  node [
-    id 11081
-    male 1
-  ]
-  node [
-    id 11099
-    male 1
-  ]
-  node [
-    id 11115
-    male 1
-  ]
-  node [
-    id 11125
-    male 1
-  ]
-  node [
-    id 11126
-    male 1
-  ]
-  node [
-    id 11133
-    male 1
-  ]
-  node [
-    id 11135
-    male 1
-  ]
-  node [
-    id 11138
-    male 1
-  ]
-  node [
-    id 11147
-    male 1
-  ]
-  node [
-    id 11158
-    male 1
-  ]
-  node [
-    id 11210
-    male 1
-  ]
-  node [
-    id 11237
-    male 1
-  ]
-  node [
-    id 11253
-    male 1
-  ]
-  node [
-    id 11259
-    male 1
-  ]
-  node [
-    id 11284
-    male 1
-  ]
-  node [
-    id 11293
-    male 1
-  ]
-  node [
-    id 11358
-    male 1
-  ]
-  node [
-    id 11362
+    id "member8494"
     male 0
   ]
   node [
-    id 11370
+    id "member1759"
     male 1
   ]
   node [
-    id 11373
+    id "member817"
     male 1
   ]
   node [
-    id 11387
+    id "member1664"
     male 1
   ]
   node [
-    id 11421
+    id "member7795"
     male 1
   ]
   node [
-    id 11428
+    id "member9457"
     male 1
   ]
   node [
-    id 11437
+    id "member4882"
     male 1
   ]
   node [
-    id 11443
+    id "member2862"
     male 1
   ]
   node [
-    id 11452
-    male 1
-  ]
-  node [
-    id 11456
-    male 1
-  ]
-  node [
-    id 11461
-    male 1
-  ]
-  node [
-    id 11463
-    male 1
-  ]
-  node [
-    id 11481
-    male 1
-  ]
-  node [
-    id 11492
-    male 1
-  ]
-  node [
-    id 11568
-    male 1
-  ]
-  node [
-    id 11603
-    male 1
-  ]
-  node [
-    id 11604
-    male 1
-  ]
-  node [
-    id 11618
+    id "member7917"
     male 0
   ]
   node [
-    id 11701
+    id "member11371"
     male 1
   ]
   node [
-    id 11786
+    id "member8168"
     male 1
   ]
   node [
-    id 11800
+    id "member6132"
     male 1
   ]
   node [
-    id 11821
-    male 1
-  ]
-  node [
-    id 11860
-    male 1
-  ]
-  node [
-    id 11881
+    id "member7096"
     male 0
   ]
   node [
-    id 11884
-    male 1
-  ]
-  node [
-    id 11885
-    male 1
-  ]
-  node [
-    id 11962
-    male 1
-  ]
-  node [
-    id 11967
-    male 1
-  ]
-  node [
-    id 12002
+    id "member2892"
     male 0
   ]
   node [
-    id 12030
+    id "member12659"
     male 1
   ]
   node [
-    id 12031
+    id "member7536"
+    male 1
+  ]
+  node [
+    id "member12774"
+    male 1
+  ]
+  node [
+    id "member9504"
+    male 1
+  ]
+  node [
+    id "member399"
+    male 1
+  ]
+  node [
+    id "member1027"
+    male 1
+  ]
+  node [
+    id "member11134"
+    male 1
+  ]
+  node [
+    id "member2482"
+    male 1
+  ]
+  node [
+    id "member6679"
+    male 1
+  ]
+  node [
+    id "member11238"
+    male 1
+  ]
+  node [
+    id "member812"
+    male 1
+  ]
+  node [
+    id "member438"
+    male 1
+  ]
+  node [
+    id "member6066"
+    male 1
+  ]
+  node [
+    id "member3387"
+    male 1
+  ]
+  node [
+    id "member9397"
+    male 1
+  ]
+  node [
+    id "member12063"
+    male 1
+  ]
+  node [
+    id "member5116"
+    male 1
+  ]
+  node [
+    id "member3710"
+    male 1
+  ]
+  node [
+    id "member5399"
+    male 1
+  ]
+  node [
+    id "member8101"
+    male 1
+  ]
+  node [
+    id "member11126"
+    male 1
+  ]
+  node [
+    id "member3731"
+    male 1
+  ]
+  node [
+    id "member2366"
+    male 1
+  ]
+  node [
+    id "member13235"
+    male 1
+  ]
+  node [
+    id "member10721"
+    male 1
+  ]
+  node [
+    id "member9204"
+    male 1
+  ]
+  node [
+    id "member6203"
+    male 1
+  ]
+  node [
+    id "member3010"
+    male 1
+  ]
+  node [
+    id "member974"
     male 0
   ]
   node [
-    id 12062
+    id "member7479"
     male 1
   ]
   node [
-    id 12070
+    id "member657"
     male 1
   ]
   node [
-    id 12119
+    id "member6889"
     male 1
   ]
   node [
-    id 12189
+    id "member13105"
     male 1
   ]
   node [
-    id 12211
+    id "member10673"
     male 1
   ]
   node [
-    id 12322
+    id "member6000"
     male 1
   ]
   node [
-    id 12352
+    id "member4126"
     male 1
   ]
   node [
-    id 12394
-    male 1
-  ]
-  node [
-    id 12436
-    male 1
-  ]
-  node [
-    id 12452
-    male 1
-  ]
-  node [
-    id 12462
-    male 1
-  ]
-  node [
-    id 12467
-    male 1
-  ]
-  node [
-    id 12470
-    male 1
-  ]
-  node [
-    id 12482
-    male 1
-  ]
-  node [
-    id 12483
-    male 1
-  ]
-  node [
-    id 12505
-    male 1
-  ]
-  node [
-    id 12548
-    male 1
-  ]
-  node [
-    id 12549
-    male 1
-  ]
-  node [
-    id 12554
-    male 1
-  ]
-  node [
-    id 12558
-    male 1
-  ]
-  node [
-    id 12564
-    male 1
-  ]
-  node [
-    id 12648
-    male 1
-  ]
-  node [
-    id 12652
-    male 1
-  ]
-  node [
-    id 12658
-    male 1
-  ]
-  node [
-    id 12772
+    id "member5656"
     male 0
   ]
   node [
-    id 12773
+    id "member2515"
     male 1
   ]
   node [
-    id 12776
-    male 1
-  ]
-  node [
-    id 12809
-    male 1
-  ]
-  node [
-    id 12892
-    male 1
-  ]
-  node [
-    id 12940
+    id "member13183"
     male 0
   ]
   node [
-    id 13003
+    id "member68"
     male 1
   ]
   node [
-    id 13019
+    id "member46"
     male 1
   ]
   node [
-    id 13052
+    id "member6965"
     male 1
   ]
   node [
-    id 13084
+    id "member5006"
     male 1
   ]
   node [
-    id 13096
+    id "member11127"
     male 1
   ]
   node [
-    id 13097
+    id "member1700"
     male 1
   ]
   node [
-    id 13104
+    id "member10227"
     male 1
   ]
   node [
-    id 13152
+    id "member3170"
     male 1
   ]
   node [
-    id 13153
+    id "member5409"
     male 1
   ]
   node [
-    id 13156
+    id "member10317"
     male 1
   ]
   node [
-    id 13182
+    id "member13004"
+    male 1
+  ]
+  node [
+    id "member11159"
+    male 1
+  ]
+  node [
+    id "member12649"
+    male 1
+  ]
+  node [
+    id "member1950"
     male 0
   ]
   node [
-    id 13199
+    id "member4215"
     male 1
   ]
   node [
-    id 13234
+    id "member7543"
     male 1
   ]
   node [
-    id 13263
+    id "member11422"
+    male 1
+  ]
+  node [
+    id "member5183"
+    male 1
+  ]
+  node [
+    id "member6596"
+    male 1
+  ]
+  node [
+    id "member11882"
     male 0
   ]
   node [
-    id 13271
+    id "member5544"
+    male 1
+  ]
+  node [
+    id "member163"
+    male 1
+  ]
+  node [
+    id "member864"
+    male 1
+  ]
+  node [
+    id "member1987"
+    male 1
+  ]
+  node [
+    id "member4210"
+    male 1
+  ]
+  node [
+    id "member318"
+    male 1
+  ]
+  node [
+    id "member86"
+    male 1
+  ]
+  node [
+    id "member2500"
     male 1
   ]
   edge [
-    source 1358
-    target 4810
+    source "member1877"
+    target "member8138"
+    weight 14
   ]
   edge [
-    source 1431
-    target 7095
+    source "member6164"
+    target "member8138"
+    weight 20
   ]
   edge [
-    source 7495
-    target 7497
+    source "member8138"
+    target "member11363"
+    weight 21
   ]
   edge [
-    source 2560
-    target 11821
+    source "member1877"
+    target "member6164"
+    weight 16
   ]
   edge [
-    source 4412
-    target 4531
+    source "member1877"
+    target "member11363"
+    weight 17
   ]
   edge [
-    source 5398
-    target 10898
+    source "member6164"
+    target "member11363"
+    weight 23
   ]
   edge [
-    source 33
-    target 10125
+    source "member371"
+    target "member1751"
+    weight 3
   ]
   edge [
-    source 1750
-    target 3959
+    source "member371"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 1596
-    target 2732
+    source "member371"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 1043
-    target 2031
+    source "member371"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 1010
-    target 9173
+    source "member371"
+    target "member7180"
+    weight 2
   ]
   edge [
-    source 1145
-    target 13153
+    source "member371"
+    target "member4319"
+    weight 2
   ]
   edge [
-    source 275
-    target 8346
+    source "member371"
+    target "member1597"
+    weight 4
   ]
   edge [
-    source 5830
-    target 12892
+    source "member371"
+    target "member12777"
+    weight 4
   ]
   edge [
-    source 1954
-    target 3874
+    source "member111"
+    target "member371"
+    weight 3
   ]
   edge [
-    source 6945
-    target 8378
+    source "member1751"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 3819
-    target 6008
+    source "member1747"
+    target "member1751"
+    weight 1
   ]
   edge [
-    source 227
-    target 11387
+    source "member1751"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 11
-    target 7333
+    source "member1751"
+    target "member7180"
+    weight 2
   ]
   edge [
-    source 1145
-    target 4293
+    source "member1751"
+    target "member4319"
+    weight 2
   ]
   edge [
-    source 8725
-    target 8827
+    source "member1597"
+    target "member1751"
+    weight 3
   ]
   edge [
-    source 3411
-    target 11138
+    source "member1751"
+    target "member12777"
+    weight 3
   ]
   edge [
-    source 6049
-    target 11618
+    source "member111"
+    target "member1751"
+    weight 3
   ]
   edge [
-    source 1123
-    target 2176
+    source "member1747"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 986
-    target 6866
+    source "member2888"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 477
-    target 4508
+    source "member7180"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 3392
-    target 12436
+    source "member4319"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 8137
-    target 8168
+    source "member1597"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 3874
-    target 6060
+    source "member11569"
+    target "member12777"
+    weight 1
   ]
   edge [
-    source 33
-    target 4468
+    source "member111"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 11962
-    target 13199
+    source "member1747"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 5233
-    target 5619
+    source "member1747"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 3345
-    target 10146
+    source "member1747"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 7319
-    target 12002
+    source "member1597"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 538
-    target 8167
+    source "member1747"
+    target "member12777"
+    weight 1
   ]
   edge [
-    source 880
-    target 1780
+    source "member111"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 6182
-    target 7946
+    source "member2888"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 1954
-    target 3730
+    source "member2888"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 3436
-    target 13153
+    source "member1597"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 9693
-    target 11884
+    source "member2888"
+    target "member12777"
+    weight 1
   ]
   edge [
-    source 6567
-    target 12483
+    source "member111"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 2260
-    target 12467
+    source "member4319"
+    target "member7180"
+    weight 2
   ]
   edge [
-    source 63
-    target 11437
+    source "member1597"
+    target "member7180"
+    weight 2
   ]
   edge [
-    source 700
-    target 1175
+    source "member7180"
+    target "member12777"
+    weight 2
   ]
   edge [
-    source 4412
-    target 6000
+    source "member111"
+    target "member7180"
+    weight 3
   ]
   edge [
-    source 700
-    target 4293
+    source "member1597"
+    target "member4319"
+    weight 2
   ]
   edge [
-    source 1876
-    target 10226
+    source "member4319"
+    target "member12777"
+    weight 2
   ]
   edge [
-    source 8325
-    target 9158
+    source "member111"
+    target "member4319"
+    weight 2
   ]
   edge [
-    source 1701
-    target 13263
+    source "member1597"
+    target "member12777"
+    weight 5
   ]
   edge [
-    source 4532
-    target 6065
+    source "member111"
+    target "member1597"
+    weight 3
   ]
   edge [
-    source 7711
-    target 12462
+    source "member111"
+    target "member12777"
+    weight 3
   ]
   edge [
-    source 447
-    target 5541
+    source "member1220"
+    target "member10856"
+    weight 2
   ]
   edge [
-    source 11821
-    target 11884
+    source "member1220"
+    target "member10404"
+    weight 1
   ]
   edge [
-    source 8414
-    target 9730
+    source "member1220"
+    target "member10721"
+    weight 2
   ]
   edge [
-    source 1746
-    target 8167
+    source "member1220"
+    target "member5627"
+    weight 2
   ]
   edge [
-    source 891
-    target 2957
+    source "member1220"
+    target "member3048"
+    weight 2
   ]
   edge [
-    source 121
-    target 13104
+    source "member1220"
+    target "member2500"
+    weight 1
   ]
   edge [
-    source 11701
-    target 12462
+    source "member1220"
+    target "member5010"
+    weight 2
   ]
   edge [
-    source 1175
-    target 4293
+    source "member10404"
+    target "member10856"
+    weight 1
   ]
   edge [
-    source 4995
-    target 6177
+    source "member10721"
+    target "member10856"
+    weight 2
   ]
   edge [
-    source 5655
-    target 7535
+    source "member5627"
+    target "member10856"
+    weight 2
   ]
   edge [
-    source 6202
-    target 7179
+    source "member3048"
+    target "member10856"
+    weight 2
   ]
   edge [
-    source 21
-    target 7095
+    source "member2500"
+    target "member10856"
+    weight 1
   ]
   edge [
-    source 3769
-    target 12809
+    source "member5010"
+    target "member10856"
+    weight 2
   ]
   edge [
-    source 1177
-    target 3436
+    source "member10404"
+    target "member10721"
+    weight 1
   ]
   edge [
-    source 1358
-    target 11962
+    source "member5627"
+    target "member10404"
+    weight 1
   ]
   edge [
-    source 2130
-    target 12070
+    source "member3048"
+    target "member10404"
+    weight 1
   ]
   edge [
-    source 1733
-    target 2571
+    source "member2500"
+    target "member10404"
+    weight 1
   ]
   edge [
-    source 6866
-    target 10048
+    source "member5010"
+    target "member10404"
+    weight 1
   ]
   edge [
-    source 1431
-    target 8685
+    source "member5627"
+    target "member10721"
+    weight 2
   ]
   edge [
-    source 8873
-    target 10954
+    source "member3048"
+    target "member10721"
+    weight 2
   ]
   edge [
-    source 8084
-    target 11962
+    source "member2500"
+    target "member10721"
+    weight 1
   ]
   edge [
-    source 6945
-    target 7488
+    source "member5010"
+    target "member10721"
+    weight 2
   ]
   edge [
-    source 5115
-    target 7032
+    source "member3048"
+    target "member5627"
+    weight 2
   ]
   edge [
-    source 863
-    target 2571
+    source "member2500"
+    target "member5627"
+    weight 1
   ]
   edge [
-    source 1625
-    target 7095
+    source "member5010"
+    target "member5627"
+    weight 2
   ]
   edge [
-    source 973
-    target 11370
+    source "member2500"
+    target "member3048"
+    weight 1
   ]
   edge [
-    source 1112
-    target 1240
+    source "member3048"
+    target "member5010"
+    weight 2
   ]
   edge [
-    source 227
-    target 2998
+    source "member2500"
+    target "member5010"
+    weight 1
   ]
   edge [
-    source 2123
-    target 9815
+    source "member7458"
+    target "member9857"
+    weight 2
   ]
   edge [
-    source 2514
-    target 4224
+    source "member86"
+    target "member9857"
+    weight 2
   ]
   edge [
-    source 740
-    target 9819
+    source "member335"
+    target "member9857"
+    weight 1
   ]
   edge [
-    source 277
-    target 3264
+    source "member2687"
+    target "member9857"
+    weight 2
   ]
   edge [
-    source 7478
-    target 7542
+    source "member86"
+    target "member7458"
+    weight 2
   ]
   edge [
-    source 7064
-    target 7179
+    source "member335"
+    target "member7458"
+    weight 1
   ]
   edge [
-    source 8167
-    target 8698
+    source "member2687"
+    target "member7458"
+    weight 2
   ]
   edge [
-    source 8422
-    target 8659
+    source "member86"
+    target "member335"
+    weight 1
   ]
   edge [
-    source 549
-    target 9730
+    source "member86"
+    target "member2687"
+    weight 2
   ]
   edge [
-    source 7430
-    target 11437
+    source "member335"
+    target "member2687"
+    weight 1
   ]
   edge [
-    source 2325
-    target 10969
+    source "member46"
+    target "member1042"
+    weight 3
   ]
   edge [
-    source 169
-    target 9329
+    source "member214"
+    target "member1042"
+    weight 3
   ]
   edge [
-    source 3229
-    target 11259
+    source "member68"
+    target "member1042"
+    weight 3
   ]
   edge [
-    source 8325
-    target 10712
+    source "member1042"
+    target "member3006"
+    weight 3
   ]
   edge [
-    source 11072
-    target 11099
+    source "member219"
+    target "member1042"
+    weight 2
   ]
   edge [
-    source 4208
-    target 11022
+    source "member1042"
+    target "member1987"
+    weight 2
   ]
   edge [
-    source 4504
-    target 5422
+    source "member1042"
+    target "member5812"
+    weight 3
   ]
   edge [
-    source 4318
-    target 11568
+    source "member46"
+    target "member214"
+    weight 4
   ]
   edge [
-    source 1190
-    target 1281
+    source "member46"
+    target "member68"
+    weight 4
   ]
   edge [
-    source 7029
-    target 10359
+    source "member46"
+    target "member3006"
+    weight 4
   ]
   edge [
-    source 3047
-    target 5626
+    source "member46"
+    target "member219"
+    weight 2
   ]
   edge [
-    source 4810
-    target 9815
+    source "member46"
+    target "member1987"
+    weight 2
   ]
   edge [
-    source 2998
-    target 10954
+    source "member46"
+    target "member5812"
+    weight 4
   ]
   edge [
-    source 63
-    target 7069
+    source "member68"
+    target "member214"
+    weight 4
   ]
   edge [
-    source 370
-    target 6237
+    source "member214"
+    target "member3006"
+    weight 4
   ]
   edge [
-    source 110
-    target 7064
+    source "member214"
+    target "member219"
+    weight 2
   ]
   edge [
-    source 9109
-    target 11022
+    source "member214"
+    target "member1987"
+    weight 2
   ]
   edge [
-    source 275
-    target 981
+    source "member214"
+    target "member5812"
+    weight 4
   ]
   edge [
-    source 9614
-    target 11603
+    source "member68"
+    target "member3006"
+    weight 4
   ]
   edge [
-    source 7179
-    target 11568
+    source "member68"
+    target "member219"
+    weight 2
   ]
   edge [
-    source 2148
-    target 4776
+    source "member68"
+    target "member1987"
+    weight 2
   ]
   edge [
-    source 443
-    target 4995
+    source "member68"
+    target "member5812"
+    weight 4
   ]
   edge [
-    source 1026
-    target 11237
+    source "member219"
+    target "member3006"
+    weight 2
   ]
   edge [
-    source 1746
-    target 13104
+    source "member1987"
+    target "member3006"
+    weight 2
   ]
   edge [
-    source 5528
-    target 7965
+    source "member3006"
+    target "member5812"
+    weight 4
   ]
   edge [
-    source 7208
-    target 11860
+    source "member219"
+    target "member1987"
+    weight 2
   ]
   edge [
-    source 4698
-    target 5558
+    source "member219"
+    target "member5812"
+    weight 2
   ]
   edge [
-    source 398
-    target 8370
+    source "member1987"
+    target "member5812"
+    weight 2
   ]
   edge [
-    source 6964
-    target 9693
+    source "member228"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 841
-    target 2560
+    source "member11388"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 1819
-    target 3819
+    source "member7757"
+    target "member11963"
+    weight 3
   ]
   edge [
-    source 9394
-    target 11456
+    source "member3296"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 9299
-    target 10401
+    source "member4811"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 9456
-    target 11022
+    source "member3462"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 973
-    target 13153
+    source "member5544"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 21
-    target 8685
+    source "member11963"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 9070
-    target 11481
+    source "member1359"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 549
-    target 13234
+    source "member6000"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 7495
-    target 11135
+    source "member9300"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 1010
-    target 7213
+    source "member9504"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 3535
-    target 5830
+    source "member5529"
+    target "member11963"
+    weight 1
   ]
   edge [
-    source 227
-    target 4323
+    source "member9071"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 482
-    target 1315
+    source "member10402"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 2341
-    target 9642
+    source "member7966"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 3392
-    target 6684
+    source "member2999"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 8297
-    target 9953
+    source "member9816"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 1191
-    target 5009
+    source "member2124"
+    target "member11963"
+    weight 1
   ]
   edge [
-    source 8168
-    target 12548
+    source "member8085"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 398
-    target 7179
+    source "member11023"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 4532
-    target 9173
+    source "member11963"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 7476
-    target 8268
+    source "member11482"
+    target "member11963"
+    weight 2
   ]
   edge [
-    source 162
-    target 2887
+    source "member10637"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 5543
-    target 5999
+    source "member8415"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 7965
-    target 9070
+    source "member1637"
+    target "member11963"
+    weight 4
   ]
   edge [
-    source 1177
-    target 4293
+    source "member228"
+    target "member11388"
+    weight 6
   ]
   edge [
-    source 538
-    target 9819
+    source "member228"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 1145
-    target 1780
+    source "member228"
+    target "member3296"
+    weight 4
   ]
   edge [
-    source 6945
-    target 10969
+    source "member228"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 667
-    target 695
+    source "member228"
+    target "member3462"
+    weight 6
   ]
   edge [
-    source 4776
-    target 13182
+    source "member228"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 5557
-    target 8414
+    source "member228"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 6964
-    target 11885
+    source "member228"
+    target "member1359"
+    weight 6
   ]
   edge [
-    source 7535
-    target 7536
+    source "member228"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 121
-    target 9158
+    source "member228"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 266
-    target 8493
+    source "member228"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 466
-    target 1199
+    source "member228"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 1876
-    target 5233
+    source "member228"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 11
-    target 8203
+    source "member228"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 163
-    target 9649
+    source "member228"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 6110
-    target 11452
+    source "member228"
+    target "member2999"
+    weight 4
   ]
   edge [
-    source 6060
-    target 11860
+    source "member228"
+    target "member9816"
+    weight 6
   ]
   edge [
-    source 447
-    target 6964
+    source "member228"
+    target "member2124"
+    weight 1
   ]
   edge [
-    source 1123
-    target 2372
+    source "member228"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 510
-    target 1391
+    source "member228"
+    target "member11023"
+    weight 5
   ]
   edge [
-    source 2893
-    target 9458
+    source "member228"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 110
-    target 2732
+    source "member228"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 700
-    target 1780
+    source "member228"
+    target "member10637"
+    weight 5
   ]
   edge [
-    source 2560
-    target 9694
+    source "member228"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 2499
-    target 5626
+    source "member228"
+    target "member1637"
+    weight 4
   ]
   edge [
-    source 4874
-    target 13052
+    source "member7757"
+    target "member11388"
+    weight 3
   ]
   edge [
-    source 1886
-    target 4874
+    source "member3296"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1450
-    target 5655
+    source "member4811"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1954
-    target 3468
+    source "member3462"
+    target "member11388"
+    weight 6
   ]
   edge [
-    source 1281
-    target 6866
+    source "member5544"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 2732
-    target 10672
+    source "member11388"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 196
-    target 1954
+    source "member1359"
+    target "member11388"
+    weight 6
   ]
   edge [
-    source 813
-    target 3005
+    source "member6000"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1358
-    target 1636
+    source "member9300"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 4810
-    target 12658
+    source "member9504"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1175
-    target 1780
+    source "member5529"
+    target "member11388"
+    weight 1
   ]
   edge [
-    source 5042
-    target 8434
+    source "member9071"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 6567
-    target 6973
+    source "member10402"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 3461
-    target 7965
+    source "member7966"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 3047
-    target 10720
+    source "member2999"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1717
-    target 7698
+    source "member9816"
+    target "member11388"
+    weight 6
   ]
   edge [
-    source 7208
-    target 8467
+    source "member2124"
+    target "member11388"
+    weight 1
   ]
   edge [
-    source 1699
-    target 7155
+    source "member8085"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 1876
-    target 5619
+    source "member11023"
+    target "member11388"
+    weight 5
   ]
   edge [
-    source 8414
-    target 10636
+    source "member11388"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 4810
-    target 8084
+    source "member11388"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 4698
-    target 4874
+    source "member10637"
+    target "member11388"
+    weight 5
   ]
   edge [
-    source 8325
-    target 11461
+    source "member8415"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 157
-    target 161
+    source "member1637"
+    target "member11388"
+    weight 4
   ]
   edge [
-    source 5876
-    target 10359
+    source "member3296"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 214
-    target 466
+    source "member4811"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 11437
-    target 11452
+    source "member3462"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 11253
-    target 12940
+    source "member5544"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 121
-    target 10712
+    source "member7757"
+    target "member12659"
+    weight 3
   ]
   edge [
-    source 2957
-    target 8059
+    source "member1359"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 8268
-    target 9386
+    source "member6000"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 11452
-    target 12892
+    source "member7757"
+    target "member9300"
+    weight 3
   ]
   edge [
-    source 3535
-    target 9576
+    source "member7757"
+    target "member9504"
+    weight 3
   ]
   edge [
-    source 7794
-    target 9466
+    source "member5529"
+    target "member7757"
+    weight 1
   ]
   edge [
-    source 2176
-    target 7430
+    source "member7757"
+    target "member9071"
+    weight 3
   ]
   edge [
-    source 1876
-    target 11253
+    source "member7757"
+    target "member10402"
+    weight 3
   ]
   edge [
-    source 56
-    target 4840
+    source "member7757"
+    target "member7966"
+    weight 3
   ]
   edge [
-    source 1596
-    target 12776
+    source "member2999"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 3229
-    target 3907
+    source "member7757"
+    target "member9816"
+    weight 3
   ]
   edge [
-    source 447
-    target 11492
+    source "member2124"
+    target "member7757"
+    weight 1
   ]
   edge [
-    source 1596
-    target 1750
+    source "member7757"
+    target "member8085"
+    weight 3
   ]
   edge [
-    source 3921
-    target 7698
+    source "member7757"
+    target "member11023"
+    weight 3
   ]
   edge [
-    source 6595
-    target 11362
+    source "member7757"
+    target "member11968"
+    weight 3
   ]
   edge [
-    source 8580
-    target 11463
+    source "member7757"
+    target "member11482"
+    weight 1
   ]
   edge [
-    source 1349
-    target 11035
+    source "member7757"
+    target "member10637"
+    weight 3
   ]
   edge [
-    source 3874
-    target 7208
+    source "member7757"
+    target "member8415"
+    weight 3
   ]
   edge [
-    source 8414
-    target 11022
+    source "member1637"
+    target "member7757"
+    weight 3
   ]
   edge [
-    source 2130
-    target 7319
+    source "member3296"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 7511
-    target 10431
+    source "member3296"
+    target "member3462"
+    weight 4
   ]
   edge [
-    source 1191
-    target 1701
+    source "member3296"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 1092
-    target 2253
+    source "member3296"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 1445
-    target 10105
+    source "member1359"
+    target "member3296"
+    weight 4
   ]
   edge [
-    source 2957
-    target 7542
+    source "member3296"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 63
-    target 5495
+    source "member3296"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 11603
-    target 13182
+    source "member3296"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 157
-    target 5422
+    source "member3296"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 6121
-    target 8855
+    source "member3296"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 1636
-    target 13199
+    source "member3296"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 3295
-    target 11967
+    source "member3296"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 8659
-    target 11463
+    source "member2999"
+    target "member3296"
+    weight 4
   ]
   edge [
-    source 6060
-    target 8467
+    source "member3296"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 8685
-    target 9386
+    source "member2124"
+    target "member3296"
+    weight 1
   ]
   edge [
-    source 2458
-    target 8203
+    source "member3296"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 1043
-    target 11293
+    source "member3296"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 5999
-    target 9503
+    source "member3296"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 350
-    target 8297
+    source "member3296"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 5009
-    target 12062
+    source "member3296"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 10742
-    target 12773
+    source "member3296"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 1002
-    target 6008
+    source "member1637"
+    target "member3296"
+    weight 4
   ]
   edge [
-    source 8297
-    target 10967
+    source "member3462"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 9232
-    target 9375
+    source "member4811"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 510
-    target 10241
+    source "member4811"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 3913
-    target 9801
+    source "member1359"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 121
-    target 12940
+    source "member4811"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 3907
-    target 4208
+    source "member4811"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 4481
-    target 11125
+    source "member4811"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 7016
-    target 11284
+    source "member4811"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 3169
-    target 5182
+    source "member4811"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 560
-    target 6077
+    source "member4811"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 7319
-    target 13271
+    source "member4811"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 8873
-    target 11428
+    source "member2999"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 2998
-    target 9730
+    source "member4811"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 7213
-    target 7511
+    source "member2124"
+    target "member4811"
+    weight 1
   ]
   edge [
-    source 9475
-    target 9547
+    source "member4811"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 169
-    target 8370
+    source "member4811"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 227
-    target 9394
+    source "member4811"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 2130
-    target 3913
+    source "member4811"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 1636
-    target 9299
+    source "member4811"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 3819
-    target 10251
+    source "member4811"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 163
-    target 12119
+    source "member1637"
+    target "member4811"
+    weight 4
   ]
   edge [
-    source 2499
-    target 10720
+    source "member3462"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 1092
-    target 7478
+    source "member3462"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 4932
-    target 9111
+    source "member1359"
+    target "member3462"
+    weight 6
   ]
   edge [
-    source 1758
-    target 10048
+    source "member3462"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 9070
-    target 10401
+    source "member3462"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 9627
-    target 11072
+    source "member3462"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 2893
-    target 10616
+    source "member3462"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 1177
-    target 1780
+    source "member3462"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 9299
-    target 9815
+    source "member3462"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 9103
-    target 11072
+    source "member3462"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 6121
-    target 9241
+    source "member2999"
+    target "member3462"
+    weight 4
   ]
   edge [
-    source 277
-    target 4412
+    source "member3462"
+    target "member9816"
+    weight 6
   ]
   edge [
-    source 7213
-    target 9173
+    source "member2124"
+    target "member3462"
+    weight 1
   ]
   edge [
-    source 3854
-    target 5406
+    source "member3462"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 2325
-    target 2812
+    source "member3462"
+    target "member11023"
+    weight 6
   ]
   edge [
-    source 3295
-    target 5528
+    source "member3462"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 9158
-    target 11044
+    source "member3462"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 9216
-    target 10311
+    source "member3462"
+    target "member10637"
+    weight 5
   ]
   edge [
-    source 2341
-    target 9730
+    source "member3462"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 33
-    target 3234
+    source "member1637"
+    target "member3462"
+    weight 4
   ]
   edge [
-    source 852
-    target 973
+    source "member5544"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 10401
-    target 10471
+    source "member1359"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 2540
-    target 4197
+    source "member5544"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 1636
-    target 4810
+    source "member5544"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 8059
-    target 11072
+    source "member5544"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 5005
-    target 11022
+    source "member5529"
+    target "member5544"
+    weight 1
   ]
   edge [
-    source 63
-    target 8217
+    source "member5544"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 5561
-    target 6810
+    source "member5544"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 5876
-    target 6822
+    source "member5544"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 2514
-    target 8346
+    source "member2999"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 1123
-    target 6131
+    source "member5544"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 3854
-    target 8380
+    source "member2124"
+    target "member5544"
+    weight 1
   ]
   edge [
-    source 162
-    target 2072
+    source "member5544"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 12467
-    target 12482
+    source "member5544"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 8434
-    target 10311
+    source "member5544"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 12809
-    target 13234
+    source "member5544"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 1663
-    target 12002
+    source "member5544"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 7319
-    target 13104
+    source "member5544"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 2195
-    target 6121
+    source "member1637"
+    target "member5544"
+    weight 4
   ]
   edge [
-    source 121
-    target 11461
+    source "member1359"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 11437
-    target 13104
+    source "member6000"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 21
-    target 1431
+    source "member9300"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 5558
-    target 11701
+    source "member9504"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 6163
-    target 8168
+    source "member5529"
+    target "member12659"
+    weight 1
   ]
   edge [
-    source 1131
-    target 9819
+    source "member9071"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 45
-    target 67
+    source "member10402"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 2416
-    target 10146
+    source "member7966"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 6065
-    target 9173
+    source "member2999"
+    target "member12659"
+    weight 5
   ]
   edge [
-    source 10009
-    target 10598
+    source "member9816"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 110
-    target 9730
+    source "member2124"
+    target "member12659"
+    weight 1
   ]
   edge [
-    source 218
-    target 1041
+    source "member8085"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 2545
-    target 3386
+    source "member11023"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 9730
-    target 10954
+    source "member11968"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 3295
-    target 7756
+    source "member11482"
+    target "member12659"
+    weight 2
   ]
   edge [
-    source 3039
-    target 4532
+    source "member10637"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 7536
-    target 9547
+    source "member8415"
+    target "member12659"
+    weight 5
   ]
   edge [
-    source 10205
-    target 11821
+    source "member1637"
+    target "member12659"
+    weight 4
   ]
   edge [
-    source 1949
-    target 6595
+    source "member1359"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 10401
-    target 11387
+    source "member1359"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 1112
-    target 9396
+    source "member1359"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 9173
-    target 9953
+    source "member1359"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 437
-    target 447
+    source "member1359"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 3874
-    target 12652
+    source "member1359"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 5462
-    target 10048
+    source "member1359"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 7756
-    target 9815
+    source "member1359"
+    target "member2999"
+    weight 4
   ]
   edge [
-    source 334
-    target 2686
+    source "member1359"
+    target "member9816"
+    weight 6
   ]
   edge [
-    source 5830
-    target 13104
+    source "member1359"
+    target "member2124"
+    weight 1
   ]
   edge [
-    source 1761
-    target 12322
+    source "member1359"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 4436
-    target 9386
+    source "member1359"
+    target "member11023"
+    weight 5
   ]
   edge [
-    source 9801
-    target 12002
+    source "member1359"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 11492
-    target 11885
+    source "member1359"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 5841
-    target 12030
+    source "member1359"
+    target "member10637"
+    weight 5
   ]
   edge [
-    source 5495
-    target 10490
+    source "member1359"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 711
-    target 7102
+    source "member1359"
+    target "member1637"
+    weight 4
   ]
   edge [
-    source 816
-    target 8616
+    source "member6000"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 9953
-    target 10967
+    source "member6000"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 3500
-    target 9329
+    source "member5529"
+    target "member6000"
+    weight 1
   ]
   edge [
-    source 2887
-    target 5422
+    source "member6000"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 538
-    target 12809
+    source "member6000"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 2863
-    target 9940
+    source "member6000"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 2325
-    target 5655
+    source "member2999"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 3039
-    target 10431
+    source "member6000"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 5181
-    target 9396
+    source "member2124"
+    target "member6000"
+    weight 1
   ]
   edge [
-    source 2560
-    target 12648
+    source "member6000"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 227
-    target 4810
+    source "member6000"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 110
-    target 12776
+    source "member6000"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 164
-    target 2130
+    source "member6000"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 891
-    target 11126
+    source "member6000"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 6676
-    target 13096
+    source "member6000"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 482
-    target 490
+    source "member1637"
+    target "member6000"
+    weight 4
   ]
   edge [
-    source 7319
-    target 12070
+    source "member9300"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 1199
-    target 11099
+    source "member5529"
+    target "member9300"
+    weight 1
   ]
   edge [
-    source 10954
-    target 11428
+    source "member9071"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 110
-    target 1750
+    source "member9300"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 4932
-    target 11437
+    source "member7966"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 7319
-    target 12564
+    source "member2999"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 6676
-    target 6945
+    source "member9300"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 4177
-    target 7297
+    source "member2124"
+    target "member9300"
+    weight 1
   ]
   edge [
-    source 2998
-    target 3461
+    source "member8085"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 8434
-    target 9627
+    source "member9300"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 3975
-    target 6036
+    source "member9300"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 7495
-    target 7542
+    source "member9300"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 196
-    target 10048
+    source "member9300"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 1636
-    target 11481
+    source "member8415"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 7837
-    target 8325
+    source "member1637"
+    target "member9300"
+    weight 4
   ]
   edge [
-    source 841
-    target 11884
+    source "member5529"
+    target "member9504"
+    weight 1
   ]
   edge [
-    source 162
-    target 1653
+    source "member9071"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 5528
-    target 9103
+    source "member9504"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 986
-    target 4840
+    source "member7966"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 3468
-    target 3724
+    source "member2999"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 5619
-    target 7155
+    source "member9504"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 2998
-    target 10636
+    source "member2124"
+    target "member9504"
+    weight 1
   ]
   edge [
-    source 466
-    target 1506
+    source "member8085"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 6676
-    target 8378
+    source "member9504"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 4810
-    target 8414
+    source "member9504"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 8268
-    target 10125
+    source "member9504"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 2408
-    target 2957
+    source "member9504"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 1358
-    target 9815
+    source "member8415"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 162
-    target 9008
+    source "member1637"
+    target "member9504"
+    weight 4
   ]
   edge [
-    source 5745
-    target 6822
+    source "member5529"
+    target "member9071"
+    weight 1
   ]
   edge [
-    source 6746
-    target 13052
+    source "member5529"
+    target "member10402"
+    weight 1
   ]
   edge [
-    source 852
-    target 2481
+    source "member5529"
+    target "member7966"
+    weight 1
   ]
   edge [
-    source 8167
-    target 8730
+    source "member2999"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 63
-    target 7016
+    source "member5529"
+    target "member9816"
+    weight 1
   ]
   edge [
-    source 1976
-    target 2545
+    source "member2124"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 10146
-    target 10328
+    source "member5529"
+    target "member8085"
+    weight 1
   ]
   edge [
-    source 4412
-    target 4468
+    source "member5529"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 7837
-    target 8217
+    source "member5529"
+    target "member11968"
+    weight 1
   ]
   edge [
-    source 2957
-    target 4224
+    source "member5529"
+    target "member11482"
+    weight 1
   ]
   edge [
-    source 4209
-    target 12776
+    source "member5529"
+    target "member10637"
+    weight 1
   ]
   edge [
-    source 227
-    target 11962
+    source "member5529"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 9503
-    target 10636
+    source "member1637"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 10062
-    target 12549
+    source "member9071"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 973
-    target 1315
+    source "member7966"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 12070
-    target 13271
+    source "member2999"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 149
-    target 2100
+    source "member9071"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 7756
-    target 12658
+    source "member2124"
+    target "member9071"
+    weight 1
   ]
   edge [
-    source 5009
-    target 5626
+    source "member8085"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 6065
-    target 7213
+    source "member9071"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 2148
-    target 4808
+    source "member9071"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 1431
-    target 2458
+    source "member9071"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 121
-    target 5830
+    source "member9071"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 986
-    target 1699
+    source "member8415"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 973
-    target 9982
+    source "member1637"
+    target "member9071"
+    weight 4
   ]
   edge [
-    source 5495
-    target 13104
+    source "member7966"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 2998
-    target 11022
+    source "member2999"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 437
-    target 5541
+    source "member9816"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 3769
-    target 13263
+    source "member2124"
+    target "member10402"
+    weight 1
   ]
   edge [
-    source 2458
-    target 8268
+    source "member8085"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 1010
-    target 6077
+    source "member10402"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 816
-    target 7029
+    source "member10402"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 196
-    target 3874
+    source "member10402"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 8685
-    target 10125
+    source "member10402"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 5541
-    target 9693
+    source "member8415"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 9693
-    target 11821
+    source "member1637"
+    target "member10402"
+    weight 4
   ]
   edge [
-    source 7756
-    target 8084
+    source "member2999"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 4481
-    target 11370
+    source "member7966"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 13104
-    target 13271
+    source "member2124"
+    target "member7966"
+    weight 1
   ]
   edge [
-    source 2540
-    target 11604
+    source "member7966"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 5830
-    target 9158
+    source "member7966"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 11284
-    target 11437
+    source "member7966"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 11099
-    target 11126
+    source "member7966"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 11099
-    target 11800
+    source "member7966"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 6676
-    target 7488
+    source "member7966"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 10636
-    target 11481
+    source "member1637"
+    target "member7966"
+    weight 4
   ]
   edge [
-    source 1315
-    target 9458
+    source "member2999"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 370
-    target 7064
+    source "member2124"
+    target "member2999"
+    weight 1
   ]
   edge [
-    source 196
-    target 3730
+    source "member2999"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 3874
-    target 11860
+    source "member2999"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 121
-    target 11284
+    source "member2999"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 852
-    target 11125
+    source "member2999"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 9503
-    target 11022
+    source "member2999"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 4840
-    target 12211
+    source "member2999"
+    target "member8415"
+    weight 6
   ]
   edge [
-    source 1190
-    target 1699
+    source "member1637"
+    target "member2999"
+    weight 4
   ]
   edge [
-    source 3907
-    target 9642
+    source "member2124"
+    target "member9816"
+    weight 1
   ]
   edge [
-    source 5233
-    target 12322
+    source "member8085"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 2514
-    target 2957
+    source "member9816"
+    target "member11023"
+    weight 5
   ]
   edge [
-    source 9329
-    target 10577
+    source "member9816"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 9158
-    target 11253
+    source "member9816"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 1999
-    target 9452
+    source "member9816"
+    target "member10637"
+    weight 5
   ]
   edge [
-    source 11
-    target 7476
+    source "member8415"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 7454
-    target 7495
+    source "member1637"
+    target "member9816"
+    weight 4
   ]
   edge [
-    source 1699
-    target 1841
+    source "member2124"
+    target "member8085"
+    weight 1
   ]
   edge [
-    source 11072
-    target 11373
+    source "member2124"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 1663
-    target 11452
+    source "member2124"
+    target "member11968"
+    weight 1
   ]
   edge [
-    source 9694
-    target 11492
+    source "member2124"
+    target "member11482"
+    weight 1
   ]
   edge [
-    source 6110
-    target 12940
+    source "member2124"
+    target "member10637"
+    weight 1
   ]
   edge [
-    source 7319
-    target 12554
+    source "member2124"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 2368
-    target 4825
+    source "member1637"
+    target "member2124"
+    weight 1
   ]
   edge [
-    source 350
-    target 4318
+    source "member8085"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 227
-    target 1358
+    source "member8085"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 7095
-    target 7333
+    source "member8085"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 2694
-    target 4995
+    source "member8085"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 852
-    target 1038
+    source "member8085"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 7698
-    target 9203
+    source "member1637"
+    target "member8085"
+    weight 4
   ]
   edge [
-    source 1002
-    target 10251
+    source "member11023"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 5541
-    target 11885
+    source "member11023"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 110
-    target 1596
+    source "member10637"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 63
-    target 12892
+    source "member8415"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 2123
-    target 11967
+    source "member1637"
+    target "member11023"
+    weight 4
   ]
   edge [
-    source 3392
-    target 7511
+    source "member11482"
+    target "member11968"
+    weight 2
   ]
   edge [
-    source 1746
-    target 5830
+    source "member10637"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 21
-    target 2458
+    source "member8415"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 6567
-    target 8196
+    source "member1637"
+    target "member11968"
+    weight 4
   ]
   edge [
-    source 1358
-    target 12658
+    source "member10637"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 11002
-    target 12482
+    source "member8415"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 1986
-    target 5811
+    source "member1637"
+    target "member11482"
+    weight 2
   ]
   edge [
-    source 12030
-    target 13104
+    source "member8415"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 12002
-    target 13271
+    source "member1637"
+    target "member10637"
+    weight 4
   ]
   edge [
-    source 3152
-    target 8698
+    source "member1637"
+    target "member8415"
+    weight 4
   ]
   edge [
-    source 136
-    target 1999
+    source "member8168"
+    target "member12120"
+    weight 1
   ]
   edge [
-    source 9173
-    target 12436
+    source "member164"
+    target "member12120"
+    weight 1
   ]
   edge [
-    source 5830
-    target 10712
+    source "member3153"
+    target "member12120"
+    weight 1
   ]
   edge [
-    source 10316
-    target 11022
+    source "member8699"
+    target "member12120"
+    weight 1
   ]
   edge [
-    source 4995
-    target 11604
+    source "member164"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 11259
-    target 12031
+    source "member3153"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 10614
-    target 11210
+    source "member8168"
+    target "member8699"
+    weight 1
   ]
   edge [
-    source 1746
-    target 12776
+    source "member164"
+    target "member3153"
+    weight 1
   ]
   edge [
-    source 5042
-    target 7069
+    source "member164"
+    target "member8699"
+    weight 1
   ]
   edge [
-    source 1358
-    target 8084
+    source "member3153"
+    target "member8699"
+    weight 2
   ]
   edge [
-    source 1038
-    target 2481
+    source "member365"
+    target "member5116"
+    weight 2
   ]
   edge [
-    source 9111
-    target 10511
+    source "member7455"
+    target "member10561"
+    weight 5
   ]
   edge [
-    source 9203
-    target 10069
+    source "member7455"
+    target "member7498"
+    weight 4
   ]
   edge [
-    source 3992
-    target 12652
+    source "member7455"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 2863
-    target 12652
+    source "member7455"
+    target "member7479"
+    weight 4
   ]
   edge [
-    source 8725
-    target 9801
+    source "member7455"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 477
-    target 4808
+    source "member7455"
+    target "member7496"
+    weight 4
   ]
   edge [
-    source 6964
-    target 12483
+    source "member7455"
+    target "member7543"
+    weight 3
   ]
   edge [
-    source 11437
-    target 12940
+    source "member3710"
+    target "member7455"
+    weight 3
   ]
   edge [
-    source 3295
-    target 7965
+    source "member7498"
+    target "member10561"
+    weight 4
   ]
   edge [
-    source 6237
-    target 10577
+    source "member10561"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 8730
-    target 13263
+    source "member7479"
+    target "member10561"
+    weight 5
   ]
   edge [
-    source 9801
-    target 11452
+    source "member10561"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 1390
-    target 9730
+    source "member7496"
+    target "member10561"
+    weight 5
   ]
   edge [
-    source 4874
-    target 12482
+    source "member7543"
+    target "member10561"
+    weight 3
   ]
   edge [
-    source 1043
-    target 2861
+    source "member3710"
+    target "member10561"
+    weight 4
   ]
   edge [
-    source 121
-    target 9576
+    source "member7498"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 6036
-    target 11081
+    source "member7479"
+    target "member7498"
+    weight 4
   ]
   edge [
-    source 7069
-    target 11044
+    source "member7498"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 1298
-    target 11044
+    source "member7496"
+    target "member7498"
+    weight 4
   ]
   edge [
-    source 370
-    target 2732
+    source "member7498"
+    target "member7543"
+    weight 3
   ]
   edge [
-    source 3907
-    target 12809
+    source "member3710"
+    target "member7498"
+    weight 3
   ]
   edge [
-    source 5528
-    target 9299
+    source "member7479"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 1219
-    target 5009
+    source "member11136"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 9730
-    target 13234
+    source "member7496"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 5528
-    target 9070
+    source "member7543"
+    target "member11136"
+    weight 2
   ]
   edge [
-    source 2123
-    target 5528
+    source "member3710"
+    target "member11136"
+    weight 3
   ]
   edge [
-    source 6676
-    target 10969
+    source "member7479"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 1663
-    target 13271
+    source "member7479"
+    target "member7496"
+    weight 5
   ]
   edge [
-    source 447
-    target 6973
+    source "member7479"
+    target "member7543"
+    weight 3
   ]
   edge [
-    source 7430
-    target 12892
+    source "member3710"
+    target "member7479"
+    weight 4
   ]
   edge [
-    source 187
-    target 13084
+    source "member7496"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 5528
-    target 5543
+    source "member7543"
+    target "member11422"
+    weight 2
   ]
   edge [
-    source 11452
-    target 13104
+    source "member3710"
+    target "member11422"
+    weight 3
   ]
   edge [
-    source 4840
-    target 9456
+    source "member7496"
+    target "member7543"
+    weight 3
   ]
   edge [
-    source 2863
-    target 3468
+    source "member3710"
+    target "member7496"
+    weight 4
   ]
   edge [
-    source 317
-    target 7946
+    source "member3710"
+    target "member7543"
+    weight 2
   ]
   edge [
-    source 1636
-    target 10401
+    source "member164"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 1701
-    target 9627
+    source "member164"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 5495
-    target 9158
+    source "member164"
+    target "member1548"
+    weight 2
   ]
   edge [
-    source 4255
-    target 13003
+    source "member162"
+    target "member164"
+    weight 2
   ]
   edge [
-    source 3234
-    target 8893
+    source "member164"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 4810
-    target 5528
+    source "member164"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 5830
-    target 12940
+    source "member164"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 1420
-    target 2560
+    source "member163"
+    target "member164"
+    weight 2
   ]
   edge [
-    source 2981
-    target 11044
+    source "member158"
+    target "member164"
+    weight 2
   ]
   edge [
-    source 12002
-    target 13104
+    source "member164"
+    target "member318"
+    weight 2
   ]
   edge [
-    source 4436
-    target 10125
+    source "member164"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 437
-    target 6964
+    source "member164"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 7454
-    target 11421
+    source "member164"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 443
-    target 2694
+    source "member164"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 5655
-    target 9232
+    source "member164"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 2458
-    target 7476
+    source "member164"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 3468
-    target 3992
+    source "member1654"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 10614
-    target 11452
+    source "member1548"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 161
-    target 1547
+    source "member162"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 8217
-    target 8325
+    source "member1654"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 2499
-    target 3047
+    source "member1654"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 1038
-    target 11125
+    source "member1654"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 3960
-    target 12002
+    source "member163"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 4532
-    target 6077
+    source "member158"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 1315
-    target 10616
+    source "member318"
+    target "member1654"
+    weight 2
   ]
   edge [
-    source 1550
-    target 2260
+    source "member1654"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 4177
-    target 13019
+    source "member1654"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 8493
-    target 11463
+    source "member1654"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 11962
-    target 12658
+    source "member1654"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 1298
-    target 8168
+    source "member1654"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 136
-    target 9452
+    source "member1654"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 9801
-    target 13271
+    source "member1548"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 656
-    target 2514
+    source "member162"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 3264
-    target 8893
+    source "member2888"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 5626
-    target 12062
+    source "member6183"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 213
-    target 1041
+    source "member9009"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 2123
-    target 7756
+    source "member163"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 560
-    target 4532
+    source "member158"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 1281
-    target 1699
+    source "member318"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 227
-    target 11147
+    source "member4377"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 10616
-    target 11125
+    source "member7947"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 490
-    target 2481
+    source "member5423"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 8217
-    target 12467
+    source "member2073"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 1663
-    target 13104
+    source "member9650"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 5495
-    target 10712
+    source "member4505"
+    target "member9652"
+    weight 2
   ]
   edge [
-    source 4323
-    target 12211
+    source "member162"
+    target "member1548"
+    weight 2
   ]
   edge [
-    source 1750
-    target 11568
+    source "member1548"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 196
-    target 3468
+    source "member1548"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 4810
-    target 5999
+    source "member1548"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 1653
-    target 9649
+    source "member163"
+    target "member1548"
+    weight 2
   ]
   edge [
-    source 4114
-    target 10762
+    source "member158"
+    target "member1548"
+    weight 2
   ]
   edge [
-    source 1554
-    target 6000
+    source "member318"
+    target "member1548"
+    weight 2
   ]
   edge [
-    source 7333
-    target 8893
+    source "member1548"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 2981
-    target 8168
+    source "member1548"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 813
-    target 1041
+    source "member1548"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 9693
-    target 9694
+    source "member1548"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 3461
-    target 9299
+    source "member1548"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 1172
-    target 9232
+    source "member1548"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 6973
-    target 11884
+    source "member162"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 11452
-    target 12564
+    source "member162"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 5830
-    target 11461
+    source "member162"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 277
-    target 7333
+    source "member162"
+    target "member163"
+    weight 2
   ]
   edge [
-    source 560
-    target 10431
+    source "member158"
+    target "member162"
+    weight 2
   ]
   edge [
-    source 3392
-    target 7213
+    source "member162"
+    target "member318"
+    weight 2
   ]
   edge [
-    source 7016
-    target 11437
+    source "member162"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 10614
-    target 13271
+    source "member162"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 11881
-    target 12189
+    source "member162"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 1547
-    target 7946
+    source "member162"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 7095
-    target 8203
+    source "member162"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 12002
-    target 12070
+    source "member162"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 3730
-    target 7208
+    source "member2888"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 4177
-    target 8422
+    source "member2888"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 4995
-    target 5528
+    source "member163"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 3468
-    target 7208
+    source "member158"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 12482
-    target 13052
+    source "member318"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 1876
-    target 12322
+    source "member2888"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 1190
-    target 5350
+    source "member2888"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 538
-    target 9216
+    source "member2888"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 5745
-    target 5876
+    source "member2073"
+    target "member2888"
+    weight 2
   ]
   edge [
-    source 364
-    target 6699
+    source "member2888"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 5009
-    target 5462
+    source "member2888"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 2560
-    target 9693
+    source "member6183"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 8168
-    target 12030
+    source "member163"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 490
-    target 11125
+    source "member158"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 9694
-    target 12483
+    source "member318"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 7069
-    target 12467
+    source "member4377"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 6121
-    target 10742
+    source "member6183"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 477
-    target 9614
+    source "member5423"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 5528
-    target 9819
+    source "member2073"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 4197
-    target 4995
+    source "member6183"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 3724
-    target 7435
+    source "member4505"
+    target "member6183"
+    weight 2
   ]
   edge [
-    source 1746
-    target 9216
+    source "member163"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 3229
-    target 13234
+    source "member158"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 1554
-    target 4436
+    source "member318"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 5561
-    target 10490
+    source "member4377"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 3039
-    target 12436
+    source "member7947"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 163
-    target 1547
+    source "member5423"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 2861
-    target 4293
+    source "member2073"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 1663
-    target 12070
+    source "member9009"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 538
-    target 8434
+    source "member4505"
+    target "member9009"
+    weight 2
   ]
   edge [
-    source 490
-    target 1038
+    source "member158"
+    target "member163"
+    weight 2
   ]
   edge [
-    source 482
-    target 4481
+    source "member163"
+    target "member318"
+    weight 2
   ]
   edge [
-    source 1120
-    target 4323
+    source "member163"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 10471
-    target 13199
+    source "member163"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 8414
-    target 9503
+    source "member163"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 1172
-    target 7488
+    source "member163"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 10005
-    target 10431
+    source "member163"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 4808
-    target 9614
+    source "member163"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 1663
-    target 12564
+    source "member158"
+    target "member318"
+    weight 2
   ]
   edge [
-    source 443
-    target 2540
+    source "member158"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 4115
-    target 4323
+    source "member158"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 1746
-    target 8434
+    source "member158"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 6595
-    target 6810
+    source "member158"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 5655
-    target 9752
+    source "member158"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 7319
-    target 8827
+    source "member158"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 1663
-    target 10614
+    source "member318"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 11461
-    target 12482
+    source "member318"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 11
-    target 6000
+    source "member318"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 9475
-    target 13096
+    source "member318"
+    target "member2073"
+    weight 2
   ]
   edge [
-    source 5042
-    target 10311
+    source "member318"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 9299
-    target 11967
+    source "member318"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 1131
-    target 1750
+    source "member4377"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 2891
-    target 12658
+    source "member4377"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 447
-    target 6567
+    source "member2073"
+    target "member4377"
+    weight 2
   ]
   edge [
-    source 1257
-    target 10048
+    source "member4377"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 6182
-    target 9008
+    source "member4377"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 880
-    target 11293
+    source "member5423"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 2981
-    target 6810
+    source "member2073"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 6810
-    target 8168
+    source "member7947"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 1717
-    target 10069
+    source "member4505"
+    target "member7947"
+    weight 2
   ]
   edge [
-    source 6131
-    target 11443
+    source "member2073"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 121
-    target 1298
+    source "member5423"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 1636
-    target 9815
+    source "member4505"
+    target "member5423"
+    weight 2
   ]
   edge [
-    source 3854
-    target 12482
+    source "member2073"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 3944
-    target 11881
+    source "member2073"
+    target "member4505"
+    weight 2
   ]
   edge [
-    source 9801
-    target 12070
+    source "member4505"
+    target "member9650"
+    weight 2
   ]
   edge [
-    source 11022
-    target 13199
+    source "member1093"
+    target "member10561"
+    weight 1
   ]
   edge [
-    source 5495
-    target 11461
+    source "member2409"
+    target "member10561"
+    weight 1
   ]
   edge [
-    source 157
-    target 317
+    source "member2958"
+    target "member10561"
+    weight 1
   ]
   edge [
-    source 9642
-    target 11259
+    source "member1093"
+    target "member7479"
+    weight 1
   ]
   edge [
-    source 4115
-    target 8730
+    source "member1093"
+    target "member2409"
+    weight 1
   ]
   edge [
-    source 5619
-    target 6163
+    source "member1093"
+    target "member7496"
+    weight 1
   ]
   edge [
-    source 3535
-    target 11044
+    source "member1093"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 7965
-    target 10636
+    source "member1093"
+    target "member7455"
+    weight 1
   ]
   edge [
-    source 1298
-    target 11253
+    source "member1093"
+    target "member7498"
+    weight 1
   ]
   edge [
-    source 9452
-    target 13084
+    source "member1093"
+    target "member7543"
+    weight 1
   ]
   edge [
-    source 3959
-    target 4318
+    source "member2409"
+    target "member7479"
+    weight 1
   ]
   edge [
-    source 1636
-    target 2123
+    source "member2958"
+    target "member7479"
+    weight 1
   ]
   edge [
-    source 1112
-    target 11800
+    source "member2409"
+    target "member7496"
+    weight 1
   ]
   edge [
-    source 5042
-    target 9794
+    source "member2409"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 4436
-    target 7095
+    source "member2409"
+    target "member7455"
+    weight 1
   ]
   edge [
-    source 10742
-    target 12772
+    source "member2409"
+    target "member7498"
+    weight 1
   ]
   edge [
-    source 9801
-    target 10614
+    source "member2409"
+    target "member7543"
+    weight 1
   ]
   edge [
-    source 7794
-    target 11428
+    source "member2958"
+    target "member7496"
+    weight 1
   ]
   edge [
-    source 11253
-    target 13104
+    source "member2958"
+    target "member7455"
+    weight 1
   ]
   edge [
-    source 12002
-    target 12554
+    source "member2958"
+    target "member7498"
+    weight 1
   ]
   edge [
-    source 1358
-    target 8414
+    source "member2958"
+    target "member7543"
+    weight 1
   ]
   edge [
-    source 1123
-    target 11437
+    source "member6238"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 10511
-    target 12467
+    source "member399"
+    target "member6238"
+    weight 5
   ]
   edge [
-    source 3169
-    target 5181
+    source "member6238"
+    target "member10673"
+    weight 5
   ]
   edge [
-    source 3960
-    target 11452
+    source "member1597"
+    target "member6238"
+    weight 4
   ]
   edge [
-    source 11
-    target 4436
+    source "member6238"
+    target "member12777"
+    weight 5
   ]
   edge [
-    source 3921
-    target 10069
+    source "member4210"
+    target "member6238"
+    weight 3
   ]
   edge [
-    source 6810
-    target 8325
+    source "member2733"
+    target "member6238"
+    weight 5
   ]
   edge [
-    source 8084
-    target 8414
+    source "member399"
+    target "member10673"
+    weight 3
   ]
   edge [
-    source 5585
-    target 11884
+    source "member399"
+    target "member1597"
+    weight 2
   ]
   edge [
-    source 2458
-    target 4531
+    source "member399"
+    target "member12777"
+    weight 3
   ]
   edge [
-    source 5543
-    target 13199
+    source "member399"
+    target "member4210"
+    weight 1
   ]
   edge [
-    source 1701
-    target 4323
+    source "member399"
+    target "member2733"
+    weight 5
   ]
   edge [
-    source 1190
-    target 4293
+    source "member1597"
+    target "member10673"
+    weight 4
   ]
   edge [
-    source 6888
-    target 11362
+    source "member10673"
+    target "member12777"
+    weight 5
   ]
   edge [
-    source 5561
-    target 13104
+    source "member4210"
+    target "member10673"
+    weight 3
   ]
   edge [
-    source 10614
-    target 12070
+    source "member2733"
+    target "member10673"
+    weight 3
   ]
   edge [
-    source 2981
-    target 11253
+    source "member1597"
+    target "member4210"
+    weight 3
   ]
   edge [
-    source 370
-    target 1750
+    source "member1597"
+    target "member2733"
+    weight 2
   ]
   edge [
-    source 1854
-    target 10954
+    source "member4210"
+    target "member12777"
+    weight 3
   ]
   edge [
-    source 4376
-    target 9008
+    source "member2733"
+    target "member12777"
+    weight 3
   ]
   edge [
-    source 1191
-    target 1219
+    source "member2733"
+    target "member4210"
+    weight 1
   ]
   edge [
-    source 3461
-    target 11481
+    source "member483"
+    target "member10899"
+    weight 3
   ]
   edge [
-    source 11253
-    target 12322
+    source "member483"
+    target "member1316"
+    weight 2
   ]
   edge [
-    source 7965
-    target 11022
+    source "member483"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 9158
-    target 11452
+    source "member483"
+    target "member2482"
+    weight 3
   ]
   edge [
-    source 9198
-    target 11259
+    source "member483"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 10401
-    target 11962
+    source "member483"
+    target "member9459"
+    weight 2
   ]
   edge [
-    source 8390
-    target 10677
+    source "member483"
+    target "member4482"
+    weight 2
   ]
   edge [
-    source 3039
-    target 6684
+    source "member483"
+    target "member491"
+    weight 2
   ]
   edge [
-    source 277
-    target 8203
+    source "member483"
+    target "member1039"
+    weight 2
   ]
   edge [
-    source 2176
-    target 7069
+    source "member483"
+    target "member2894"
+    weight 2
   ]
   edge [
-    source 740
-    target 4995
+    source "member483"
+    target "member11371"
+    weight 3
   ]
   edge [
-    source 1278
-    target 6822
+    source "member483"
+    target "member5409"
+    weight 3
   ]
   edge [
-    source 5543
-    target 9299
+    source "member1316"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 1663
-    target 12554
+    source "member5399"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 6065
-    target 6077
+    source "member2482"
+    target "member10899"
+    weight 3
   ]
   edge [
-    source 7536
-    target 13096
+    source "member9983"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 1554
-    target 9386
+    source "member9459"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 7756
-    target 11967
+    source "member4482"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 5830
-    target 11284
+    source "member491"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 6746
-    target 12482
+    source "member1039"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 2458
-    target 6000
+    source "member2894"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 1002
-    target 1819
+    source "member10899"
+    target "member11371"
+    weight 3
   ]
   edge [
-    source 8297
-    target 12062
+    source "member5409"
+    target "member10899"
+    weight 3
   ]
   edge [
-    source 4840
-    target 10316
+    source "member1316"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 1445
-    target 9070
+    source "member1316"
+    target "member2482"
+    weight 2
   ]
   edge [
-    source 2123
-    target 7965
+    source "member1316"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 5042
-    target 9627
+    source "member1316"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 21
-    target 8893
+    source "member1316"
+    target "member4482"
+    weight 2
   ]
   edge [
-    source 4508
-    target 10251
+    source "member491"
+    target "member1316"
+    weight 2
   ]
   edge [
-    source 11293
-    target 13153
+    source "member1039"
+    target "member1316"
+    weight 2
   ]
   edge [
-    source 163
-    target 9651
+    source "member1316"
+    target "member2894"
+    weight 2
   ]
   edge [
-    source 816
-    target 10359
+    source "member1316"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 227
-    target 9815
+    source "member1316"
+    target "member5409"
+    weight 2
   ]
   edge [
-    source 21
-    target 33
+    source "member2482"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 2365
-    target 6186
+    source "member5399"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 1431
-    target 8268
+    source "member5399"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 317
-    target 6182
+    source "member4482"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 1191
-    target 5626
+    source "member491"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 1292
-    target 2560
+    source "member1039"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 3960
-    target 13271
+    source "member2894"
+    target "member5399"
+    weight 2
   ]
   edge [
-    source 3069
-    target 3386
+    source "member5399"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 1625
-    target 8893
+    source "member5399"
+    target "member5409"
+    weight 2
   ]
   edge [
-    source 4810
-    target 7965
+    source "member2482"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 3990
-    target 6060
+    source "member2482"
+    target "member9459"
+    weight 2
   ]
   edge [
-    source 986
-    target 5788
+    source "member2482"
+    target "member4482"
+    weight 2
   ]
   edge [
-    source 3582
-    target 13096
+    source "member491"
+    target "member2482"
+    weight 2
   ]
   edge [
-    source 880
-    target 2243
+    source "member1039"
+    target "member2482"
+    weight 2
   ]
   edge [
-    source 7536
-    target 8378
+    source "member2482"
+    target "member2894"
+    weight 2
   ]
   edge [
-    source 1131
-    target 1596
+    source "member2482"
+    target "member11371"
+    weight 3
   ]
   edge [
-    source 266
-    target 8616
+    source "member2482"
+    target "member5409"
+    weight 3
   ]
   edge [
-    source 7454
-    target 10560
+    source "member9459"
+    target "member9983"
+    weight 1
   ]
   edge [
-    source 5999
-    target 13199
+    source "member4482"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 11452
-    target 11461
+    source "member491"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 1292
-    target 11492
+    source "member1039"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 447
-    target 10205
+    source "member2894"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 3582
-    target 6945
+    source "member9983"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 9394
-    target 11147
+    source "member5409"
+    target "member9983"
+    weight 2
   ]
   edge [
-    source 1010
-    target 10431
+    source "member4482"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 1145
-    target 11293
+    source "member491"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 4208
-    target 8390
+    source "member1039"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 1733
-    target 12483
+    source "member2894"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 2891
-    target 4776
+    source "member9459"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 275
-    target 2514
+    source "member5409"
+    target "member9459"
+    weight 2
   ]
   edge [
-    source 11115
-    target 11138
+    source "member491"
+    target "member4482"
+    weight 3
   ]
   edge [
-    source 3386
-    target 10762
+    source "member1039"
+    target "member4482"
+    weight 2
   ]
   edge [
-    source 3970
-    target 7435
+    source "member2894"
+    target "member4482"
+    weight 2
   ]
   edge [
-    source 841
-    target 11821
+    source "member4482"
+    target "member11371"
+    weight 3
   ]
   edge [
-    source 187
-    target 4881
+    source "member4482"
+    target "member5409"
+    weight 3
   ]
   edge [
-    source 157
-    target 163
+    source "member491"
+    target "member1039"
+    weight 2
   ]
   edge [
-    source 398
-    target 10577
+    source "member491"
+    target "member2894"
+    weight 2
   ]
   edge [
-    source 10471
-    target 11481
+    source "member491"
+    target "member11371"
+    weight 3
   ]
   edge [
-    source 9693
-    target 12648
+    source "member491"
+    target "member5409"
+    weight 3
   ]
   edge [
-    source 4481
-    target 9982
+    source "member1039"
+    target "member2894"
+    weight 2
   ]
   edge [
-    source 6008
-    target 10251
+    source "member1039"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 134
-    target 1199
+    source "member1039"
+    target "member5409"
+    weight 2
   ]
   edge [
-    source 4177
-    target 13097
+    source "member2894"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 538
-    target 4995
+    source "member2894"
+    target "member5409"
+    weight 2
   ]
   edge [
-    source 3436
-    target 11293
+    source "member5409"
+    target "member11371"
+    weight 4
   ]
   edge [
-    source 1663
-    target 7319
+    source "member814"
+    target "member5812"
+    weight 2
   ]
   edge [
-    source 45
-    target 1041
+    source "member214"
+    target "member814"
+    weight 2
   ]
   edge [
-    source 3582
-    target 8378
+    source "member68"
+    target "member814"
+    weight 2
   ]
   edge [
-    source 5830
-    target 9576
+    source "member814"
+    target "member3006"
+    weight 2
   ]
   edge [
-    source 10967
-    target 12062
+    source "member46"
+    target "member814"
+    weight 2
   ]
   edge [
-    source 3535
-    target 12467
+    source "member3961"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 5495
-    target 5830
+    source "member8828"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 63
-    target 2981
+    source "member9802"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 21
-    target 8268
+    source "member8726"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 7069
-    target 7837
+    source "member9802"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 4481
-    target 5408
+    source "member9802"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 9070
-    target 11967
+    source "member1664"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 7488
-    target 9547
+    source "member9802"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 1175
-    target 11293
+    source "member2131"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 11
-    target 9386
+    source "member3914"
+    target "member9802"
+    weight 4
   ]
   edge [
-    source 1391
-    target 10954
+    source "member9802"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 1298
-    target 7837
+    source "member9802"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 3960
-    target 13104
+    source "member3961"
+    target "member8828"
+    weight 4
   ]
   edge [
-    source 1746
-    target 4995
+    source "member3961"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 5561
-    target 9158
+    source "member3961"
+    target "member8726"
+    weight 4
   ]
   edge [
-    source 2887
-    target 12776
+    source "member3961"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 275
-    target 12470
+    source "member3961"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 4208
-    target 4840
+    source "member1664"
+    target "member3961"
+    weight 4
   ]
   edge [
-    source 1547
-    target 4376
+    source "member3961"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 370
-    target 1596
+    source "member2131"
+    target "member3961"
+    weight 4
   ]
   edge [
-    source 2130
-    target 9801
+    source "member3914"
+    target "member3961"
+    weight 4
   ]
   edge [
-    source 5541
-    target 12483
+    source "member3961"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 1131
-    target 4318
+    source "member3961"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 1663
-    target 3913
+    source "member8828"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 1547
-    target 6182
+    source "member8726"
+    target "member8828"
+    weight 4
   ]
   edge [
-    source 11022
-    target 11481
+    source "member8828"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 3730
-    target 11860
+    source "member8828"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 1450
-    target 9547
+    source "member1664"
+    target "member8828"
+    weight 4
   ]
   edge [
-    source 3468
-    target 11860
+    source "member8828"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 227
-    target 12658
+    source "member2131"
+    target "member8828"
+    weight 4
   ]
   edge [
-    source 1190
-    target 1780
+    source "member3914"
+    target "member8828"
+    weight 4
   ]
   edge [
-    source 4840
-    target 10306
+    source "member8828"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 2981
-    target 7837
+    source "member8828"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 477
-    target 6008
+    source "member8726"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 8414
-    target 10471
+    source "member12071"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 1358
-    target 5528
+    source "member12071"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 5626
-    target 10720
+    source "member1664"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 3424
-    target 10887
+    source "member12003"
+    target "member12071"
+    weight 3
   ]
   edge [
-    source 11044
-    target 12030
+    source "member2131"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 5082
-    target 6163
+    source "member3914"
+    target "member12071"
+    weight 4
   ]
   edge [
-    source 4776
-    target 4808
+    source "member12071"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 4481
-    target 10898
+    source "member12032"
+    target "member12071"
+    weight 5
   ]
   edge [
-    source 1191
-    target 10720
+    source "member8726"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 6177
-    target 8730
+    source "member8726"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 9953
-    target 12062
+    source "member1664"
+    target "member8726"
+    weight 4
   ]
   edge [
-    source 227
-    target 8084
+    source "member8726"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 3461
-    target 10316
+    source "member2131"
+    target "member8726"
+    weight 4
   ]
   edge [
-    source 2560
-    target 11492
+    source "member3914"
+    target "member8726"
+    weight 4
   ]
   edge [
-    source 33
-    target 8893
+    source "member8726"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 11481
-    target 13199
+    source "member8726"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 4376
-    target 9649
+    source "member13157"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 266
-    target 7029
+    source "member1664"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 4808
-    target 6008
+    source "member12003"
+    target "member13157"
+    weight 3
   ]
   edge [
-    source 9375
-    target 9547
+    source "member2131"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 5543
-    target 11481
+    source "member3914"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 8580
-    target 13019
+    source "member13105"
+    target "member13157"
+    weight 3
   ]
   edge [
-    source 2812
-    target 9232
+    source "member12032"
+    target "member13157"
+    weight 4
   ]
   edge [
-    source 2148
-    target 3819
+    source "member1664"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 9815
-    target 10636
+    source "member12003"
+    target "member13272"
+    weight 3
   ]
   edge [
-    source 5561
-    target 10712
+    source "member2131"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 6049
-    target 8580
+    source "member3914"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 9216
-    target 9819
+    source "member13105"
+    target "member13272"
+    weight 3
   ]
   edge [
-    source 3819
-    target 4776
+    source "member12032"
+    target "member13272"
+    weight 4
   ]
   edge [
-    source 3461
-    target 10401
+    source "member1664"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 1472
-    target 8380
+    source "member1664"
+    target "member2131"
+    weight 4
   ]
   edge [
-    source 169
-    target 8493
+    source "member1664"
+    target "member3914"
+    weight 4
   ]
   edge [
-    source 560
-    target 12436
+    source "member1664"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 1554
-    target 1625
+    source "member1664"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 447
-    target 5585
+    source "member2131"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 169
-    target 6049
+    source "member3914"
+    target "member12003"
+    weight 3
   ]
   edge [
-    source 436
-    target 880
+    source "member12003"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 9982
-    target 10898
+    source "member12003"
+    target "member12032"
+    weight 3
   ]
   edge [
-    source 1431
-    target 1554
+    source "member2131"
+    target "member3914"
+    weight 4
   ]
   edge [
-    source 1145
-    target 2243
+    source "member2131"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 11284
-    target 12892
+    source "member2131"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 3960
-    target 12070
+    source "member3914"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 9396
-    target 10954
+    source "member3914"
+    target "member12032"
+    weight 4
   ]
   edge [
-    source 5999
-    target 11962
+    source "member12032"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 11461
-    target 12030
+    source "member11003"
+    target "member11438"
+    weight 4
   ]
   edge [
-    source 370
-    target 4318
+    source "member4875"
+    target "member11003"
+    weight 4
   ]
   edge [
-    source 5655
-    target 6676
+    source "member4933"
+    target "member11003"
+    weight 4
   ]
   edge [
-    source 436
-    target 1145
+    source "member11003"
+    target "member12483"
+    weight 4
   ]
   edge [
-    source 44
-    target 7711
+    source "member4875"
+    target "member11438"
+    weight 9
   ]
   edge [
-    source 3960
-    target 12564
+    source "member4933"
+    target "member11438"
+    weight 4
   ]
   edge [
-    source 6077
-    target 11881
+    source "member11438"
+    target "member12483"
+    weight 4
   ]
   edge [
-    source 8325
-    target 11044
+    source "member4875"
+    target "member4933"
+    weight 5
   ]
   edge [
-    source 447
-    target 1420
+    source "member4875"
+    target "member12483"
+    weight 8
   ]
   edge [
-    source 2891
-    target 8414
+    source "member4933"
+    target "member12483"
+    weight 5
   ]
   edge [
-    source 67
-    target 3005
+    source "member2101"
+    target "member12471"
+    weight 3
   ]
   edge [
-    source 8414
-    target 11387
+    source "member982"
+    target "member12471"
+    weight 3
   ]
   edge [
-    source 7536
-    target 10969
+    source "member150"
+    target "member12471"
+    weight 3
   ]
   edge [
-    source 482
-    target 852
+    source "member276"
+    target "member12471"
+    weight 3
   ]
   edge [
-    source 700
-    target 2243
+    source "member982"
+    target "member2101"
+    weight 3
   ]
   edge [
-    source 3009
-    target 4125
+    source "member150"
+    target "member2101"
+    weight 3
   ]
   edge [
-    source 9815
-    target 11022
+    source "member276"
+    target "member2101"
+    weight 3
   ]
   edge [
-    source 4532
-    target 10431
+    source "member150"
+    target "member982"
+    weight 3
   ]
   edge [
-    source 3960
-    target 10614
+    source "member276"
+    target "member982"
+    weight 3
   ]
   edge [
-    source 317
-    target 2887
+    source "member150"
+    target "member276"
+    weight 3
   ]
   edge [
-    source 6595
-    target 6888
+    source "member365"
+    target "member7033"
+    weight 2
   ]
   edge [
-    source 4481
-    target 5398
+    source "member2999"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 2195
-    target 9241
+    source "member7156"
+    target "member8415"
+    weight 2
   ]
   edge [
-    source 45
-    target 213
+    source "member5558"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 2732
-    target 9329
+    source "member7156"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 8730
-    target 10311
+    source "member1391"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 10636
-    target 11022
+    source "member7156"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 4874
-    target 5558
+    source "member2999"
+    target "member5558"
+    weight 1
   ]
   edge [
-    source 4412
-    target 7333
+    source "member2999"
+    target "member9731"
+    weight 2
   ]
   edge [
-    source 1281
-    target 5788
+    source "member1391"
+    target "member2999"
+    weight 1
   ]
   edge [
-    source 8434
-    target 11072
+    source "member2999"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 7095
-    target 7476
+    source "member5558"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 1175
-    target 2243
+    source "member8415"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 45
-    target 5811
+    source "member1391"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 2812
-    target 7488
+    source "member8415"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 5561
-    target 12940
+    source "member5558"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 3730
-    target 8467
+    source "member1391"
+    target "member5558"
+    weight 1
   ]
   edge [
-    source 10306
-    target 10887
+    source "member5558"
+    target "member10955"
+    weight 2
   ]
   edge [
-    source 3468
-    target 8467
+    source "member1391"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 3295
-    target 9299
+    source "member9731"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 10005
-    target 12436
+    source "member1391"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 3295
-    target 9070
+    source "member1200"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 2893
-    target 11125
+    source "member2409"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 7216
-    target 10362
+    source "member6203"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 3295
-    target 5543
+    source "member1887"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 3582
-    target 10969
+    source "member1200"
+    target "member2409"
+    weight 1
   ]
   edge [
-    source 2176
-    target 8217
+    source "member1200"
+    target "member6203"
+    weight 1
   ]
   edge [
-    source 4828
-    target 6121
+    source "member1200"
+    target "member1887"
+    weight 1
   ]
   edge [
-    source 187
-    target 1092
+    source "member2409"
+    target "member6203"
+    weight 1
   ]
   edge [
-    source 2195
-    target 4932
+    source "member1887"
+    target "member2409"
+    weight 1
   ]
   edge [
-    source 4504
-    target 7946
+    source "member1887"
+    target "member6203"
+    weight 1
   ]
   edge [
-    source 56
-    target 3461
+    source "member2326"
+    target "member2890"
+    weight 1
   ]
   edge [
-    source 8084
-    target 9503
+    source "member511"
+    target "member1392"
+    weight 1
   ]
   edge [
-    source 21
-    target 1554
+    source "member511"
+    target "member10242"
+    weight 1
   ]
   edge [
-    source 1041
-    target 5811
+    source "member1392"
+    target "member10242"
+    weight 1
   ]
   edge [
-    source 973
-    target 4481
+    source "member2274"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 1554
-    target 10125
+    source "member2274"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 1172
-    target 6676
+    source "member2274"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 1999
-    target 2253
+    source "member438"
+    target "member2274"
+    weight 1
   ]
   edge [
-    source 1028
-    target 4825
+    source "member2274"
+    target "member5542"
+    weight 1
   ]
   edge [
-    source 880
-    target 2861
+    source "member11885"
+    target "member12484"
+    weight 2
   ]
   edge [
-    source 63
-    target 10712
+    source "member11886"
+    target "member12484"
+    weight 2
   ]
   edge [
-    source 841
-    target 9694
+    source "member438"
+    target "member12484"
+    weight 2
   ]
   edge [
-    source 6964
-    target 8196
+    source "member5542"
+    target "member12484"
+    weight 2
   ]
   edge [
-    source 841
-    target 1292
+    source "member11885"
+    target "member11886"
+    weight 2
   ]
   edge [
-    source 3157
-    target 11701
+    source "member438"
+    target "member11885"
+    weight 2
   ]
   edge [
-    source 398
-    target 1131
+    source "member5542"
+    target "member11885"
+    weight 2
   ]
   edge [
-    source 11
-    target 1625
+    source "member438"
+    target "member11886"
+    weight 2
   ]
   edge [
-    source 10431
-    target 12436
+    source "member5542"
+    target "member11886"
+    weight 2
   ]
   edge [
-    source 12031
-    target 13104
+    source "member438"
+    target "member5542"
+    weight 2
   ]
   edge [
-    source 1278
-    target 5876
+    source "member3536"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 9576
-    target 11284
+    source "member7431"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 11253
-    target 11461
+    source "member7357"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 8659
-    target 9329
+    source "member9577"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 1596
-    target 2887
+    source "member1124"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 3990
-    target 7208
+    source "member5831"
+    target "member11438"
+    weight 4
   ]
   edge [
-    source 1298
-    target 11452
+    source "member11438"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 7454
-    target 7916
+    source "member64"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 1761
-    target 11362
+    source "member11045"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 5619
-    target 8168
+    source "member11438"
+    target "member12893"
+    weight 3
   ]
   edge [
-    source 4776
-    target 9614
+    source "member7017"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 560
-    target 6684
+    source "member2177"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 3047
-    target 5009
+    source "member3536"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 163
-    target 4504
+    source "member3536"
+    target "member7357"
+    weight 2
   ]
   edge [
-    source 5561
-    target 11461
+    source "member3536"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 11259
-    target 13234
+    source "member1124"
+    target "member3536"
+    weight 1
   ]
   edge [
-    source 6049
-    target 9329
+    source "member3536"
+    target "member5831"
+    weight 2
   ]
   edge [
-    source 1547
-    target 2887
+    source "member3536"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 3960
-    target 12554
+    source "member64"
+    target "member3536"
+    weight 1
   ]
   edge [
-    source 1780
-    target 3009
+    source "member3536"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 5788
-    target 10048
+    source "member3536"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 1550
-    target 11443
+    source "member3536"
+    target "member7017"
+    weight 2
   ]
   edge [
-    source 10546
-    target 12394
+    source "member2177"
+    target "member3536"
+    weight 1
   ]
   edge [
-    source 10898
-    target 11125
+    source "member7357"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 1043
-    target 1175
+    source "member7431"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 1043
-    target 4293
+    source "member1124"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 852
-    target 1315
+    source "member5831"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 4508
-    target 13182
+    source "member7431"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 2981
-    target 11452
+    source "member64"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 1761
-    target 1949
+    source "member7431"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 3345
-    target 3921
+    source "member7431"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 3535
-    target 7837
+    source "member7017"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 8730
-    target 9627
+    source "member2177"
+    target "member7431"
+    weight 1
   ]
   edge [
-    source 6177
-    target 8059
+    source "member7357"
+    target "member9577"
+    weight 2
   ]
   edge [
-    source 121
-    target 11044
+    source "member1124"
+    target "member7357"
+    weight 1
   ]
   edge [
-    source 2260
-    target 13152
+    source "member5831"
+    target "member7357"
+    weight 3
   ]
   edge [
-    source 8168
-    target 11437
+    source "member7357"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 4874
-    target 9111
+    source "member64"
+    target "member7357"
+    weight 2
   ]
   edge [
-    source 11147
-    target 11456
+    source "member7357"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 6964
-    target 11821
+    source "member7357"
+    target "member12893"
+    weight 3
   ]
   edge [
-    source 5543
-    target 10401
+    source "member7017"
+    target "member7357"
+    weight 3
   ]
   edge [
-    source 9458
-    target 11125
+    source "member2177"
+    target "member7357"
+    weight 2
   ]
   edge [
-    source 3039
-    target 6065
+    source "member1124"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 162
-    target 1547
+    source "member5831"
+    target "member9577"
+    weight 2
   ]
   edge [
-    source 7756
-    target 7965
+    source "member9577"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 11
-    target 10125
+    source "member64"
+    target "member9577"
+    weight 2
   ]
   edge [
-    source 2560
-    target 12483
+    source "member9577"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 811
-    target 11081
+    source "member9577"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 196
-    target 11568
+    source "member7017"
+    target "member9577"
+    weight 2
   ]
   edge [
-    source 1278
-    target 5745
+    source "member2177"
+    target "member9577"
+    weight 2
   ]
   edge [
-    source 12031
-    target 12564
+    source "member1124"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 3769
-    target 8390
+    source "member1124"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 11
-    target 4468
+    source "member64"
+    target "member1124"
+    weight 4
   ]
   edge [
-    source 6008
-    target 13182
+    source "member1124"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 510
-    target 3169
+    source "member1124"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 9158
-    target 12940
+    source "member1124"
+    target "member7017"
+    weight 1
   ]
   edge [
-    source 7213
-    target 10431
+    source "member1124"
+    target "member2177"
+    weight 1
   ]
   edge [
-    source 3724
-    target 6060
+    source "member5831"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 1172
-    target 9375
+    source "member64"
+    target "member5831"
+    weight 3
   ]
   edge [
-    source 7016
-    target 12892
+    source "member5831"
+    target "member11045"
+    weight 3
   ]
   edge [
-    source 1431
-    target 4531
+    source "member5831"
+    target "member12893"
+    weight 3
   ]
   edge [
-    source 443
-    target 11072
+    source "member5831"
+    target "member7017"
+    weight 3
   ]
   edge [
-    source 277
-    target 7476
+    source "member2177"
+    target "member5831"
+    weight 2
   ]
   edge [
-    source 6163
-    target 8137
+    source "member64"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 3960
-    target 7319
+    source "member11045"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 2176
-    target 7016
+    source "member12468"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 121
-    target 8168
+    source "member7017"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 2998
-    target 10471
+    source "member2177"
+    target "member12468"
+    weight 2
   ]
   edge [
-    source 986
-    target 7155
+    source "member64"
+    target "member11045"
+    weight 3
   ]
   edge [
-    source 63
-    target 11461
+    source "member64"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 1145
-    target 2861
+    source "member64"
+    target "member7017"
+    weight 2
   ]
   edge [
-    source 437
-    target 6567
+    source "member64"
+    target "member2177"
+    weight 2
   ]
   edge [
-    source 317
-    target 2072
+    source "member11045"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 227
-    target 8414
+    source "member7017"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 7454
-    target 7497
+    source "member2177"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 1041
-    target 1986
+    source "member7017"
+    target "member12893"
+    weight 3
   ]
   edge [
-    source 1360
-    target 2148
+    source "member2177"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 7916
-    target 10560
+    source "member2177"
+    target "member7017"
+    weight 2
   ]
   edge [
-    source 1281
-    target 5876
+    source "member1146"
+    target "member1781"
+    weight 1
   ]
   edge [
-    source 1450
-    target 3582
+    source "member1191"
+    target "member1781"
+    weight 1
   ]
   edge [
-    source 2072
-    target 7946
+    source "member1781"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 8325
-    target 11253
+    source "member1781"
+    target "member4126"
+    weight 2
   ]
   edge [
-    source 56
-    target 5005
+    source "member1176"
+    target "member1781"
+    weight 2
   ]
   edge [
-    source 3874
-    target 3990
+    source "member701"
+    target "member1781"
+    weight 1
   ]
   edge [
-    source 2545
-    target 4114
+    source "member1178"
+    target "member1781"
+    weight 1
   ]
   edge [
-    source 9503
-    target 10471
+    source "member437"
+    target "member1781"
+    weight 2
   ]
   edge [
-    source 1123
-    target 7016
+    source "member1781"
+    target "member5351"
+    weight 2
   ]
   edge [
-    source 1358
-    target 7965
+    source "member1781"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 8196
-    target 10205
+    source "member1781"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 5528
-    target 10636
+    source "member881"
+    target "member1781"
+    weight 1
   ]
   edge [
-    source 157
-    target 7946
+    source "member1146"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 4840
-    target 11022
+    source "member1146"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 5233
-    target 11362
+    source "member1146"
+    target "member4126"
+    weight 2
   ]
   edge [
-    source 1636
-    target 11967
+    source "member1146"
+    target "member1176"
+    weight 2
   ]
   edge [
-    source 1292
-    target 6973
+    source "member701"
+    target "member1146"
+    weight 1
   ]
   edge [
-    source 2260
-    target 5558
+    source "member1146"
+    target "member1178"
+    weight 3
   ]
   edge [
-    source 6000
-    target 7333
+    source "member437"
+    target "member1146"
+    weight 1
   ]
   edge [
-    source 3039
-    target 7511
+    source "member1146"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 1038
-    target 1315
+    source "member1146"
+    target "member4294"
+    weight 3
   ]
   edge [
-    source 1483
-    target 12548
+    source "member1146"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 6065
-    target 10431
+    source "member881"
+    target "member1146"
+    weight 3
   ]
   edge [
-    source 6177
-    target 12070
+    source "member1191"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 21
-    target 4531
+    source "member1191"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 2253
-    target 4881
+    source "member1176"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 11002
-    target 11437
+    source "member701"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 1554
-    target 7095
+    source "member1178"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 10677
-    target 12809
+    source "member437"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 5561
-    target 5830
+    source "member1191"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 1349
-    target 8612
+    source "member1191"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 11821
-    target 11885
+    source "member1191"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 2998
-    target 11387
+    source "member881"
+    target "member1191"
+    weight 1
   ]
   edge [
-    source 3039
-    target 9173
+    source "member2244"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 3769
-    target 9198
+    source "member1176"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 3152
-    target 12119
+    source "member701"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 5528
-    target 11022
+    source "member1178"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 2273
-    target 11885
+    source "member437"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 3944
-    target 9953
+    source "member2244"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 5009
-    target 10048
+    source "member2244"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 2998
-    target 11881
+    source "member2244"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 110
-    target 2887
+    source "member881"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 1010
-    target 10005
+    source "member1176"
+    target "member4126"
+    weight 3
   ]
   edge [
-    source 5655
-    target 7536
+    source "member701"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 121
-    target 12467
+    source "member1178"
+    target "member4126"
+    weight 2
   ]
   edge [
-    source 8580
-    target 13097
+    source "member437"
+    target "member4126"
+    weight 2
   ]
   edge [
-    source 2893
-    target 11370
+    source "member4126"
+    target "member5351"
+    weight 2
   ]
   edge [
-    source 2957
-    target 11126
+    source "member4126"
+    target "member4294"
+    weight 2
   ]
   edge [
-    source 2458
-    target 4468
+    source "member3010"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 1758
-    target 6866
+    source "member881"
+    target "member4126"
+    weight 2
   ]
   edge [
-    source 7535
-    target 13096
+    source "member701"
+    target "member1176"
+    weight 1
   ]
   edge [
-    source 4874
-    target 11437
+    source "member1176"
+    target "member1178"
+    weight 2
   ]
   edge [
-    source 1636
-    target 5528
+    source "member437"
+    target "member1176"
+    weight 2
   ]
   edge [
-    source 4995
-    target 9103
+    source "member1176"
+    target "member5351"
+    weight 2
   ]
   edge [
-    source 8167
-    target 8434
+    source "member1176"
+    target "member4294"
+    weight 2
   ]
   edge [
-    source 9503
-    target 11387
+    source "member1176"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 1358
-    target 2694
+    source "member881"
+    target "member1176"
+    weight 2
   ]
   edge [
-    source 9730
-    target 12189
+    source "member701"
+    target "member1178"
+    weight 1
   ]
   edge [
-    source 1547
-    target 2072
+    source "member437"
+    target "member701"
+    weight 1
   ]
   edge [
-    source 121
-    target 6810
+    source "member701"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 1281
-    target 5745
+    source "member701"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 85
-    target 2686
+    source "member701"
+    target "member3010"
+    weight 2
   ]
   edge [
-    source 9819
-    target 10311
+    source "member701"
+    target "member881"
+    weight 1
   ]
   edge [
-    source 7319
-    target 9801
+    source "member437"
+    target "member1178"
+    weight 1
   ]
   edge [
-    source 8612
-    target 11035
+    source "member1178"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 1123
-    target 12892
+    source "member1178"
+    target "member4294"
+    weight 5
   ]
   edge [
-    source 7430
-    target 10800
+    source "member1178"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 6049
-    target 8370
+    source "member881"
+    target "member1178"
+    weight 5
   ]
   edge [
-    source 841
-    target 12648
+    source "member437"
+    target "member5351"
+    weight 2
   ]
   edge [
-    source 1219
-    target 5626
+    source "member437"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 7965
-    target 9503
+    source "member437"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 10401
-    target 12658
+    source "member437"
+    target "member881"
+    weight 1
   ]
   edge [
-    source 3345
-    target 11099
+    source "member4294"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 3461
-    target 10636
+    source "member3010"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 7535
-    target 8378
+    source "member881"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 317
-    target 1653
+    source "member3010"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 1010
-    target 6684
+    source "member881"
+    target "member4294"
+    weight 5
   ]
   edge [
-    source 7457
-    target 9856
+    source "member881"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 4874
-    target 10511
+    source "member3437"
+    target "member11294"
+    weight 3
   ]
   edge [
-    source 4810
-    target 13199
+    source "member881"
+    target "member3437"
+    weight 3
   ]
   edge [
-    source 2176
-    target 7356
+    source "member1178"
+    target "member3437"
+    weight 3
   ]
   edge [
-    source 5543
-    target 9815
+    source "member3437"
+    target "member4294"
+    weight 3
   ]
   edge [
-    source 490
-    target 1315
+    source "member881"
+    target "member11294"
+    weight 4
   ]
   edge [
-    source 2560
-    target 6973
+    source "member1178"
+    target "member11294"
+    weight 4
   ]
   edge [
-    source 1315
-    target 2481
+    source "member4294"
+    target "member11294"
+    weight 4
   ]
   edge [
-    source 2123
-    target 9070
+    source "member6747"
+    target "member13004"
+    weight 2
   ]
   edge [
-    source 6964
-    target 9694
+    source "member3960"
+    target "member6747"
+    weight 1
   ]
   edge [
-    source 4840
-    target 5005
+    source "member4875"
+    target "member6747"
+    weight 2
   ]
   edge [
-    source 1172
-    target 7536
+    source "member4256"
+    target "member6747"
+    weight 2
   ]
   edge [
-    source 437
-    target 10205
+    source "member6747"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 2123
-    target 5543
+    source "member6747"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 8580
-    target 11618
+    source "member3960"
+    target "member13004"
+    weight 1
   ]
   edge [
-    source 2260
-    target 4874
+    source "member4875"
+    target "member13004"
+    weight 2
   ]
   edge [
-    source 7454
-    target 11135
+    source "member4256"
+    target "member13004"
+    weight 2
   ]
   edge [
-    source 2481
-    target 2893
+    source "member13004"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 1636
-    target 7756
+    source "member12483"
+    target "member13004"
+    weight 1
   ]
   edge [
-    source 2111
-    target 13153
+    source "member3960"
+    target "member4875"
+    weight 1
   ]
   edge [
-    source 1092
-    target 2408
+    source "member3960"
+    target "member4256"
+    weight 1
   ]
   edge [
-    source 10898
-    target 11370
+    source "member3960"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 4810
-    target 9299
+    source "member3960"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 121
-    target 11253
+    source "member4256"
+    target "member4875"
+    weight 2
   ]
   edge [
-    source 8346
-    target 12470
+    source "member4875"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 1653
-    target 9651
+    source "member4256"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 482
-    target 2893
+    source "member4256"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 4776
-    target 6008
+    source "member12483"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 3461
-    target 11022
+    source "member276"
+    target "member8347"
+    weight 2
   ]
   edge [
-    source 8378
-    target 13096
+    source "member276"
+    target "member2515"
+    weight 1
   ]
   edge [
-    source 3990
-    target 11860
+    source "member8347"
+    target "member12471"
+    weight 2
   ]
   edge [
-    source 2408
-    target 7454
+    source "member2515"
+    target "member12471"
+    weight 1
   ]
   edge [
-    source 3819
-    target 4808
+    source "member2515"
+    target "member8347"
+    weight 1
   ]
   edge [
-    source 9070
-    target 10471
+    source "member150"
+    target "member8347"
+    weight 2
   ]
   edge [
-    source 5422
-    target 9008
+    source "member982"
+    target "member8347"
+    weight 2
   ]
   edge [
-    source 317
-    target 5422
+    source "member2101"
+    target "member8347"
+    weight 2
   ]
   edge [
-    source 6678
-    target 11035
+    source "member150"
+    target "member2515"
+    weight 1
   ]
   edge [
-    source 9458
-    target 11370
+    source "member982"
+    target "member2515"
+    weight 1
   ]
   edge [
-    source 227
-    target 5528
+    source "member2101"
+    target "member2515"
+    weight 1
   ]
   edge [
-    source 9642
-    target 9730
+    source "member6001"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 2243
-    target 4125
+    source "member3265"
+    target "member6001"
+    weight 2
   ]
   edge [
-    source 3582
-    target 5655
+    source "member6001"
+    target "member8894"
+    weight 2
   ]
   edge [
-    source 8493
-    target 13019
+    source "member2459"
+    target "member6001"
+    weight 2
   ]
   edge [
-    source 63
-    target 11284
+    source "member6001"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 11284
-    target 13104
+    source "member278"
+    target "member6001"
+    weight 2
   ]
   edge [
-    source 11492
-    target 11821
+    source "member6001"
+    target "member8686"
+    weight 2
   ]
   edge [
-    source 3039
-    target 7213
+    source "member1555"
+    target "member6001"
+    weight 2
   ]
   edge [
-    source 3500
-    target 10577
+    source "member4469"
+    target "member6001"
+    weight 2
   ]
   edge [
-    source 1002
-    target 1360
+    source "member3265"
+    target "member10126"
+    weight 3
   ]
   edge [
-    source 1315
-    target 11125
+    source "member8894"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 2031
-    target 4125
+    source "member2459"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 2812
-    target 6676
+    source "member7477"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 2545
-    target 10762
+    source "member278"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 3769
-    target 11259
+    source "member8686"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 266
-    target 766
+    source "member1555"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 7356
-    target 8325
+    source "member4469"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 436
-    target 1177
+    source "member3265"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 7454
-    target 11786
+    source "member2459"
+    target "member3265"
+    weight 3
   ]
   edge [
-    source 6000
-    target 8203
+    source "member3265"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 4698
-    target 12482
+    source "member278"
+    target "member3265"
+    weight 3
   ]
   edge [
-    source 1420
-    target 11821
+    source "member3265"
+    target "member8686"
+    weight 3
   ]
   edge [
-    source 5999
-    target 9815
+    source "member1555"
+    target "member3265"
+    weight 3
   ]
   edge [
-    source 110
-    target 2998
+    source "member3265"
+    target "member4469"
+    weight 3
   ]
   edge [
-    source 8678
-    target 12548
+    source "member2459"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 7488
-    target 13096
+    source "member7477"
+    target "member8894"
+    weight 2
   ]
   edge [
-    source 2130
-    target 3960
+    source "member278"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 1547
-    target 1653
+    source "member8686"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 4840
-    target 6186
+    source "member1555"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 549
-    target 4208
+    source "member4469"
+    target "member8894"
+    weight 3
   ]
   edge [
-    source 1358
-    target 2540
+    source "member2459"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 9642
-    target 13234
+    source "member278"
+    target "member2459"
+    weight 3
   ]
   edge [
-    source 1240
-    target 11072
+    source "member2459"
+    target "member8686"
+    weight 3
   ]
   edge [
-    source 1547
-    target 9008
+    source "member1555"
+    target "member2459"
+    weight 3
   ]
   edge [
-    source 7356
-    target 8217
+    source "member2459"
+    target "member4469"
+    weight 3
   ]
   edge [
-    source 277
-    target 6000
+    source "member278"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 1219
-    target 10720
+    source "member7477"
+    target "member8686"
+    weight 2
   ]
   edge [
-    source 8725
-    target 12070
+    source "member1555"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 1120
-    target 1701
+    source "member4469"
+    target "member7477"
+    weight 2
   ]
   edge [
-    source 986
-    target 5005
+    source "member278"
+    target "member8686"
+    weight 3
   ]
   edge [
-    source 1450
-    target 13096
+    source "member278"
+    target "member1555"
+    weight 3
   ]
   edge [
-    source 8390
-    target 9642
+    source "member278"
+    target "member4469"
+    weight 3
   ]
   edge [
-    source 4318
-    target 8297
+    source "member1555"
+    target "member8686"
+    weight 3
   ]
   edge [
-    source 3874
-    target 3970
+    source "member4469"
+    target "member8686"
+    weight 3
   ]
   edge [
-    source 6163
-    target 7155
+    source "member1555"
+    target "member4469"
+    weight 3
   ]
   edge [
-    source 1596
-    target 7179
+    source "member1279"
+    target "member5010"
+    weight 1
   ]
   edge [
-    source 1092
-    target 9452
+    source "member5010"
+    target "member5463"
+    weight 1
   ]
   edge [
-    source 7488
-    target 8378
+    source "member5010"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1450
-    target 6945
+    source "member1279"
+    target "member5463"
+    weight 1
   ]
   edge [
-    source 63
-    target 9576
+    source "member1279"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 6684
-    target 11881
+    source "member5463"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1876
-    target 1949
+    source "member2515"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 886
-    target 1390
+    source "member657"
+    target "member2515"
+    weight 1
   ]
   edge [
-    source 1886
-    target 2408
+    source "member657"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 10712
-    target 12482
+    source "member188"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 7095
-    target 9386
+    source "member137"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 436
-    target 1190
+    source "member2254"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 3990
-    target 8467
+    source "member4882"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 5528
-    target 11604
+    source "member1171"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 44
-    target 2243
+    source "member2000"
+    target "member9453"
+    weight 2
   ]
   edge [
-    source 4532
-    target 6684
+    source "member9453"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 8137
-    target 8414
+    source "member137"
+    target "member188"
+    weight 2
   ]
   edge [
-    source 5541
-    target 8196
+    source "member188"
+    target "member2254"
+    weight 2
   ]
   edge [
-    source 2481
-    target 11370
+    source "member188"
+    target "member4882"
+    weight 2
   ]
   edge [
-    source 1010
-    target 3039
+    source "member188"
+    target "member1171"
+    weight 2
   ]
   edge [
-    source 7535
-    target 10969
+    source "member188"
+    target "member2000"
+    weight 2
   ]
   edge [
-    source 6822
-    target 10359
+    source "member188"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 9198
-    target 13234
+    source "member137"
+    target "member2254"
+    weight 2
   ]
   edge [
-    source 1177
-    target 2887
+    source "member137"
+    target "member4882"
+    weight 2
   ]
   edge [
-    source 7179
-    target 9730
+    source "member137"
+    target "member1171"
+    weight 2
   ]
   edge [
-    source 1450
-    target 8378
+    source "member137"
+    target "member2000"
+    weight 2
   ]
   edge [
-    source 5042
-    target 11072
+    source "member137"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 11
-    target 3234
+    source "member2254"
+    target "member4882"
+    weight 2
   ]
   edge [
-    source 8685
-    target 8893
+    source "member1171"
+    target "member2254"
+    weight 2
   ]
   edge [
-    source 2416
-    target 3921
+    source "member2000"
+    target "member2254"
+    weight 2
   ]
   edge [
-    source 6177
-    target 12809
+    source "member2254"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 277
-    target 4436
+    source "member1171"
+    target "member4882"
+    weight 2
   ]
   edge [
-    source 2458
-    target 4412
+    source "member2000"
+    target "member4882"
+    weight 2
   ]
   edge [
-    source 482
-    target 11370
+    source "member4882"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 9893
-    target 10614
+    source "member1171"
+    target "member2000"
+    weight 2
   ]
   edge [
-    source 7837
-    target 12030
+    source "member1171"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 9693
-    target 11492
+    source "member2000"
+    target "member13085"
+    weight 2
   ]
   edge [
-    source 8414
-    target 11962
+    source "member8435"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 5830
-    target 11044
+    source "member539"
+    target "member8435"
+    weight 2
   ]
   edge [
-    source 2072
-    target 4376
+    source "member6178"
+    target "member8435"
+    weight 2
   ]
   edge [
-    source 2072
-    target 6182
+    source "member8435"
+    target "member9104"
+    weight 2
   ]
   edge [
-    source 196
-    target 6699
+    source "member539"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 1026
-    target 4825
+    source "member6178"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 2123
-    target 3295
+    source "member9104"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 121
-    target 7837
+    source "member539"
+    target "member6178"
+    weight 2
   ]
   edge [
-    source 157
-    target 4376
+    source "member539"
+    target "member9104"
+    weight 2
   ]
   edge [
-    source 6110
-    target 8325
+    source "member6178"
+    target "member9104"
+    weight 2
   ]
   edge [
-    source 7430
-    target 9576
+    source "member1044"
+    target "member1178"
+    weight 3
   ]
   edge [
-    source 5999
-    target 12658
+    source "member1178"
+    target "member2862"
+    weight 2
   ]
   edge [
-    source 2812
-    target 9375
+    source "member1178"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 9576
-    target 11437
+    source "member1178"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 667
-    target 1445
+    source "member1044"
+    target "member1146"
+    weight 2
   ]
   edge [
-    source 4810
-    target 11481
+    source "member1044"
+    target "member3437"
+    weight 2
   ]
   edge [
-    source 12940
-    target 13104
+    source "member1044"
+    target "member2862"
+    weight 2
   ]
   edge [
-    source 8994
-    target 11081
+    source "member1044"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 4468
-    target 9386
+    source "member1044"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 1876
-    target 6163
+    source "member1044"
+    target "member4294"
+    weight 3
   ]
   edge [
-    source 3047
-    target 10855
+    source "member1044"
+    target "member11294"
+    weight 3
   ]
   edge [
-    source 3819
-    target 9614
+    source "member881"
+    target "member1044"
+    weight 3
   ]
   edge [
-    source 6077
-    target 9953
+    source "member1146"
+    target "member3437"
+    weight 1
   ]
   edge [
-    source 436
-    target 3009
+    source "member1146"
+    target "member2862"
+    weight 1
   ]
   edge [
-    source 5999
-    target 8084
+    source "member1146"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 9109
-    target 9606
+    source "member1146"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 1954
-    target 3724
+    source "member1146"
+    target "member11294"
+    weight 2
   ]
   edge [
-    source 560
-    target 7511
+    source "member2862"
+    target "member3437"
+    weight 2
   ]
   edge [
-    source 6567
-    target 6964
+    source "member3437"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 1257
-    target 3009
+    source "member2888"
+    target "member3437"
+    weight 1
   ]
   edge [
-    source 1450
-    target 7488
+    source "member2862"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 5422
-    target 9649
+    source "member2862"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 1405
-    target 11358
+    source "member2862"
+    target "member4294"
+    weight 2
   ]
   edge [
-    source 44
-    target 3424
+    source "member2862"
+    target "member11294"
+    weight 2
   ]
   edge [
-    source 5541
-    target 11821
+    source "member881"
+    target "member2862"
+    weight 2
   ]
   edge [
-    source 8325
-    target 11452
+    source "member2888"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 5830
-    target 8168
+    source "member4294"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 3769
-    target 3907
+    source "member11294"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 880
-    target 3436
+    source "member881"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 12467
-    target 12892
+    source "member2888"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 9730
-    target 11881
+    source "member2888"
+    target "member11294"
+    weight 1
   ]
   edge [
-    source 8378
-    target 10969
+    source "member881"
+    target "member2888"
+    weight 1
   ]
   edge [
-    source 3424
-    target 12211
+    source "member8726"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 3724
-    target 12652
+    source "member8726"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 1954
-    target 6060
+    source "member8726"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 11253
-    target 11362
+    source "member8726"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 9694
-    target 12452
+    source "member11453"
+    target "member12555"
+    weight 1
   ]
   edge [
-    source 1636
-    target 7965
+    source "member11453"
+    target "member13272"
+    weight 1
   ]
   edge [
-    source 10511
-    target 12482
+    source "member11453"
+    target "member13157"
+    weight 1
   ]
   edge [
-    source 7016
-    target 13104
+    source "member3914"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 6964
-    target 12648
+    source "member11453"
+    target "member12565"
+    weight 1
   ]
   edge [
-    source 11158
-    target 12558
+    source "member9802"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 4995
-    target 9819
+    source "member1664"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 2458
-    target 3234
+    source "member3961"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 7213
-    target 10005
+    source "member2131"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 1172
-    target 1450
+    source "member8828"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 370
-    target 4209
+    source "member11453"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 6060
-    target 12394
+    source "member10615"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 1420
-    target 9694
+    source "member11453"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 12352
-    target 12394
+    source "member12555"
+    target "member13272"
+    weight 2
   ]
   edge [
-    source 1717
-    target 10146
+    source "member12555"
+    target "member13157"
+    weight 2
   ]
   edge [
-    source 5495
-    target 11044
+    source "member3914"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 7435
-    target 11860
+    source "member12555"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 7488
-    target 10969
+    source "member9802"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 3169
-    target 9109
+    source "member1664"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 63
-    target 1550
+    source "member3961"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 9456
-    target 10306
+    source "member2131"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 2499
-    target 10855
+    source "member8828"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 4932
-    target 11461
+    source "member12032"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 811
-    target 10048
+    source "member10615"
+    target "member12555"
+    weight 1
   ]
   edge [
-    source 4436
-    target 8893
+    source "member12071"
+    target "member12555"
+    weight 2
   ]
   edge [
-    source 277
-    target 9386
+    source "member12565"
+    target "member13272"
+    weight 2
   ]
   edge [
-    source 1746
-    target 7356
+    source "member10615"
+    target "member13272"
+    weight 1
   ]
   edge [
-    source 6699
-    target 11568
+    source "member12565"
+    target "member13157"
+    weight 2
   ]
   edge [
-    source 7965
-    target 11387
+    source "member10615"
+    target "member13157"
+    weight 1
   ]
   edge [
-    source 1761
-    target 6810
+    source "member3914"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 1653
-    target 4504
+    source "member3914"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 841
-    target 9693
+    source "member9802"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 1450
-    target 10969
+    source "member1664"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 21
-    target 277
+    source "member3961"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 8390
-    target 9730
+    source "member2131"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 5841
-    target 10490
+    source "member8828"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 5830
-    target 12467
+    source "member12032"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 3854
-    target 8659
+    source "member10615"
+    target "member12565"
+    weight 1
   ]
   edge [
-    source 766
-    target 8616
+    source "member12071"
+    target "member12565"
+    weight 2
   ]
   edge [
-    source 1663
-    target 9801
+    source "member9802"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 3234
-    target 8685
+    source "member1664"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 213
-    target 218
+    source "member3961"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 2694
-    target 11072
+    source "member2131"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 1002
-    target 4808
+    source "member8828"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 3921
-    target 10146
+    source "member10615"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 227
-    target 11456
+    source "member10615"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 3959
-    target 6237
+    source "member170"
+    target "member13020"
+    weight 2
   ]
   edge [
-    source 1092
-    target 4881
+    source "member170"
+    target "member11464"
+    weight 2
   ]
   edge [
-    source 10306
-    target 12211
+    source "member170"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 1431
-    target 3264
+    source "member170"
+    target "member8581"
+    weight 2
   ]
   edge [
-    source 3424
-    target 9456
+    source "member11464"
+    target "member13020"
+    weight 2
   ]
   edge [
-    source 218
-    target 3005
+    source "member8494"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 6676
-    target 7535
+    source "member8581"
+    target "member13020"
+    weight 2
   ]
   edge [
-    source 880
-    target 1175
+    source "member8494"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 4874
-    target 4932
+    source "member8581"
+    target "member11464"
+    weight 2
   ]
   edge [
-    source 398
-    target 10062
+    source "member8494"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 1360
-    target 10788
+    source "member5043"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 7756
-    target 9299
+    source "member5529"
+    target "member9820"
+    weight 2
   ]
   edge [
-    source 63
-    target 1298
+    source "member1132"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 5495
-    target 8168
+    source "member8168"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 7356
-    target 12892
+    source "member8060"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 227
-    target 7965
+    source "member9217"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 5233
-    target 8168
+    source "member9628"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 3229
-    target 10677
+    source "member9820"
+    target "member11073"
+    weight 2
   ]
   edge [
-    source 2812
-    target 7536
+    source "member1747"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 3424
-    target 4208
+    source "member539"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 7454
-    target 7542
+    source "member9820"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 1010
-    target 3392
+    source "member4996"
+    target "member9820"
+    weight 2
   ]
   edge [
-    source 1292
-    target 11821
+    source "member6178"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 3264
-    target 8685
+    source "member9104"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 2072
-    target 2887
+    source "member8435"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 6143
-    target 10311
+    source "member8731"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 8203
-    target 9386
+    source "member5043"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 9693
-    target 12483
+    source "member1132"
+    target "member5043"
+    weight 1
   ]
   edge [
-    source 1819
-    target 11603
+    source "member5043"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 560
-    target 7213
+    source "member5043"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 157
-    target 2887
+    source "member5043"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 3975
-    target 9191
+    source "member5043"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 8217
-    target 12030
+    source "member5043"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 1145
-    target 3436
+    source "member1747"
+    target "member5043"
+    weight 1
   ]
   edge [
-    source 121
-    target 11452
+    source "member539"
+    target "member5043"
+    weight 1
   ]
   edge [
-    source 4810
-    target 10401
+    source "member5043"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 11821
-    target 12483
+    source "member4996"
+    target "member5043"
+    weight 1
   ]
   edge [
-    source 4376
-    target 9651
+    source "member5043"
+    target "member6178"
+    weight 1
   ]
   edge [
-    source 11387
-    target 11962
+    source "member5043"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 3295
-    target 3461
+    source "member5043"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 2560
-    target 8196
+    source "member5043"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 6065
-    target 6684
+    source "member1132"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 6121
-    target 12772
+    source "member5529"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 2372
-    target 11443
+    source "member5529"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 10069
-    target 10146
+    source "member5529"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 7435
-    target 8467
+    source "member5529"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 7333
-    target 8685
+    source "member5529"
+    target "member11073"
+    weight 2
   ]
   edge [
-    source 7095
-    target 10125
+    source "member1747"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 370
-    target 2887
+    source "member539"
+    target "member5529"
+    weight 1
   ]
   edge [
-    source 10677
-    target 13263
+    source "member5529"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 1986
-    target 3005
+    source "member4996"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 6077
-    target 12436
+    source "member5529"
+    target "member6178"
+    weight 1
   ]
   edge [
-    source 2893
-    target 9982
+    source "member5529"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 5585
-    target 12648
+    source "member5529"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 2325
-    target 9232
+    source "member5529"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 12554
-    target 13156
+    source "member1132"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 21
-    target 3264
+    source "member1132"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 8084
-    target 13199
+    source "member1132"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 5830
-    target 11253
+    source "member1132"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 1976
-    target 9456
+    source "member1132"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 3295
-    target 10636
+    source "member1132"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 4224
-    target 11099
+    source "member539"
+    target "member1132"
+    weight 1
   ]
   edge [
-    source 3854
-    target 10105
+    source "member1132"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 2130
-    target 12031
+    source "member1132"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 9111
-    target 11461
+    source "member1132"
+    target "member6178"
+    weight 1
   ]
   edge [
-    source 1112
-    target 11373
+    source "member1132"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 3907
-    target 8390
+    source "member1132"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 1625
-    target 3264
+    source "member1132"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 6186
-    target 10887
+    source "member8060"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 1358
-    target 9299
+    source "member8168"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 9191
-    target 11081
+    source "member8168"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 4531
-    target 9386
+    source "member8168"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 8100
-    target 12505
+    source "member1747"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 2998
-    target 3295
+    source "member539"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 10887
-    target 12211
+    source "member8168"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 10471
-    target 11967
+    source "member4996"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 5541
-    target 9694
+    source "member6178"
+    target "member8168"
+    weight 1
   ]
   edge [
-    source 10712
-    target 12030
+    source "member8168"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 4115
-    target 13263
+    source "member8168"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 766
-    target 7029
+    source "member8168"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 2998
-    target 11962
+    source "member8060"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 549
-    target 12809
+    source "member8060"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 973
-    target 2111
+    source "member8060"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 1298
-    target 12030
+    source "member1747"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 7916
-    target 11786
+    source "member539"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 1596
-    target 3959
+    source "member8060"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 3970
-    target 12652
+    source "member4996"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 3295
-    target 11022
+    source "member6178"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 549
-    target 3769
+    source "member8060"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 852
-    target 4481
+    source "member8060"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 4468
-    target 10125
+    source "member8060"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 3069
-    target 4114
+    source "member9217"
+    target "member9628"
+    weight 2
   ]
   edge [
-    source 5495
-    target 6810
+    source "member9217"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 2560
-    target 5585
+    source "member1747"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 1120
-    target 4115
+    source "member539"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 2325
-    target 7488
+    source "member9217"
+    target "member10312"
+    weight 2
   ]
   edge [
-    source 9815
-    target 10471
+    source "member4996"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 3039
-    target 6077
+    source "member6178"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 9503
-    target 11962
+    source "member9104"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 2260
-    target 11443
+    source "member8435"
+    target "member9217"
+    weight 1
   ]
   edge [
-    source 8730
-    target 11072
+    source "member8731"
+    target "member9217"
+    weight 2
   ]
   edge [
-    source 6000
-    target 7476
+    source "member9628"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 227
-    target 3345
+    source "member1747"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 4828
-    target 9241
+    source "member539"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 5999
-    target 8414
+    source "member9628"
+    target "member10312"
+    weight 2
   ]
   edge [
-    source 3044
-    target 10887
+    source "member4996"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 277
-    target 1625
+    source "member6178"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 11022
-    target 11967
+    source "member9104"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 6945
-    target 9232
+    source "member8435"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 1145
-    target 1175
+    source "member8731"
+    target "member9628"
+    weight 3
   ]
   edge [
-    source 1219
-    target 3047
+    source "member1747"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 8059
-    target 9103
+    source "member539"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 1002
-    target 9614
+    source "member10312"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 6699
-    target 11800
+    source "member4996"
+    target "member11073"
+    weight 2
   ]
   edge [
-    source 1954
-    target 7208
+    source "member6178"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 863
-    target 2545
+    source "member9104"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 1746
-    target 7179
+    source "member8435"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 3047
-    target 10403
+    source "member8731"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 886
-    target 1854
+    source "member539"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 2981
-    target 6110
+    source "member1747"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 3500
-    target 8659
+    source "member1747"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 398
-    target 6237
+    source "member1747"
+    target "member6178"
+    weight 1
   ]
   edge [
-    source 1131
-    target 6237
+    source "member1747"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 6177
-    target 9216
+    source "member1747"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 3436
-    target 4293
+    source "member1747"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 1954
-    target 2863
+    source "member539"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 7756
-    target 11481
+    source "member539"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 11492
-    target 12648
+    source "member539"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 5495
-    target 11253
+    source "member4996"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 6163
-    target 8414
+    source "member6178"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 5543
-    target 11967
+    source "member9104"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 5233
-    target 11253
+    source "member8435"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 8893
-    target 9386
+    source "member8731"
+    target "member10312"
+    weight 2
   ]
   edge [
-    source 3157
-    target 12462
+    source "member4996"
+    target "member6178"
+    weight 1
   ]
   edge [
-    source 3169
-    target 4214
+    source "member4996"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 2273
-    target 11884
+    source "member4996"
+    target "member8435"
+    weight 1
   ]
   edge [
-    source 4197
-    target 11072
+    source "member4996"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 4504
-    target 9008
+    source "member6178"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 538
-    target 8059
+    source "member8731"
+    target "member9104"
+    weight 1
   ]
   edge [
-    source 5408
-    target 11370
+    source "member8435"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 9815
-    target 11387
+    source "member892"
+    target "member4225"
+    weight 2
   ]
   edge [
-    source 6177
-    target 8434
+    source "member1173"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 1483
-    target 12030
+    source "member9753"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 1190
-    target 2243
+    source "member1451"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 1170
-    target 1999
+    source "member5656"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 161
-    target 9649
+    source "member9753"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 1112
-    target 10954
+    source "member2813"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 8422
-    target 11463
+    source "member7537"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 10636
-    target 11387
+    source "member8379"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 3044
-    target 6699
+    source "member9233"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 549
-    target 3229
+    source "member6677"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 816
-    target 1278
+    source "member9548"
+    target "member9753"
+    weight 1
   ]
   edge [
-    source 1746
-    target 8059
+    source "member3583"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 981
-    target 2514
+    source "member7536"
+    target "member9753"
+    weight 2
   ]
   edge [
-    source 1043
-    target 1177
+    source "member1173"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 11452
-    target 12467
+    source "member1173"
+    target "member1451"
+    weight 2
   ]
   edge [
-    source 2957
-    target 7454
+    source "member1173"
+    target "member5656"
+    weight 3
   ]
   edge [
-    source 1876
-    target 8168
+    source "member1173"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 1701
-    target 4115
+    source "member1173"
+    target "member2813"
+    weight 3
   ]
   edge [
-    source 5830
-    target 7837
+    source "member1173"
+    target "member7537"
+    weight 3
   ]
   edge [
-    source 1131
-    target 9103
+    source "member1173"
+    target "member8379"
+    weight 3
   ]
   edge [
-    source 277
-    target 10125
+    source "member1173"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 3392
-    target 10005
+    source "member1173"
+    target "member6677"
+    weight 2
   ]
   edge [
-    source 4412
-    target 4436
+    source "member1173"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 1450
-    target 2812
+    source "member1173"
+    target "member3583"
+    weight 2
   ]
   edge [
-    source 3535
-    target 7430
+    source "member1173"
+    target "member7536"
+    weight 3
   ]
   edge [
-    source 1292
-    target 9694
+    source "member1451"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 7297
-    target 11618
+    source "member5656"
+    target "member13097"
+    weight 3
   ]
   edge [
-    source 9109
-    target 9396
+    source "member10970"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 1819
-    target 10788
+    source "member2813"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 9627
-    target 12211
+    source "member7537"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 157
-    target 2072
+    source "member8379"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 1038
-    target 4481
+    source "member9233"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 8167
-    target 10311
+    source "member6677"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 1278
-    target 1281
+    source "member9548"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 1131
-    target 8730
+    source "member3583"
+    target "member13097"
+    weight 3
   ]
   edge [
-    source 277
-    target 4468
+    source "member7536"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 4214
-    target 11138
+    source "member1451"
+    target "member5656"
+    weight 2
   ]
   edge [
-    source 1431
-    target 4412
+    source "member1451"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 6973
-    target 9693
+    source "member1451"
+    target "member2813"
+    weight 2
   ]
   edge [
-    source 2499
-    target 10403
+    source "member1451"
+    target "member7537"
+    weight 2
   ]
   edge [
-    source 2458
-    target 7333
+    source "member1451"
+    target "member8379"
+    weight 2
   ]
   edge [
-    source 10788
-    target 13182
+    source "member1451"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 1358
-    target 11481
+    source "member1451"
+    target "member6677"
+    weight 2
   ]
   edge [
-    source 1653
-    target 6182
+    source "member1451"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 9953
-    target 10431
+    source "member1451"
+    target "member3583"
+    weight 2
   ]
   edge [
-    source 6810
-    target 12030
+    source "member1451"
+    target "member7536"
+    weight 2
   ]
   edge [
-    source 1172
-    target 7535
+    source "member5656"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 44
-    target 11701
+    source "member2813"
+    target "member5656"
+    weight 3
   ]
   edge [
-    source 1358
-    target 11072
+    source "member5656"
+    target "member7537"
+    weight 3
   ]
   edge [
-    source 8084
-    target 11481
+    source "member5656"
+    target "member8379"
+    weight 3
   ]
   edge [
-    source 163
-    target 5422
+    source "member5656"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 213
-    target 813
+    source "member5656"
+    target "member6677"
+    weight 2
   ]
   edge [
-    source 1240
-    target 9396
+    source "member5656"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 4532
-    target 7511
+    source "member3583"
+    target "member5656"
+    weight 2
   ]
   edge [
-    source 695
-    target 3854
+    source "member5656"
+    target "member7536"
+    weight 3
   ]
   edge [
-    source 2481
-    target 9982
+    source "member2813"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 164
-    target 12031
+    source "member7537"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 2686
-    target 9856
+    source "member8379"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 3730
-    target 3970
+    source "member9233"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 3468
-    target 3970
+    source "member6677"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 1360
-    target 10251
+    source "member9548"
+    target "member10970"
+    weight 1
   ]
   edge [
-    source 1625
-    target 8685
+    source "member3583"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 841
-    target 11492
+    source "member7536"
+    target "member10970"
+    weight 2
   ]
   edge [
-    source 6945
-    target 9752
+    source "member2813"
+    target "member7537"
+    weight 4
   ]
   edge [
-    source 482
-    target 9982
+    source "member2813"
+    target "member8379"
+    weight 4
   ]
   edge [
-    source 8203
-    target 10125
+    source "member2813"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 8325
-    target 12940
+    source "member2813"
+    target "member6677"
+    weight 2
   ]
   edge [
-    source 1761
-    target 6888
+    source "member2813"
+    target "member9548"
+    weight 2
   ]
   edge [
-    source 2481
-    target 5408
+    source "member2813"
+    target "member3583"
+    weight 3
   ]
   edge [
-    source 7946
-    target 9008
+    source "member2813"
+    target "member7536"
+    weight 4
   ]
   edge [
-    source 3100
-    target 11158
+    source "member7537"
+    target "member8379"
+    weight 4
   ]
   edge [
-    source 3069
-    target 10762
+    source "member7537"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 3960
-    target 9801
+    source "member6677"
+    target "member7537"
+    weight 2
   ]
   edge [
-    source 4214
-    target 11115
+    source "member7537"
+    target "member9548"
+    weight 2
   ]
   edge [
-    source 6973
-    target 11885
+    source "member3583"
+    target "member7537"
+    weight 3
   ]
   edge [
-    source 5543
-    target 7756
+    source "member7536"
+    target "member7537"
+    weight 4
   ]
   edge [
-    source 1170
-    target 9452
+    source "member8379"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 1954
-    target 12652
+    source "member6677"
+    target "member8379"
+    weight 2
   ]
   edge [
-    source 110
-    target 3959
+    source "member8379"
+    target "member9548"
+    weight 2
   ]
   edge [
-    source 443
-    target 11604
+    source "member3583"
+    target "member8379"
+    weight 3
   ]
   edge [
-    source 482
-    target 5408
+    source "member7536"
+    target "member8379"
+    weight 4
   ]
   edge [
-    source 350
-    target 10967
+    source "member6677"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 213
-    target 3005
+    source "member9233"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 4468
-    target 7095
+    source "member3583"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 21
-    target 4412
+    source "member7536"
+    target "member9233"
+    weight 2
   ]
   edge [
-    source 5406
-    target 12482
+    source "member6677"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 1292
-    target 12452
+    source "member3583"
+    target "member6677"
+    weight 2
   ]
   edge [
-    source 3874
-    target 3992
+    source "member6677"
+    target "member7536"
+    weight 2
   ]
   edge [
-    source 5561
-    target 11044
+    source "member3583"
+    target "member9548"
+    weight 2
   ]
   edge [
-    source 11044
-    target 12892
+    source "member7536"
+    target "member9548"
+    weight 2
   ]
   edge [
-    source 5558
-    target 12467
+    source "member3583"
+    target "member7536"
+    weight 3
   ]
   edge [
-    source 6131
-    target 13152
+    source "member887"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 7837
-    target 11437
+    source "member887"
+    target "member1392"
+    weight 2
   ]
   edge [
-    source 4874
-    target 13003
+    source "member887"
+    target "member1855"
+    weight 1
   ]
   edge [
-    source 33
-    target 7095
+    source "member887"
+    target "member5558"
+    weight 1
   ]
   edge [
-    source 10226
-    target 11362
+    source "member1392"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 4376
-    target 4504
+    source "member1855"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 740
-    target 1358
+    source "member1392"
+    target "member1855"
+    weight 1
   ]
   edge [
-    source 490
-    target 4481
+    source "member1392"
+    target "member5558"
+    weight 1
   ]
   edge [
-    source 5495
-    target 7837
+    source "member1855"
+    target "member5558"
+    weight 1
   ]
   edge [
-    source 8168
-    target 10490
+    source "member1027"
+    target "member2369"
+    weight 1
   ]
   edge [
-    source 2863
-    target 3724
+    source "member1027"
+    target "member11238"
+    weight 2
   ]
   edge [
-    source 2545
-    target 3069
+    source "member1027"
+    target "member4826"
+    weight 2
   ]
   edge [
-    source 2481
-    target 10898
+    source "member1027"
+    target "member1029"
+    weight 2
   ]
   edge [
-    source 695
-    target 1472
+    source "member2369"
+    target "member11238"
+    weight 1
   ]
   edge [
-    source 4531
-    target 10125
+    source "member2369"
+    target "member4826"
+    weight 1
   ]
   edge [
-    source 7965
-    target 13199
+    source "member1029"
+    target "member2369"
+    weight 1
   ]
   edge [
-    source 5541
-    target 12648
+    source "member4826"
+    target "member11238"
+    weight 2
   ]
   edge [
-    source 477
-    target 4776
+    source "member1029"
+    target "member11238"
+    weight 2
   ]
   edge [
-    source 6684
-    target 9953
+    source "member1029"
+    target "member4826"
+    weight 2
   ]
   edge [
-    source 4508
-    target 4808
+    source "member7217"
+    target "member10363"
+    weight 2
   ]
   edge [
-    source 880
-    target 1145
+    source "member10363"
+    target "member12353"
+    weight 2
   ]
   edge [
-    source 482
-    target 10898
+    source "member10363"
+    target "member10547"
+    weight 2
   ]
   edge [
-    source 8167
-    target 9627
+    source "member10363"
+    target "member12395"
+    weight 2
   ]
   edge [
-    source 5619
-    target 8137
+    source "member6061"
+    target "member10363"
+    weight 2
   ]
   edge [
-    source 2341
-    target 12809
+    source "member7217"
+    target "member12353"
+    weight 2
   ]
   edge [
-    source 157
-    target 1653
+    source "member7217"
+    target "member10547"
+    weight 2
   ]
   edge [
-    source 2732
-    target 6049
+    source "member7217"
+    target "member12395"
+    weight 2
   ]
   edge [
-    source 7756
-    target 10401
+    source "member6061"
+    target "member7217"
+    weight 2
   ]
   edge [
-    source 4208
-    target 13263
+    source "member10547"
+    target "member12353"
+    weight 2
   ]
   edge [
-    source 1172
-    target 9475
+    source "member12353"
+    target "member12395"
+    weight 2
   ]
   edge [
-    source 2123
-    target 3461
+    source "member6061"
+    target "member12353"
+    weight 2
   ]
   edge [
-    source 4177
-    target 8580
+    source "member10547"
+    target "member12395"
+    weight 2
   ]
   edge [
-    source 4412
-    target 9386
+    source "member6061"
+    target "member10547"
+    weight 2
   ]
   edge [
-    source 3992
-    target 6060
+    source "member6061"
+    target "member12395"
+    weight 2
   ]
   edge [
-    source 2863
-    target 6060
+    source "member170"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 2341
-    target 3769
+    source "member170"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 11481
-    target 11967
+    source "member170"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 157
-    target 9008
+    source "member170"
+    target "member4178"
+    weight 1
   ]
   edge [
-    source 2130
-    target 13156
+    source "member170"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 8414
-    target 12658
+    source "member170"
+    target "member6050"
+    weight 1
   ]
   edge [
-    source 1841
-    target 6866
+    source "member170"
+    target "member7298"
+    weight 1
   ]
   edge [
-    source 8678
-    target 12030
+    source "member8371"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 4698
-    target 9111
+    source "member8371"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 5561
-    target 8168
+    source "member8371"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 5999
-    target 7756
+    source "member8371"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 2123
-    target 10636
+    source "member4178"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 6110
-    target 12548
+    source "member8371"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 1199
-    target 1886
+    source "member6050"
+    target "member8371"
+    weight 2
   ]
   edge [
-    source 1131
-    target 8167
+    source "member7298"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 9173
-    target 10431
+    source "member8371"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 3157
-    target 7711
+    source "member9330"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 7029
-    target 8616
+    source "member11619"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 5585
-    target 9693
+    source "member4178"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 4436
-    target 4531
+    source "member13020"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 3944
-    target 9173
+    source "member6050"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 1983
-    target 10598
+    source "member7298"
+    target "member13020"
+    weight 1
   ]
   edge [
-    source 9329
-    target 11618
+    source "member9330"
+    target "member11464"
+    weight 3
   ]
   edge [
-    source 5398
-    target 9458
+    source "member9330"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 33
-    target 8685
+    source "member4178"
+    target "member9330"
+    weight 2
   ]
   edge [
-    source 3424
-    target 10306
+    source "member9330"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 2072
-    target 5422
+    source "member6050"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 2571
-    target 9456
+    source "member7298"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 196
-    target 3724
+    source "member8581"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 2481
-    target 5398
+    source "member11464"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 5830
-    target 11452
+    source "member4178"
+    target "member11464"
+    weight 2
   ]
   edge [
-    source 2560
-    target 12452
+    source "member11464"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 1746
-    target 2176
+    source "member6050"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 9576
-    target 12892
+    source "member7298"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 3229
-    target 4208
+    source "member4178"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 4532
-    target 7213
+    source "member11619"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 6110
-    target 8168
+    source "member6050"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 63
-    target 11044
+    source "member7298"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 4208
-    target 6186
+    source "member8581"
+    target "member11619"
+    weight 2
   ]
   edge [
-    source 9627
-    target 9819
+    source "member4178"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 482
-    target 5398
+    source "member4178"
+    target "member6050"
+    weight 1
   ]
   edge [
-    source 9819
-    target 11072
+    source "member4178"
+    target "member7298"
+    weight 1
   ]
   edge [
-    source 2123
-    target 11022
+    source "member4178"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 9103
-    target 9819
+    source "member6050"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 1746
-    target 11072
+    source "member7298"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 10403
-    target 10720
+    source "member8581"
+    target "member13098"
+    weight 1
   ]
   edge [
-    source 3769
-    target 13234
+    source "member6050"
+    target "member7298"
+    weight 1
   ]
   edge [
-    source 1358
-    target 10401
+    source "member6050"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 1653
-    target 2887
+    source "member7298"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 2732
-    target 10577
+    source "member1877"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 196
-    target 6060
+    source "member1877"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 8893
-    target 10125
+    source "member1877"
+    target "member5234"
+    weight 6
   ]
   edge [
-    source 9614
-    target 10788
+    source "member1877"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 8168
-    target 13104
+    source "member1877"
+    target "member5620"
+    weight 6
   ]
   edge [
-    source 8084
-    target 10401
+    source "member6164"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 5585
-    target 11885
+    source "member6164"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 1636
-    target 9070
+    source "member5234"
+    target "member6164"
+    weight 8
   ]
   edge [
-    source 3959
-    target 7064
+    source "member6164"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 1954
-    target 11860
+    source "member5620"
+    target "member6164"
+    weight 8
   ]
   edge [
-    source 5495
-    target 5841
+    source "member7156"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 443
-    target 5528
+    source "member10227"
+    target "member11363"
+    weight 3
   ]
   edge [
-    source 1636
-    target 5543
+    source "member5234"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 2861
-    target 2887
+    source "member8415"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 8059
-    target 9819
+    source "member8138"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 538
-    target 5042
+    source "member5620"
+    target "member10227"
+    weight 1
   ]
   edge [
-    source 3975
-    target 8994
+    source "member7156"
+    target "member11363"
+    weight 1
   ]
   edge [
-    source 2341
-    target 3229
+    source "member5234"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 5528
-    target 11387
+    source "member7156"
+    target "member8138"
+    weight 1
   ]
   edge [
-    source 7946
-    target 9649
+    source "member5620"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 8168
-    target 12322
+    source "member5234"
+    target "member11363"
+    weight 8
   ]
   edge [
-    source 1554
-    target 8893
+    source "member8415"
+    target "member11363"
+    weight 1
   ]
   edge [
-    source 1746
-    target 5042
+    source "member5620"
+    target "member11363"
+    weight 8
   ]
   edge [
-    source 7430
-    target 11044
+    source "member5234"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 12772
-    target 12773
+    source "member5234"
+    target "member8138"
+    weight 7
   ]
   edge [
-    source 7965
-    target 11962
+    source "member5234"
+    target "member5620"
+    weight 6
   ]
   edge [
-    source 3009
-    target 5350
+    source "member8138"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 841
-    target 12483
+    source "member5620"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 2732
-    target 4318
+    source "member5620"
+    target "member8138"
+    weight 8
   ]
   edge [
-    source 9203
-    target 10328
+    source "member45"
+    target "member7712"
+    weight 1
   ]
   edge [
-    source 3100
-    target 12558
+    source "member45"
+    target "member11702"
+    weight 1
   ]
   edge [
-    source 3461
-    target 10471
+    source "member45"
+    target "member3101"
+    weight 1
   ]
   edge [
-    source 1663
-    target 3960
+    source "member7712"
+    target "member11702"
+    weight 3
   ]
   edge [
-    source 4177
-    target 9329
+    source "member3101"
+    target "member7712"
+    weight 3
   ]
   edge [
-    source 3100
-    target 13052
+    source "member3101"
+    target "member11702"
+    weight 3
   ]
   edge [
-    source 477
-    target 1360
+    source "member9459"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 3169
-    target 9396
+    source "member853"
+    target "member9459"
+    weight 1
   ]
   edge [
-    source 700
-    target 880
+    source "member5409"
+    target "member11126"
+    weight 2
   ]
   edge [
-    source 2325
-    target 6676
+    source "member853"
+    target "member5409"
+    weight 2
   ]
   edge [
-    source 6065
-    target 7511
+    source "member10899"
+    target "member11126"
+    weight 2
   ]
   edge [
-    source 4508
-    target 9614
+    source "member853"
+    target "member10899"
+    weight 2
   ]
   edge [
-    source 766
-    target 10359
+    source "member2482"
+    target "member11126"
+    weight 2
   ]
   edge [
-    source 7016
-    target 9576
+    source "member853"
+    target "member2482"
+    weight 2
   ]
   edge [
-    source 227
-    target 13199
+    source "member483"
+    target "member11126"
+    weight 2
   ]
   edge [
-    source 7102
-    target 8596
+    source "member853"
+    target "member11126"
+    weight 2
   ]
   edge [
-    source 350
-    target 2195
+    source "member11126"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 700
-    target 1145
+    source "member483"
+    target "member853"
+    weight 2
   ]
   edge [
-    source 11099
-    target 11604
+    source "member853"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 4698
-    target 11437
+    source "member3921"
+    target "member11787"
+    weight 2
   ]
   edge [
-    source 2887
-    target 9008
+    source "member7917"
+    target "member11787"
+    weight 2
   ]
   edge [
-    source 5495
-    target 11452
+    source "member3921"
+    target "member7917"
+    weight 2
   ]
   edge [
-    source 8698
-    target 12119
+    source "member1977"
+    target "member10763"
+    weight 1
   ]
   edge [
-    source 2998
-    target 7155
+    source "member1977"
+    target "member2546"
+    weight 1
   ]
   edge [
-    source 5543
-    target 7965
+    source "member1977"
+    target "member3070"
+    weight 1
   ]
   edge [
-    source 6684
-    target 10005
+    source "member864"
+    target "member1977"
+    weight 1
   ]
   edge [
-    source 5398
-    target 10616
+    source "member1977"
+    target "member3387"
+    weight 1
   ]
   edge [
-    source 5788
-    target 6866
+    source "member1977"
+    target "member4115"
+    weight 1
   ]
   edge [
-    source 1596
-    target 10672
+    source "member1977"
+    target "member2572"
+    weight 2
   ]
   edge [
-    source 8616
-    target 10359
+    source "member2546"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 4531
-    target 7095
+    source "member3070"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 227
-    target 9299
+    source "member864"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 63
-    target 3535
+    source "member3387"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 2100
-    target 2514
+    source "member4115"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 5561
-    target 11253
+    source "member2572"
+    target "member10763"
+    weight 2
   ]
   edge [
-    source 886
-    target 5557
+    source "member2546"
+    target "member3070"
+    weight 2
   ]
   edge [
-    source 5082
-    target 8137
+    source "member864"
+    target "member2546"
+    weight 2
   ]
   edge [
-    source 1002
-    target 3819
+    source "member2546"
+    target "member3387"
+    weight 2
   ]
   edge [
-    source 1240
-    target 11604
+    source "member2546"
+    target "member4115"
+    weight 2
   ]
   edge [
-    source 1550
-    target 6131
+    source "member2546"
+    target "member2572"
+    weight 2
   ]
   edge [
-    source 6964
-    target 11492
+    source "member864"
+    target "member3070"
+    weight 2
   ]
   edge [
-    source 6008
-    target 9614
+    source "member3070"
+    target "member3387"
+    weight 2
   ]
   edge [
-    source 3461
-    target 11387
+    source "member3070"
+    target "member4115"
+    weight 2
   ]
   edge [
-    source 1390
-    target 10954
+    source "member2572"
+    target "member3070"
+    weight 2
   ]
   edge [
-    source 1758
-    target 5788
+    source "member864"
+    target "member3387"
+    weight 2
   ]
   edge [
-    source 63
-    target 12467
+    source "member864"
+    target "member4115"
+    weight 2
   ]
   edge [
-    source 277
-    target 3234
+    source "member864"
+    target "member2572"
+    weight 2
   ]
   edge [
-    source 11
-    target 8893
+    source "member3387"
+    target "member4115"
+    weight 2
   ]
   edge [
-    source 2887
-    target 7179
+    source "member2572"
+    target "member3387"
+    weight 2
   ]
   edge [
-    source 8168
-    target 9158
+    source "member2572"
+    target "member4115"
+    weight 2
   ]
   edge [
-    source 4698
-    target 10511
+    source "member987"
+    target "member1700"
+    weight 2
   ]
   edge [
-    source 1886
-    target 6202
+    source "member987"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 164
-    target 13156
+    source "member987"
+    target "member1842"
+    weight 2
   ]
   edge [
-    source 3582
-    target 9547
+    source "member1700"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 1976
-    target 3386
+    source "member1700"
+    target "member1842"
+    weight 3
   ]
   edge [
-    source 5009
-    target 10403
+    source "member1842"
+    target "member7156"
+    weight 1
   ]
   edge [
-    source 667
-    target 8380
+    source "member1702"
+    target "member4116"
+    weight 2
   ]
   edge [
-    source 1949
-    target 11362
+    source "member1121"
+    target "member4116"
+    weight 2
   ]
   edge [
-    source 10712
-    target 11437
+    source "member1121"
+    target "member1702"
+    weight 2
   ]
   edge [
-    source 1010
-    target 3944
+    source "member11493"
+    target "member11822"
+    weight 3
   ]
   edge [
-    source 1360
-    target 13182
+    source "member8197"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 7536
-    target 9475
+    source "member5542"
+    target "member11822"
+    weight 1
   ]
   edge [
-    source 11387
-    target 12658
+    source "member5586"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 6000
-    target 9386
+    source "member9695"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 63
-    target 6810
+    source "member11822"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 8196
-    target 11885
+    source "member10206"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 6177
-    target 7069
+    source "member2561"
+    target "member11822"
+    weight 4
   ]
   edge [
-    source 2812
-    target 7535
+    source "member448"
+    target "member11822"
+    weight 3
   ]
   edge [
-    source 6237
-    target 11284
+    source "member11822"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 9953
-    target 12436
+    source "member6974"
+    target "member11822"
+    weight 3
   ]
   edge [
-    source 8580
-    target 8698
+    source "member6568"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 5999
-    target 7965
+    source "member9694"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 45
-    target 3005
+    source "member11822"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 2863
-    target 7208
+    source "member6965"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 4531
-    target 8685
+    source "member11822"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 3009
-    target 4293
+    source "member438"
+    target "member11822"
+    weight 1
   ]
   edge [
-    source 4412
-    target 10125
+    source "member842"
+    target "member11822"
+    weight 4
   ]
   edge [
-    source 9730
-    target 12809
+    source "member8197"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 398
-    target 7064
+    source "member5542"
+    target "member11493"
+    weight 1
   ]
   edge [
-    source 1636
-    target 3295
+    source "member5586"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 1131
-    target 7064
+    source "member9695"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 3345
-    target 9203
+    source "member11493"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 7430
-    target 12467
+    source "member10206"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 4881
-    target 13084
+    source "member2561"
+    target "member11493"
+    weight 3
   ]
   edge [
-    source 9299
-    target 10636
+    source "member448"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 6676
-    target 9232
+    source "member11493"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 3234
-    target 8203
+    source "member6974"
+    target "member11493"
+    weight 3
   ]
   edge [
-    source 4323
-    target 11099
+    source "member6568"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 6746
-    target 13003
+    source "member9694"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 766
-    target 6822
+    source "member11493"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 986
-    target 1758
+    source "member6965"
+    target "member11493"
+    weight 2
   ]
   edge [
-    source 2325
-    target 9375
+    source "member11493"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 8168
-    target 10712
+    source "member438"
+    target "member11493"
+    weight 1
   ]
   edge [
-    source 1360
-    target 1819
+    source "member842"
+    target "member11493"
+    weight 3
   ]
   edge [
-    source 5528
-    target 8730
+    source "member5542"
+    target "member8197"
+    weight 1
   ]
   edge [
-    source 538
-    target 6177
+    source "member5586"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 8084
-    target 9815
+    source "member8197"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 2998
-    target 12658
+    source "member8197"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 4776
-    target 12658
+    source "member8197"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 1123
-    target 9576
+    source "member2561"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 3461
-    target 4840
+    source "member448"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 7179
-    target 12189
+    source "member8197"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 33
-    target 1431
+    source "member6974"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 1358
-    target 2123
+    source "member6568"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 5408
-    target 9982
+    source "member8197"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 5422
-    target 9651
+    source "member8197"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 63
-    target 11253
+    source "member6965"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 3295
-    target 9503
+    source "member8197"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 1746
-    target 6177
+    source "member438"
+    target "member8197"
+    weight 1
   ]
   edge [
-    source 214
-    target 1506
+    source "member842"
+    target "member8197"
+    weight 2
   ]
   edge [
-    source 490
-    target 852
+    source "member5542"
+    target "member5586"
+    weight 1
   ]
   edge [
-    source 1190
-    target 1758
+    source "member5542"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 6077
-    target 9173
+    source "member5542"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 3264
-    target 8203
+    source "member5542"
+    target "member10206"
+    weight 1
   ]
   edge [
-    source 9503
-    target 12658
+    source "member2561"
+    target "member5542"
+    weight 1
   ]
   edge [
-    source 9299
-    target 11022
+    source "member448"
+    target "member5542"
+    weight 1
   ]
   edge [
-    source 1431
-    target 7333
+    source "member5542"
+    target "member6974"
+    weight 1
   ]
   edge [
-    source 841
-    target 6973
+    source "member5542"
+    target "member6568"
+    weight 1
   ]
   edge [
-    source 880
-    target 1043
+    source "member5542"
+    target "member9694"
+    weight 1
   ]
   edge [
-    source 4125
-    target 5350
+    source "member5542"
+    target "member6965"
+    weight 1
   ]
   edge [
-    source 3009
-    target 10048
+    source "member842"
+    target "member5542"
+    weight 1
   ]
   edge [
-    source 6567
-    target 10205
+    source "member5586"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 3229
-    target 9642
+    source "member5586"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 12031
-    target 12189
+    source "member5586"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 196
-    target 7208
+    source "member2561"
+    target "member5586"
+    weight 2
   ]
   edge [
-    source 973
-    target 5408
+    source "member448"
+    target "member5586"
+    weight 2
   ]
   edge [
-    source 490
-    target 973
+    source "member5586"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 2920
-    target 11138
+    source "member5586"
+    target "member6974"
+    weight 2
   ]
   edge [
-    source 136
-    target 13084
+    source "member5586"
+    target "member6568"
+    weight 2
   ]
   edge [
-    source 9103
-    target 12809
+    source "member5586"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 8168
-    target 12940
+    source "member5586"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 7333
-    target 8203
+    source "member5586"
+    target "member6965"
+    weight 2
   ]
   edge [
-    source 2887
-    target 9649
+    source "member5586"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 2540
-    target 4995
+    source "member438"
+    target "member5586"
+    weight 1
   ]
   edge [
-    source 5561
-    target 7837
+    source "member842"
+    target "member5586"
+    weight 2
   ]
   edge [
-    source 9815
-    target 11962
+    source "member9695"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 1120
-    target 9627
+    source "member9695"
+    target "member10206"
+    weight 1
   ]
   edge [
-    source 2812
-    target 9475
+    source "member2561"
+    target "member9695"
+    weight 2
   ]
   edge [
-    source 398
-    target 2732
+    source "member448"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 1750
-    target 4318
+    source "member9695"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 1131
-    target 2732
+    source "member6974"
+    target "member9695"
+    weight 2
   ]
   edge [
-    source 227
-    target 11481
+    source "member6568"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 3424
-    target 11022
+    source "member9694"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 6945
-    target 9375
+    source "member9695"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 5626
-    target 10855
+    source "member6965"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 196
-    target 2863
+    source "member9695"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 9111
-    target 11437
+    source "member438"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 4177
-    target 8370
+    source "member842"
+    target "member9695"
+    weight 2
   ]
   edge [
-    source 9614
-    target 10251
+    source "member10206"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 1550
-    target 13152
+    source "member2561"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 4115
-    target 9627
+    source "member448"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 2893
-    target 4481
+    source "member12484"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 149
-    target 981
+    source "member6974"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 5408
-    target 10898
+    source "member6568"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 11452
-    target 13271
+    source "member9694"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 7756
-    target 10636
+    source "member11885"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 1191
-    target 10855
+    source "member6965"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 1240
-    target 11800
+    source "member11886"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 6186
-    target 12211
+    source "member438"
+    target "member12649"
+    weight 1
   ]
   edge [
-    source 2545
-    target 2571
+    source "member842"
+    target "member12649"
+    weight 2
   ]
   edge [
-    source 110
-    target 10672
+    source "member2561"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 973
-    target 10898
+    source "member448"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 21
-    target 7333
+    source "member10206"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 7155
-    target 8137
+    source "member6974"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 2920
-    target 11115
+    source "member6568"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 2887
-    target 13153
+    source "member9694"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 6810
-    target 11437
+    source "member10206"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 8084
-    target 12658
+    source "member6965"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 1625
-    target 2458
+    source "member10206"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 2887
-    target 4293
+    source "member438"
+    target "member10206"
+    weight 1
   ]
   edge [
-    source 4810
-    target 11967
+    source "member842"
+    target "member10206"
+    weight 2
   ]
   edge [
-    source 1625
-    target 7333
+    source "member448"
+    target "member2561"
+    weight 3
   ]
   edge [
-    source 6973
-    target 12483
+    source "member2561"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 370
-    target 3959
+    source "member2561"
+    target "member6974"
+    weight 3
   ]
   edge [
-    source 10251
-    target 11603
+    source "member2561"
+    target "member6568"
+    weight 2
   ]
   edge [
-    source 4323
-    target 8730
+    source "member2561"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 7756
-    target 11022
+    source "member2561"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 6676
-    target 9752
+    source "member2561"
+    target "member6965"
+    weight 2
   ]
   edge [
-    source 11437
-    target 12482
+    source "member2561"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 7862
-    target 9203
+    source "member438"
+    target "member2561"
+    weight 1
   ]
   edge [
-    source 8168
-    target 11461
+    source "member842"
+    target "member2561"
+    weight 4
   ]
   edge [
-    source 880
-    target 1177
+    source "member448"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 3229
-    target 3769
+    source "member448"
+    target "member6974"
+    weight 2
   ]
   edge [
-    source 10720
-    target 10855
+    source "member448"
+    target "member6568"
+    weight 2
   ]
   edge [
-    source 5009
-    target 10720
+    source "member448"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 5528
-    target 8167
+    source "member448"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 11461
-    target 13104
+    source "member448"
+    target "member6965"
+    weight 2
   ]
   edge [
-    source 2694
-    target 11604
+    source "member448"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 4508
-    target 6008
+    source "member438"
+    target "member448"
+    weight 1
   ]
   edge [
-    source 2998
-    target 4776
+    source "member448"
+    target "member842"
+    weight 3
   ]
   edge [
-    source 3959
-    target 12776
+    source "member6974"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 9642
-    target 10677
+    source "member6568"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 2325
-    target 7536
+    source "member9694"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 6077
-    target 7213
+    source "member6965"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 3874
-    target 8467
+    source "member842"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 227
-    target 1636
+    source "member6568"
+    target "member6974"
+    weight 2
   ]
   edge [
-    source 4209
-    target 10672
+    source "member6974"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 10306
-    target 11022
+    source "member6974"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 162
-    target 9649
+    source "member6965"
+    target "member6974"
+    weight 2
   ]
   edge [
-    source 973
-    target 5398
+    source "member6974"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 1761
-    target 8137
+    source "member438"
+    target "member6974"
+    weight 1
   ]
   edge [
-    source 447
-    target 11884
+    source "member842"
+    target "member6974"
+    weight 3
   ]
   edge [
-    source 63
-    target 7837
+    source "member6568"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 4125
-    target 4293
+    source "member6568"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 1010
-    target 11881
+    source "member6568"
+    target "member6965"
+    weight 2
   ]
   edge [
-    source 852
-    target 2893
+    source "member6568"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 1819
-    target 13182
+    source "member438"
+    target "member6568"
+    weight 1
   ]
   edge [
-    source 3730
-    target 3992
+    source "member842"
+    target "member6568"
+    weight 2
   ]
   edge [
-    source 9070
-    target 10636
+    source "member9694"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 1653
-    target 5422
+    source "member6965"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 1123
-    target 1550
+    source "member9694"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 5528
-    target 8059
+    source "member438"
+    target "member9694"
+    weight 1
   ]
   edge [
-    source 1281
-    target 1758
+    source "member842"
+    target "member9694"
+    weight 2
   ]
   edge [
-    source 6202
-    target 9730
+    source "member6965"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 4412
-    target 7095
+    source "member842"
+    target "member11885"
+    weight 1
   ]
   edge [
-    source 6177
-    target 10311
+    source "member6965"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 5561
-    target 5841
+    source "member438"
+    target "member6965"
+    weight 1
   ]
   edge [
-    source 56
-    target 9109
+    source "member842"
+    target "member6965"
+    weight 2
   ]
   edge [
-    source 11373
-    target 11800
+    source "member842"
+    target "member11886"
+    weight 1
   ]
   edge [
-    source 6186
-    target 9456
+    source "member438"
+    target "member842"
+    weight 1
   ]
   edge [
-    source 1472
-    target 10105
+    source "member3045"
+    target "member6700"
+    weight 1
   ]
   edge [
-    source 7511
-    target 10005
+    source "member1113"
+    target "member3045"
+    weight 1
   ]
   edge [
-    source 2861
-    target 3436
+    source "member3045"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 9576
-    target 13104
+    source "member3045"
+    target "member8874"
+    weight 1
   ]
   edge [
-    source 1420
-    target 11492
+    source "member3045"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 2341
-    target 13263
+    source "member1113"
+    target "member6700"
+    weight 1
   ]
   edge [
-    source 398
-    target 11618
+    source "member6700"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 196
-    target 12652
+    source "member6700"
+    target "member8874"
+    weight 1
   ]
   edge [
-    source 3959
-    target 6746
+    source "member6700"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 880
-    target 1190
+    source "member1113"
+    target "member11801"
+    weight 2
   ]
   edge [
-    source 6678
-    target 8612
+    source "member1113"
+    target "member8874"
+    weight 1
   ]
   edge [
-    source 1431
-    target 8203
+    source "member1113"
+    target "member11374"
+    weight 2
   ]
   edge [
-    source 1596
-    target 11568
+    source "member8874"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 6000
-    target 10125
+    source "member11374"
+    target "member11801"
+    weight 2
   ]
   edge [
-    source 9198
-    target 10677
+    source "member8874"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 3724
-    target 3990
+    source "member64"
+    target "member2373"
+    weight 1
   ]
   edge [
-    source 1112
-    target 11604
+    source "member2373"
+    target "member11444"
+    weight 1
   ]
   edge [
-    source 163
-    target 317
+    source "member2373"
+    target "member6132"
+    weight 1
   ]
   edge [
-    source 1358
-    target 4197
+    source "member1124"
+    target "member2373"
+    weight 1
   ]
   edge [
-    source 5655
-    target 13096
+    source "member64"
+    target "member11444"
+    weight 3
   ]
   edge [
-    source 1390
-    target 7155
+    source "member64"
+    target "member6132"
+    weight 2
   ]
   edge [
-    source 8664
-    target 12549
+    source "member6132"
+    target "member11444"
+    weight 2
   ]
   edge [
-    source 9070
-    target 11022
+    source "member1124"
+    target "member11444"
+    weight 3
   ]
   edge [
-    source 841
-    target 6567
+    source "member1124"
+    target "member6132"
+    weight 2
   ]
   edge [
-    source 5655
-    target 6945
+    source "member4319"
+    target "member8298"
+    weight 1
   ]
   edge [
-    source 33
-    target 2458
+    source "member351"
+    target "member8298"
+    weight 1
   ]
   edge [
-    source 2243
-    target 5350
+    source "member351"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 350
-    target 10616
+    source "member2500"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 4810
-    target 7756
+    source "member267"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 6945
-    target 7536
+    source "member267"
+    target "member767"
+    weight 3
   ]
   edge [
-    source 11885
-    target 12483
+    source "member267"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 11452
-    target 12070
+    source "member267"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 1360
-    target 4508
+    source "member267"
+    target "member5746"
+    weight 2
   ]
   edge [
-    source 11568
-    target 12776
+    source "member267"
+    target "member6823"
+    weight 3
   ]
   edge [
-    source 9801
-    target 12031
+    source "member267"
+    target "member5877"
+    weight 3
   ]
   edge [
-    source 7794
-    target 8873
+    source "member267"
+    target "member1279"
+    weight 3
   ]
   edge [
-    source 11253
-    target 11452
+    source "member267"
+    target "member817"
+    weight 3
   ]
   edge [
-    source 3234
-    target 8268
+    source "member767"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 11463
-    target 13019
+    source "member7030"
+    target "member10360"
+    weight 1
   ]
   edge [
-    source 1596
-    target 1746
+    source "member8617"
+    target "member10360"
+    weight 1
   ]
   edge [
-    source 2031
-    target 5350
+    source "member5746"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 3229
-    target 9730
+    source "member6823"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 1298
-    target 8325
+    source "member5877"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 3461
-    target 9070
+    source "member1279"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 1298
-    target 6110
+    source "member817"
+    target "member10360"
+    weight 2
   ]
   edge [
-    source 7837
-    target 12892
+    source "member767"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 3461
-    target 5543
+    source "member767"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 7476
-    target 9386
+    source "member767"
+    target "member5746"
+    weight 2
   ]
   edge [
-    source 3152
-    target 8580
+    source "member767"
+    target "member6823"
+    weight 3
   ]
   edge [
-    source 227
-    target 10401
+    source "member767"
+    target "member5877"
+    weight 3
   ]
   edge [
-    source 5655
-    target 8378
+    source "member767"
+    target "member1279"
+    weight 3
   ]
   edge [
-    source 10887
-    target 11022
+    source "member767"
+    target "member817"
+    weight 3
   ]
   edge [
-    source 5561
-    target 11452
+    source "member7030"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 8268
-    target 8685
+    source "member5746"
+    target "member7030"
+    weight 1
   ]
   edge [
-    source 8580
-    target 9329
+    source "member6823"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 5541
-    target 6964
+    source "member5877"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 1445
-    target 8380
+    source "member1279"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 11884
-    target 11885
+    source "member817"
+    target "member7030"
+    weight 2
   ]
   edge [
-    source 5585
-    target 12483
+    source "member5746"
+    target "member8617"
+    weight 1
   ]
   edge [
-    source 1043
-    target 2887
+    source "member6823"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 3992
-    target 11860
+    source "member5877"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 2863
-    target 11860
+    source "member1279"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 21
-    target 8203
+    source "member817"
+    target "member8617"
+    weight 2
   ]
   edge [
-    source 3295
-    target 10471
+    source "member5746"
+    target "member6823"
+    weight 2
   ]
   edge [
-    source 766
-    target 5876
+    source "member5746"
+    target "member5877"
+    weight 2
   ]
   edge [
-    source 1145
-    target 1177
+    source "member1279"
+    target "member5746"
+    weight 2
   ]
   edge [
-    source 1999
-    target 4881
+    source "member817"
+    target "member5746"
+    weight 2
   ]
   edge [
-    source 1170
-    target 2253
+    source "member5877"
+    target "member6823"
+    weight 3
   ]
   edge [
-    source 10401
-    target 13199
+    source "member1279"
+    target "member6823"
+    weight 3
   ]
   edge [
-    source 7965
-    target 9815
+    source "member817"
+    target "member6823"
+    weight 3
   ]
   edge [
-    source 7069
-    target 8217
+    source "member1279"
+    target "member5877"
+    weight 3
   ]
   edge [
-    source 4874
-    target 11461
+    source "member817"
+    target "member5877"
+    weight 3
   ]
   edge [
-    source 3264
-    target 8268
+    source "member817"
+    target "member1279"
+    weight 3
   ]
   edge [
-    source 3345
-    target 10328
+    source "member5544"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 2571
-    target 3386
+    source "member5544"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 10614
-    target 12031
+    source "member8415"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 7179
-    target 11881
+    source "member8415"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 1298
-    target 8217
+    source "member1637"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 5495
-    target 12940
+    source "member1637"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 1625
-    target 8203
+    source "member11963"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 7069
-    target 9794
+    source "member10472"
+    target "member11963"
+    weight 3
   ]
   edge [
-    source 2998
-    target 8414
+    source "member1359"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 8827
-    target 12031
+    source "member1359"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 2481
-    target 4481
+    source "member11388"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 6177
-    target 9627
+    source "member10472"
+    target "member11388"
+    weight 3
   ]
   edge [
-    source 11618
-    target 13019
+    source "member3296"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 2694
-    target 5528
+    source "member3296"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 3944
-    target 6077
+    source "member9300"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 4776
-    target 8414
+    source "member9300"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 1038
-    target 2893
+    source "member10402"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 700
-    target 1177
+    source "member10402"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 1483
-    target 5495
+    source "member12659"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 67
-    target 218
+    source "member10472"
+    target "member12659"
+    weight 3
   ]
   edge [
-    source 3959
-    target 10672
+    source "member9816"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 7356
-    target 11284
+    source "member9816"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 4840
-    target 9109
+    source "member6000"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 852
-    target 11370
+    source "member6000"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 3913
-    target 3960
+    source "member8085"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 7333
-    target 8268
+    source "member8085"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 8434
-    target 9103
+    source "member9504"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 5233
-    target 8137
+    source "member9504"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 7297
-    target 11463
+    source "member11968"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 6964
-    target 6973
+    source "member11482"
+    target "member13200"
+    weight 1
   ]
   edge [
-    source 1175
-    target 1177
+    source "member9071"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 10251
-    target 10788
+    source "member10637"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 3730
-    target 3874
+    source "member7966"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 2130
-    target 8725
+    source "member228"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 1131
-    target 12776
+    source "member2999"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 63
-    target 1123
+    source "member11023"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 3468
-    target 3874
+    source "member10472"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 2123
-    target 9503
+    source "member4811"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 5528
-    target 11962
+    source "member3462"
+    target "member13200"
+    weight 2
   ]
   edge [
-    source 161
-    target 9651
+    source "member10472"
+    target "member11968"
+    weight 3
   ]
   edge [
-    source 398
-    target 1750
+    source "member10472"
+    target "member11482"
+    weight 1
   ]
   edge [
-    source 11022
-    target 12211
+    source "member9071"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 3295
-    target 11387
+    source "member10472"
+    target "member10637"
+    weight 3
   ]
   edge [
-    source 1145
-    target 1190
+    source "member7966"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 196
-    target 11860
+    source "member228"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 5541
-    target 11492
+    source "member2999"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 11821
-    target 12452
+    source "member10472"
+    target "member11023"
+    weight 3
   ]
   edge [
-    source 7478
-    target 7495
+    source "member4811"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 4197
-    target 11604
+    source "member3462"
+    target "member10472"
+    weight 3
   ]
   edge [
-    source 3468
-    target 3730
+    source "member5043"
+    target "member9071"
+    weight 1
   ]
   edge [
-    source 12070
-    target 13156
+    source "member1446"
+    target "member9071"
+    weight 1
   ]
   edge [
-    source 2176
-    target 11437
+    source "member9071"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 1949
-    target 10226
+    source "member7070"
+    target "member9071"
+    weight 1
   ]
   edge [
-    source 12030
-    target 12940
+    source "member1446"
+    target "member5043"
+    weight 1
   ]
   edge [
-    source 2416
-    target 9203
+    source "member5043"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 2560
-    target 5541
+    source "member5043"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 3411
-    target 7891
+    source "member1446"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 2260
-    target 12482
+    source "member1446"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 5830
-    target 7430
+    source "member7070"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 11452
-    target 12554
+    source "member2561"
+    target "member12453"
+    weight 2
   ]
   edge [
-    source 3039
-    target 10005
+    source "member1293"
+    target "member2561"
+    weight 2
   ]
   edge [
-    source 63
-    target 11452
+    source "member1421"
+    target "member2561"
+    weight 2
   ]
   edge [
-    source 700
-    target 1190
+    source "member11822"
+    target "member12453"
+    weight 2
   ]
   edge [
-    source 2243
-    target 4293
+    source "member1293"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 5626
-    target 10403
+    source "member1421"
+    target "member11822"
+    weight 2
   ]
   edge [
-    source 4318
-    target 6237
+    source "member448"
+    target "member12453"
+    weight 1
   ]
   edge [
-    source 2148
-    target 11603
+    source "member448"
+    target "member1293"
+    weight 1
   ]
   edge [
-    source 841
-    target 10205
+    source "member448"
+    target "member1421"
+    weight 1
   ]
   edge [
-    source 3854
-    target 10712
+    source "member1293"
+    target "member12453"
+    weight 2
   ]
   edge [
-    source 6110
-    target 12030
+    source "member1421"
+    target "member12453"
+    weight 2
   ]
   edge [
-    source 2408
-    target 7478
+    source "member842"
+    target "member12453"
+    weight 2
   ]
   edge [
-    source 3992
-    target 8467
+    source "member1293"
+    target "member1421"
+    weight 2
   ]
   edge [
-    source 2863
-    target 8467
+    source "member842"
+    target "member1293"
+    weight 2
   ]
   edge [
-    source 1191
-    target 1278
+    source "member842"
+    target "member1421"
+    weight 2
   ]
   edge [
-    source 2031
-    target 4293
+    source "member3731"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 56
-    target 9606
+    source "member3971"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 8167
-    target 12119
+    source "member3971"
+    target "member7436"
+    weight 4
   ]
   edge [
-    source 7356
-    target 9576
+    source "member3971"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 11492
-    target 12483
+    source "member3469"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 1175
-    target 1190
+    source "member3971"
+    target "member11861"
+    weight 4
   ]
   edge [
-    source 5619
-    target 8414
+    source "member3971"
+    target "member8468"
+    weight 4
   ]
   edge [
-    source 9614
-    target 13182
+    source "member2864"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 169
-    target 11618
+    source "member3971"
+    target "member6061"
+    weight 4
   ]
   edge [
-    source 7965
-    target 12658
+    source "member1955"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 3234
-    target 7476
+    source "member3971"
+    target "member7209"
+    weight 2
   ]
   edge [
-    source 1172
-    target 9752
+    source "member197"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 7535
-    target 9547
+    source "member3725"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 2408
-    target 6202
+    source "member3875"
+    target "member3971"
+    weight 4
   ]
   edge [
-    source 490
-    target 2893
+    source "member3731"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 8167
-    target 11072
+    source "member3731"
+    target "member7436"
+    weight 5
   ]
   edge [
-    source 3169
-    target 3411
+    source "member3731"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 110
-    target 11568
+    source "member3469"
+    target "member3731"
+    weight 4
   ]
   edge [
-    source 3044
-    target 11373
+    source "member3731"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 1177
-    target 4125
+    source "member3731"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 9794
-    target 11428
+    source "member2864"
+    target "member3731"
+    weight 4
   ]
   edge [
-    source 370
-    target 12776
+    source "member3731"
+    target "member6061"
+    weight 5
   ]
   edge [
-    source 9103
-    target 9216
+    source "member1955"
+    target "member3731"
+    weight 5
   ]
   edge [
-    source 1391
-    target 10241
+    source "member3731"
+    target "member7209"
+    weight 3
   ]
   edge [
-    source 11452
-    target 12940
+    source "member197"
+    target "member3731"
+    weight 4
   ]
   edge [
-    source 136
-    target 4881
+    source "member3725"
+    target "member3731"
+    weight 5
   ]
   edge [
-    source 7965
-    target 8084
+    source "member3731"
+    target "member3875"
+    weight 5
   ]
   edge [
-    source 9241
-    target 9940
+    source "member7436"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 986
-    target 9109
+    source "member3991"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 1145
-    target 3009
+    source "member3469"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 1358
-    target 11604
+    source "member11861"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 5655
-    target 10969
+    source "member8468"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 841
-    target 8196
+    source "member2864"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 398
-    target 6049
+    source "member6061"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 1172
-    target 2325
+    source "member1955"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 10677
-    target 11259
+    source "member7209"
+    target "member12653"
+    weight 2
   ]
   edge [
-    source 11437
-    target 12030
+    source "member197"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 5543
-    target 9070
+    source "member3725"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 110
-    target 398
+    source "member3875"
+    target "member12653"
+    weight 4
   ]
   edge [
-    source 3264
-    target 7476
+    source "member3991"
+    target "member7436"
+    weight 5
   ]
   edge [
-    source 6810
-    target 8217
+    source "member3469"
+    target "member7436"
+    weight 4
   ]
   edge [
-    source 1038
-    target 11370
+    source "member7436"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 7862
-    target 10328
+    source "member7436"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 700
-    target 3009
+    source "member2864"
+    target "member7436"
+    weight 4
   ]
   edge [
-    source 110
-    target 1746
+    source "member6061"
+    target "member7436"
+    weight 5
   ]
   edge [
-    source 10546
-    target 12352
+    source "member1955"
+    target "member7436"
+    weight 6
   ]
   edge [
-    source 317
-    target 4376
+    source "member7209"
+    target "member7436"
+    weight 3
   ]
   edge [
-    source 4436
-    target 8685
+    source "member197"
+    target "member7436"
+    weight 4
   ]
   edge [
-    source 11284
-    target 12467
+    source "member3725"
+    target "member7436"
+    weight 5
   ]
   edge [
-    source 1175
-    target 3009
+    source "member3875"
+    target "member7436"
+    weight 5
   ]
   edge [
-    source 5585
-    target 6973
+    source "member3469"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 7333
-    target 7476
+    source "member3991"
+    target "member11861"
+    weight 4
   ]
   edge [
-    source 8217
-    target 12892
+    source "member3991"
+    target "member8468"
+    weight 4
   ]
   edge [
-    source 10616
-    target 11370
+    source "member2864"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 1190
-    target 10048
+    source "member3991"
+    target "member6061"
+    weight 4
   ]
   edge [
-    source 9730
-    target 13263
+    source "member1955"
+    target "member3991"
+    weight 5
   ]
   edge [
-    source 1819
-    target 4508
+    source "member3991"
+    target "member7209"
+    weight 2
   ]
   edge [
-    source 477
-    target 11603
+    source "member197"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 2732
-    target 4209
+    source "member3725"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 695
-    target 10105
+    source "member3875"
+    target "member3991"
+    weight 4
   ]
   edge [
-    source 227
-    target 2123
+    source "member3469"
+    target "member11861"
+    weight 4
   ]
   edge [
-    source 7536
-    target 9232
+    source "member3469"
+    target "member8468"
+    weight 4
   ]
   edge [
-    source 10401
-    target 11481
+    source "member2864"
+    target "member3469"
+    weight 4
   ]
   edge [
-    source 398
-    target 1596
+    source "member3469"
+    target "member6061"
+    weight 4
   ]
   edge [
-    source 1131
-    target 10672
+    source "member1955"
+    target "member3469"
+    weight 4
   ]
   edge [
-    source 1886
-    target 11099
+    source "member3469"
+    target "member7209"
+    weight 2
   ]
   edge [
-    source 8378
-    target 9547
+    source "member197"
+    target "member3469"
+    weight 4
   ]
   edge [
-    source 9158
-    target 12548
+    source "member3469"
+    target "member3725"
+    weight 4
   ]
   edge [
-    source 3535
-    target 8325
+    source "member3469"
+    target "member3875"
+    weight 4
   ]
   edge [
-    source 9329
-    target 11463
+    source "member8468"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 1219
-    target 2499
+    source "member2864"
+    target "member11861"
+    weight 4
   ]
   edge [
-    source 7454
-    target 7478
+    source "member6061"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 1663
-    target 2130
+    source "member1955"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 841
-    target 5585
+    source "member7209"
+    target "member11861"
+    weight 3
   ]
   edge [
-    source 4197
-    target 5528
+    source "member197"
+    target "member11861"
+    weight 4
   ]
   edge [
-    source 4808
-    target 11603
+    source "member3725"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 2458
-    target 4436
+    source "member3875"
+    target "member11861"
+    weight 5
   ]
   edge [
-    source 1177
-    target 1190
+    source "member2864"
+    target "member8468"
+    weight 4
   ]
   edge [
-    source 1949
-    target 5233
+    source "member6061"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 4840
-    target 9606
+    source "member1955"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 1636
-    target 3461
+    source "member7209"
+    target "member8468"
+    weight 3
   ]
   edge [
-    source 2560
-    target 6964
+    source "member197"
+    target "member8468"
+    weight 4
   ]
   edge [
-    source 7213
-    target 11881
+    source "member3725"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 1131
-    target 9216
+    source "member3875"
+    target "member8468"
+    weight 5
   ]
   edge [
-    source 1949
-    target 6810
+    source "member2864"
+    target "member6061"
+    weight 4
   ]
   edge [
-    source 7016
-    target 11044
+    source "member1955"
+    target "member2864"
+    weight 4
   ]
   edge [
-    source 5999
-    target 9299
+    source "member2864"
+    target "member7209"
+    weight 2
   ]
   edge [
-    source 63
-    target 13104
+    source "member197"
+    target "member2864"
+    weight 4
   ]
   edge [
-    source 1358
-    target 11967
+    source "member2864"
+    target "member3725"
+    weight 4
   ]
   edge [
-    source 7476
-    target 10125
+    source "member2864"
+    target "member3875"
+    weight 4
   ]
   edge [
-    source 11821
-    target 12648
+    source "member1955"
+    target "member6061"
+    weight 5
   ]
   edge [
-    source 6182
-    target 9649
+    source "member6061"
+    target "member7209"
+    weight 3
   ]
   edge [
-    source 1876
-    target 8137
+    source "member197"
+    target "member6061"
+    weight 4
   ]
   edge [
-    source 886
-    target 1391
+    source "member3725"
+    target "member6061"
+    weight 5
   ]
   edge [
-    source 6060
-    target 7216
+    source "member3875"
+    target "member6061"
+    weight 5
   ]
   edge [
-    source 8084
-    target 11967
+    source "member1955"
+    target "member7209"
+    weight 3
   ]
   edge [
-    source 1636
-    target 10636
+    source "member197"
+    target "member1955"
+    weight 4
   ]
   edge [
-    source 6699
-    target 11373
+    source "member1955"
+    target "member3725"
+    weight 5
   ]
   edge [
-    source 490
-    target 11370
+    source "member1955"
+    target "member3875"
+    weight 5
   ]
   edge [
-    source 7069
-    target 12892
+    source "member197"
+    target "member7209"
+    weight 2
   ]
   edge [
-    source 157
-    target 1547
+    source "member3725"
+    target "member7209"
+    weight 3
   ]
   edge [
-    source 164
-    target 8725
+    source "member3875"
+    target "member7209"
+    weight 3
   ]
   edge [
-    source 2998
-    target 5999
+    source "member197"
+    target "member3725"
+    weight 4
   ]
   edge [
-    source 3959
-    target 4874
+    source "member197"
+    target "member3875"
+    weight 4
   ]
   edge [
-    source 1131
-    target 8434
+    source "member3725"
+    target "member3875"
+    weight 5
   ]
   edge [
-    source 334
-    target 12062
+    source "member1113"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 2372
-    target 6131
+    source "member1113"
+    target "member1241"
+    weight 2
   ]
   edge [
-    source 2253
-    target 13084
+    source "member1113"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 9801
-    target 13156
+    source "member1241"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 3100
-    target 3157
+    source "member9397"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 981
-    target 8346
+    source "member1241"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 1625
-    target 8268
+    source "member7103"
+    target "member8597"
+    weight 2
   ]
   edge [
-    source 1949
-    target 5619
+    source "member712"
+    target "member8597"
+    weight 2
   ]
   edge [
-    source 8196
-    target 11884
+    source "member712"
+    target "member7103"
+    weight 2
   ]
   edge [
-    source 2889
-    target 11461
+    source "member7536"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 6121
-    target 9940
+    source "member7536"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 398
-    target 4318
+    source "member7489"
+    target "member7536"
+    weight 3
   ]
   edge [
-    source 6237
-    target 11463
+    source "member9376"
+    target "member9476"
+    weight 2
   ]
   edge [
-    source 370
-    target 10672
+    source "member9476"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 9547
-    target 13096
+    source "member7489"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 9456
-    target 12483
+    source "member2813"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 1112
-    target 6699
+    source "member7537"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 6676
-    target 9375
+    source "member8379"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 8493
-    target 8580
+    source "member3583"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 11463
-    target 13097
+    source "member9476"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 2148
-    target 10788
+    source "member9376"
+    target "member13097"
+    weight 4
   ]
   edge [
-    source 1636
-    target 11022
+    source "member7489"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 5745
-    target 8493
+    source "member2813"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 364
-    target 5115
+    source "member7537"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 7216
-    target 12394
+    source "member8379"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 1177
-    target 3009
+    source "member3583"
+    target "member9376"
+    weight 2
   ]
   edge [
-    source 4468
-    target 8893
+    source "member9376"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 1746
-    target 11568
+    source "member7489"
+    target "member13097"
+    weight 3
   ]
   edge [
-    source 1780
-    target 4125
+    source "member2813"
+    target "member7489"
+    weight 3
   ]
   edge [
-    source 3392
-    target 3944
+    source "member7489"
+    target "member7537"
+    weight 3
   ]
   edge [
-    source 2920
-    target 4214
+    source "member7489"
+    target "member8379"
+    weight 3
   ]
   edge [
-    source 816
-    target 6822
+    source "member3583"
+    target "member7489"
+    weight 2
   ]
   edge [
-    source 7208
-    target 7435
+    source "member7489"
+    target "member9548"
+    weight 1
   ]
   edge [
-    source 3582
-    target 7488
+    source "member8101"
+    target "member12506"
+    weight 2
   ]
   edge [
-    source 9299
-    target 9503
+    source "member1762"
+    target "member12323"
+    weight 2
   ]
   edge [
-    source 2998
-    target 9503
+    source "member1762"
+    target "member1877"
+    weight 3
   ]
   edge [
-    source 7488
-    target 9475
+    source "member1762"
+    target "member6164"
+    weight 3
   ]
   edge [
-    source 67
-    target 813
+    source "member1762"
+    target "member11363"
+    weight 5
   ]
   edge [
-    source 7069
-    target 7356
+    source "member1762"
+    target "member5234"
+    weight 2
   ]
   edge [
-    source 5233
-    target 7155
+    source "member1762"
+    target "member2892"
+    weight 1
   ]
   edge [
-    source 9819
-    target 11604
+    source "member1877"
+    target "member12323"
+    weight 4
   ]
   edge [
-    source 136
-    target 1092
+    source "member6164"
+    target "member12323"
+    weight 7
   ]
   edge [
-    source 10614
-    target 13156
+    source "member11363"
+    target "member12323"
+    weight 7
   ]
   edge [
-    source 2260
-    target 4698
+    source "member5234"
+    target "member12323"
+    weight 3
   ]
   edge [
-    source 1420
-    target 6973
+    source "member2892"
+    target "member12323"
+    weight 1
   ]
   edge [
-    source 1219
-    target 10855
+    source "member1877"
+    target "member2892"
+    weight 1
   ]
   edge [
-    source 4208
-    target 9198
+    source "member2892"
+    target "member6164"
+    weight 1
   ]
   edge [
-    source 8827
-    target 13156
+    source "member2892"
+    target "member11363"
+    weight 1
   ]
   edge [
-    source 538
-    target 1746
+    source "member2892"
+    target "member5234"
+    weight 1
   ]
   edge [
-    source 6186
-    target 10306
+    source "member9467"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 2891
-    target 11362
+    source "member7757"
+    target "member13200"
+    weight 1
   ]
   edge [
-    source 1431
-    target 7476
+    source "member7757"
+    target "member10472"
+    weight 2
   ]
   edge [
-    source 3234
-    target 4531
+    source "member6037"
+    target "member11082"
+    weight 2
   ]
   edge [
-    source 1780
-    target 2031
+    source "member812"
+    target "member6037"
+    weight 1
   ]
   edge [
-    source 986
-    target 9606
+    source "member6037"
+    target "member8995"
+    weight 1
   ]
   edge [
-    source 1954
-    target 3990
+    source "member3976"
+    target "member6037"
+    weight 1
   ]
   edge [
-    source 4810
-    target 10471
+    source "member6037"
+    target "member9192"
+    weight 2
   ]
   edge [
-    source 11962
-    target 11967
+    source "member812"
+    target "member11082"
+    weight 1
   ]
   edge [
-    source 9815
-    target 12658
+    source "member8995"
+    target "member11082"
+    weight 1
   ]
   edge [
-    source 5406
-    target 8659
+    source "member3976"
+    target "member11082"
+    weight 1
   ]
   edge [
-    source 4825
-    target 11237
+    source "member9192"
+    target "member11082"
+    weight 2
   ]
   edge [
-    source 11618
-    target 13097
+    source "member812"
+    target "member8995"
+    weight 2
   ]
   edge [
-    source 9752
-    target 13096
+    source "member812"
+    target "member3976"
+    weight 2
   ]
   edge [
-    source 11044
-    target 11284
+    source "member812"
+    target "member9192"
+    weight 1
   ]
   edge [
-    source 1414
-    target 4125
+    source "member3976"
+    target "member8995"
+    weight 2
   ]
   edge [
-    source 811
-    target 3975
+    source "member8995"
+    target "member9192"
+    weight 1
   ]
   edge [
-    source 7536
-    target 9752
+    source "member3976"
+    target "member9192"
+    weight 1
   ]
   edge [
-    source 1281
-    target 10048
+    source "member1235"
+    target "member6403"
+    weight 1
   ]
   edge [
-    source 134
-    target 466
+    source "member1192"
+    target "member1702"
+    weight 1
   ]
   edge [
-    source 161
-    target 4504
+    source "member1279"
+    target "member1702"
+    weight 1
   ]
   edge [
-    source 8434
-    target 9819
+    source "member1192"
+    target "member1279"
+    weight 1
   ]
   edge [
-    source 1701
-    target 12211
+    source "member1759"
+    target "member1842"
+    weight 2
   ]
   edge [
-    source 10969
-    target 13096
+    source "member1759"
+    target "member6867"
+    weight 2
   ]
   edge [
-    source 3044
-    target 8873
+    source "member1759"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 3907
-    target 13263
+    source "member1282"
+    target "member1759"
+    weight 1
   ]
   edge [
-    source 1358
-    target 7756
+    source "member1191"
+    target "member1759"
+    weight 1
   ]
   edge [
-    source 740
-    target 5528
+    source "member1759"
+    target "member5789"
+    weight 2
   ]
   edge [
-    source 3990
-    target 3992
+    source "member1700"
+    target "member1759"
+    weight 2
   ]
   edge [
-    source 1028
-    target 2368
+    source "member1842"
+    target "member6867"
+    weight 2
   ]
   edge [
-    source 3913
-    target 12031
+    source "member1842"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 11463
-    target 11618
+    source "member1282"
+    target "member1842"
+    weight 1
   ]
   edge [
-    source 2458
-    target 9386
+    source "member1191"
+    target "member1842"
+    weight 1
   ]
   edge [
-    source 6060
-    target 7435
+    source "member1842"
+    target "member5789"
+    weight 2
   ]
   edge [
-    source 12031
-    target 13271
+    source "member6867"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 63
-    target 9158
+    source "member1282"
+    target "member6867"
+    weight 1
   ]
   edge [
-    source 8168
-    target 11362
+    source "member1191"
+    target "member6867"
+    weight 1
   ]
   edge [
-    source 9375
-    target 9475
+    source "member5789"
+    target "member6867"
+    weight 2
   ]
   edge [
-    source 1123
-    target 11044
+    source "member1700"
+    target "member6867"
+    weight 2
   ]
   edge [
-    source 3264
-    target 4531
+    source "member1282"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 3234
-    target 6000
+    source "member1191"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1043
-    target 3436
+    source "member5789"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1758
-    target 1841
+    source "member1700"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 6964
-    target 10205
+    source "member1191"
+    target "member1282"
+    weight 1
   ]
   edge [
-    source 7016
-    target 12467
+    source "member1282"
+    target "member5789"
+    weight 1
   ]
   edge [
-    source 2123
-    target 11387
+    source "member1282"
+    target "member1700"
+    weight 1
   ]
   edge [
-    source 1746
-    target 11437
+    source "member1191"
+    target "member5789"
+    weight 1
   ]
   edge [
-    source 1199
-    target 2408
+    source "member1191"
+    target "member1700"
+    weight 1
   ]
   edge [
-    source 4323
-    target 11147
+    source "member1700"
+    target "member5789"
+    weight 2
   ]
   edge [
-    source 33
-    target 8268
+    source "member3820"
+    target "member4509"
+    weight 2
   ]
   edge [
-    source 2416
-    target 10328
+    source "member4509"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 121
-    target 7069
+    source "member478"
+    target "member4509"
+    weight 2
   ]
   edge [
-    source 8994
-    target 10048
+    source "member4509"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 7837
-    target 13104
+    source "member4509"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 3535
-    target 7016
+    source "member4509"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 437
-    target 11884
+    source "member1820"
+    target "member4509"
+    weight 2
   ]
   edge [
-    source 21
-    target 7476
+    source "member1361"
+    target "member4509"
+    weight 2
   ]
   edge [
-    source 6177
-    target 11259
+    source "member4509"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 7965
-    target 8414
+    source "member2149"
+    target "member4509"
+    weight 2
   ]
   edge [
-    source 5999
-    target 11481
+    source "member4509"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 9232
-    target 9547
+    source "member1003"
+    target "member4509"
+    weight 1
   ]
   edge [
-    source 277
-    target 8893
+    source "member3820"
+    target "member10252"
+    weight 4
   ]
   edge [
-    source 560
-    target 10005
+    source "member478"
+    target "member3820"
+    weight 3
   ]
   edge [
-    source 7711
-    target 11158
+    source "member3820"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 1625
-    target 7476
+    source "member3820"
+    target "member9615"
+    weight 3
   ]
   edge [
-    source 7497
-    target 10560
+    source "member3820"
+    target "member13183"
+    weight 3
   ]
   edge [
-    source 3264
-    target 6000
+    source "member1820"
+    target "member3820"
+    weight 2
   ]
   edge [
-    source 711
-    target 8596
+    source "member1361"
+    target "member3820"
+    weight 2
   ]
   edge [
-    source 6973
-    target 8196
+    source "member3820"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 4808
-    target 10788
+    source "member2149"
+    target "member3820"
+    weight 2
   ]
   edge [
-    source 1750
-    target 4209
+    source "member3820"
+    target "member10789"
+    weight 3
   ]
   edge [
-    source 1841
-    target 5788
+    source "member1003"
+    target "member3820"
+    weight 3
   ]
   edge [
-    source 477
-    target 3819
+    source "member478"
+    target "member10252"
+    weight 3
   ]
   edge [
-    source 269
-    target 6121
+    source "member10252"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 3944
-    target 4532
+    source "member9615"
+    target "member10252"
+    weight 3
   ]
   edge [
-    source 667
-    target 1472
+    source "member10252"
+    target "member13183"
+    weight 3
   ]
   edge [
-    source 2998
-    target 5557
+    source "member1820"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 549
-    target 8390
+    source "member1361"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 163
-    target 7946
+    source "member6009"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 538
-    target 5528
+    source "member2149"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 1278
-    target 5009
+    source "member10252"
+    target "member10789"
+    weight 3
   ]
   edge [
-    source 6676
-    target 7536
+    source "member1003"
+    target "member10252"
+    weight 3
   ]
   edge [
-    source 2123
-    target 2998
+    source "member478"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 364
-    target 7032
+    source "member478"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 1010
-    target 9953
+    source "member478"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 4208
-    target 11259
+    source "member478"
+    target "member1820"
+    weight 2
   ]
   edge [
-    source 1746
-    target 7069
+    source "member478"
+    target "member1361"
+    weight 2
   ]
   edge [
-    source 2176
-    target 3535
+    source "member478"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 1746
-    target 5528
+    source "member478"
+    target "member2149"
+    weight 2
   ]
   edge [
-    source 2812
-    target 9752
+    source "member478"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 7069
-    target 11259
+    source "member478"
+    target "member1003"
+    weight 2
   ]
   edge [
-    source 5541
-    target 6973
+    source "member9615"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 1445
-    target 5042
+    source "member11604"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 5841
-    target 8168
+    source "member1820"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 1131
-    target 4995
+    source "member1361"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 5398
-    target 11125
+    source "member6009"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 2325
-    target 7535
+    source "member2149"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 6699
-    target 8873
+    source "member10789"
+    target "member11604"
+    weight 2
   ]
   edge [
-    source 3944
-    target 10431
+    source "member1003"
+    target "member11604"
+    weight 1
   ]
   edge [
-    source 811
-    target 6036
+    source "member9615"
+    target "member13183"
+    weight 3
   ]
   edge [
-    source 7478
-    target 10560
+    source "member1820"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 7356
-    target 11437
+    source "member1361"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 9547
-    target 10969
+    source "member6009"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 6177
-    target 12031
+    source "member2149"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 3709
-    target 7495
+    source "member9615"
+    target "member10789"
+    weight 3
   ]
   edge [
-    source 63
-    target 12940
+    source "member1003"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 1761
-    target 6595
+    source "member1820"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 1123
-    target 3535
+    source "member1361"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 9070
-    target 9503
+    source "member6009"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 852
-    target 9982
+    source "member2149"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 6973
-    target 11821
+    source "member10789"
+    target "member13183"
+    weight 3
   ]
   edge [
-    source 7155
-    target 8414
+    source "member1003"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 6121
-    target 12773
+    source "member1361"
+    target "member1820"
+    weight 2
   ]
   edge [
-    source 2732
-    target 6237
+    source "member1820"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 1876
-    target 7155
+    source "member1820"
+    target "member2149"
+    weight 2
   ]
   edge [
-    source 1298
-    target 12548
+    source "member1820"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 443
-    target 9819
+    source "member1003"
+    target "member1820"
+    weight 1
   ]
   edge [
-    source 13104
-    target 13152
+    source "member1361"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 841
-    target 12452
+    source "member1361"
+    target "member2149"
+    weight 2
   ]
   edge [
-    source 3039
-    target 3392
+    source "member1361"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 852
-    target 5408
+    source "member1003"
+    target "member1361"
+    weight 1
   ]
   edge [
-    source 12031
-    target 12070
+    source "member2149"
+    target "member6009"
+    weight 2
   ]
   edge [
-    source 5042
-    target 9103
+    source "member6009"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 3392
-    target 11881
+    source "member1003"
+    target "member6009"
+    weight 1
   ]
   edge [
-    source 7837
-    target 9158
+    source "member2149"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 4531
-    target 8893
+    source "member1003"
+    target "member2149"
+    weight 1
   ]
   edge [
-    source 10672
-    target 12776
+    source "member1003"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 9008
-    target 9649
+    source "member9628"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 9694
-    target 10205
+    source "member1702"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 3535
-    target 7356
+    source "member9628"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 1750
-    target 2887
+    source "member4324"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 9752
-    target 10969
+    source "member4116"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 9386
-    target 10125
+    source "member1121"
+    target "member9628"
+    weight 1
   ]
   edge [
-    source 33
-    target 1554
+    source "member1702"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 8370
-    target 11463
+    source "member8731"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 2863
-    target 4828
+    source "member12212"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 161
-    target 162
+    source "member4324"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 196
-    target 3009
+    source "member4116"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 4318
-    target 7064
+    source "member1121"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 1761
-    target 6163
+    source "member1702"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 1949
-    target 6888
+    source "member1702"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 6945
-    target 7535
+    source "member1702"
+    target "member4324"
+    weight 1
   ]
   edge [
-    source 2981
-    target 12548
+    source "member8731"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 9893
-    target 11210
+    source "member4324"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 7069
-    target 12031
+    source "member4116"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 3769
-    target 10677
+    source "member1121"
+    target "member8731"
+    weight 1
   ]
   edge [
-    source 4293
-    target 5350
+    source "member4324"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 880
-    target 2887
+    source "member4116"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 9299
-    target 10471
+    source "member1121"
+    target "member13264"
+    weight 1
   ]
   edge [
-    source 63
-    target 121
+    source "member4116"
+    target "member4324"
+    weight 1
   ]
   edge [
-    source 2365
-    target 10887
+    source "member1121"
+    target "member4324"
+    weight 1
   ]
   edge [
-    source 2887
-    target 9651
+    source "member4225"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 1699
-    target 1758
+    source "member4225"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 852
-    target 10898
+    source "member2958"
+    target "member4225"
+    weight 1
   ]
   edge [
-    source 1172
-    target 5655
+    source "member4225"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 5585
-    target 8196
+    source "member892"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 1278
-    target 1701
+    source "member8060"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 1954
-    target 3970
+    source "member2958"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 4481
-    target 9458
+    source "member11100"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 2365
-    target 3424
+    source "member892"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 3295
-    target 11962
+    source "member892"
+    target "member2958"
+    weight 1
   ]
   edge [
-    source 1360
-    target 4808
+    source "member892"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 7837
-    target 10712
+    source "member2958"
+    target "member8060"
+    weight 1
   ]
   edge [
-    source 816
-    target 5876
+    source "member8060"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 5999
-    target 10401
+    source "member2958"
+    target "member11127"
+    weight 1
   ]
   edge [
-    source 1431
-    target 6000
+    source "member45"
+    target "member2244"
+    weight 1
   ]
   edge [
-    source 3709
-    target 11421
+    source "member45"
+    target "member3425"
+    weight 1
   ]
   edge [
-    source 6110
-    target 11437
+    source "member2244"
+    target "member3425"
+    weight 1
   ]
   edge [
-    source 1733
-    target 9456
+    source "member2921"
+    target "member3170"
+    weight 1
   ]
   edge [
-    source 7711
-    target 12558
+    source "member3170"
+    target "member7892"
+    weight 1
   ]
   edge [
-    source 2100
-    target 8346
+    source "member3170"
+    target "member4215"
+    weight 1
   ]
   edge [
-    source 121
-    target 8325
+    source "member3170"
+    target "member3412"
+    weight 1
   ]
   edge [
-    source 12564
-    target 13156
+    source "member2921"
+    target "member7892"
+    weight 3
   ]
   edge [
-    source 121
-    target 6110
+    source "member2921"
+    target "member4215"
+    weight 3
   ]
   edge [
-    source 9198
-    target 9642
+    source "member2921"
+    target "member3412"
+    weight 3
   ]
   edge [
-    source 1219
-    target 10403
+    source "member4215"
+    target "member7892"
+    weight 3
   ]
   edge [
-    source 11701
-    target 12558
+    source "member3412"
+    target "member7892"
+    weight 3
   ]
   edge [
-    source 7711
-    target 13052
+    source "member3412"
+    target "member4215"
+    weight 3
   ]
   edge [
-    source 2957
-    target 7478
+    source "member8169"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 370
-    target 398
+    source "member8169"
+    target "member12549"
+    weight 3
   ]
   edge [
-    source 10560
-    target 11421
+    source "member8169"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 11284
-    target 11452
+    source "member2982"
+    target "member8169"
+    weight 2
   ]
   edge [
-    source 8659
-    target 12482
+    source "member5496"
+    target "member8169"
+    weight 4
   ]
   edge [
-    source 560
-    target 3039
+    source "member1299"
+    target "member8169"
+    weight 2
   ]
   edge [
-    source 1038
-    target 9982
+    source "member5562"
+    target "member8169"
+    weight 4
   ]
   edge [
-    source 2458
-    target 10125
+    source "member8169"
+    target "member12031"
+    weight 4
   ]
   edge [
-    source 161
-    target 6182
+    source "member6111"
+    target "member8169"
+    weight 2
   ]
   edge [
-    source 7016
-    target 7837
+    source "member8169"
+    target "member11254"
+    weight 3
   ]
   edge [
-    source 11701
-    target 13052
+    source "member122"
+    target "member8169"
+    weight 2
   ]
   edge [
-    source 447
-    target 1292
+    source "member12549"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 3959
-    target 4255
+    source "member9159"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 9299
-    target 11387
+    source "member2982"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 5528
-    target 9216
+    source "member5496"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 6186
-    target 11022
+    source "member1299"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 1625
-    target 4531
+    source "member5562"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 1976
-    target 4114
+    source "member12031"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 852
-    target 5398
+    source "member6111"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 1112
-    target 11099
+    source "member11254"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 9642
-    target 12809
+    source "member122"
+    target "member12941"
+    weight 2
   ]
   edge [
-    source 1038
-    target 5408
+    source "member9159"
+    target "member12549"
+    weight 2
   ]
   edge [
-    source 4776
-    target 11603
+    source "member2982"
+    target "member12549"
+    weight 1
   ]
   edge [
-    source 12031
-    target 12554
+    source "member5496"
+    target "member12549"
+    weight 4
   ]
   edge [
-    source 2176
-    target 12892
+    source "member1299"
+    target "member12549"
+    weight 1
   ]
   edge [
-    source 5585
-    target 11821
+    source "member5562"
+    target "member12549"
+    weight 3
   ]
   edge [
-    source 1431
-    target 4436
+    source "member12031"
+    target "member12549"
+    weight 4
   ]
   edge [
-    source 7837
-    target 12940
+    source "member6111"
+    target "member12549"
+    weight 1
   ]
   edge [
-    source 398
-    target 11463
+    source "member11254"
+    target "member12549"
+    weight 2
   ]
   edge [
-    source 5462
-    target 9801
+    source "member122"
+    target "member12549"
+    weight 1
   ]
   edge [
-    source 4436
-    target 7333
+    source "member2982"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 1088
-    target 10598
+    source "member5496"
+    target "member9159"
+    weight 3
   ]
   edge [
-    source 5182
-    target 9109
+    source "member1299"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 7756
-    target 10471
+    source "member5562"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 5541
-    target 6567
+    source "member9159"
+    target "member12031"
+    weight 3
   ]
   edge [
-    source 21
-    target 6000
+    source "member6111"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 10712
-    target 13104
+    source "member9159"
+    target "member11254"
+    weight 3
   ]
   edge [
-    source 5528
-    target 8434
+    source "member122"
+    target "member9159"
+    weight 2
   ]
   edge [
-    source 538
-    target 10311
+    source "member2982"
+    target "member5496"
+    weight 2
   ]
   edge [
-    source 3913
-    target 13156
+    source "member1299"
+    target "member2982"
+    weight 2
   ]
   edge [
-    source 1414
-    target 11293
+    source "member2982"
+    target "member5562"
+    weight 2
   ]
   edge [
-    source 766
-    target 1278
+    source "member2982"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 162
-    target 9651
+    source "member2982"
+    target "member6111"
+    weight 2
   ]
   edge [
-    source 169
-    target 4177
+    source "member2982"
+    target "member11254"
+    weight 2
   ]
   edge [
-    source 11035
-    target 11133
+    source "member122"
+    target "member2982"
+    weight 2
   ]
   edge [
-    source 6060
-    target 12352
+    source "member1299"
+    target "member5496"
+    weight 2
   ]
   edge [
-    source 1625
-    target 6000
+    source "member5496"
+    target "member5562"
+    weight 4
   ]
   edge [
-    source 1746
-    target 10311
+    source "member5496"
+    target "member12031"
+    weight 5
   ]
   edge [
-    source 4995
-    target 8730
+    source "member5496"
+    target "member6111"
+    weight 2
   ]
   edge [
-    source 63
-    target 7430
+    source "member5496"
+    target "member11254"
+    weight 3
   ]
   edge [
-    source 1298
-    target 2981
+    source "member122"
+    target "member5496"
+    weight 2
   ]
   edge [
-    source 1092
-    target 13084
+    source "member1299"
+    target "member5562"
+    weight 2
   ]
   edge [
-    source 5042
-    target 8167
+    source "member1299"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 5042
-    target 9070
+    source "member1299"
+    target "member6111"
+    weight 2
   ]
   edge [
-    source 4293
-    target 13153
+    source "member1299"
+    target "member11254"
+    weight 2
   ]
   edge [
-    source 1038
-    target 10898
+    source "member122"
+    target "member1299"
+    weight 2
   ]
   edge [
-    source 1761
-    target 2891
+    source "member5562"
+    target "member12031"
+    weight 4
   ]
   edge [
-    source 1554
-    target 8685
+    source "member5562"
+    target "member6111"
+    weight 2
   ]
   edge [
-    source 8725
-    target 12031
+    source "member5562"
+    target "member11254"
+    weight 2
   ]
   edge [
-    source 2341
-    target 8390
+    source "member122"
+    target "member5562"
+    weight 2
   ]
   edge [
-    source 4177
-    target 10577
+    source "member6111"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 149
-    target 2514
+    source "member11254"
+    target "member12031"
+    weight 3
   ]
   edge [
-    source 5233
-    target 6163
+    source "member122"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 6973
-    target 9694
+    source "member6111"
+    target "member11254"
+    weight 2
   ]
   edge [
-    source 227
-    target 11967
+    source "member122"
+    target "member6111"
+    weight 2
   ]
   edge [
-    source 1145
-    target 2887
+    source "member122"
+    target "member11254"
+    weight 2
   ]
   edge [
-    source 1949
-    target 12322
+    source "member1406"
+    target "member11359"
+    weight 2
   ]
   edge [
-    source 6177
-    target 11072
+    source "member7455"
+    target "member11787"
+    weight 1
   ]
   edge [
-    source 1746
-    target 8217
+    source "member10561"
+    target "member11787"
+    weight 1
   ]
   edge [
-    source 4481
-    target 10616
+    source "member3921"
+    target "member7455"
+    weight 1
   ]
   edge [
-    source 317
-    target 9008
+    source "member3921"
+    target "member10561"
+    weight 1
   ]
   edge [
-    source 5233
-    target 8414
+    source "member7455"
+    target "member7917"
+    weight 1
   ]
   edge [
-    source 490
-    target 9982
+    source "member7917"
+    target "member10561"
+    weight 1
   ]
   edge [
-    source 11
-    target 7095
+    source "member4809"
+    target "member9615"
+    weight 2
   ]
   edge [
-    source 21
-    target 4436
+    source "member4809"
+    target "member13183"
+    weight 2
   ]
   edge [
-    source 4255
-    target 6746
+    source "member4809"
+    target "member10789"
+    weight 2
   ]
   edge [
-    source 2887
-    target 11568
+    source "member1003"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 10616
-    target 10898
+    source "member3820"
+    target "member4809"
+    weight 2
   ]
   edge [
-    source 187
-    target 2253
+    source "member4809"
+    target "member10252"
+    weight 2
   ]
   edge [
-    source 63
-    target 5830
+    source "member188"
+    target "member1093"
+    weight 1
   ]
   edge [
-    source 187
-    target 1170
+    source "member137"
+    target "member1093"
+    weight 1
   ]
   edge [
-    source 7756
-    target 11387
+    source "member1093"
+    target "member2254"
+    weight 1
   ]
   edge [
-    source 740
-    target 2694
+    source "member1093"
+    target "member4882"
+    weight 1
   ]
   edge [
-    source 1750
-    target 6237
+    source "member1093"
+    target "member1171"
+    weight 1
   ]
   edge [
-    source 7837
-    target 11461
+    source "member1093"
+    target "member2000"
+    weight 1
   ]
   edge [
-    source 1278
-    target 8493
+    source "member1093"
+    target "member13085"
+    weight 1
   ]
   edge [
-    source 163
-    target 4376
+    source "member1093"
+    target "member9453"
+    weight 1
   ]
   edge [
-    source 4810
-    target 9070
+    source "member2342"
+    target "member3230"
+    weight 3
   ]
   edge [
-    source 5557
-    target 10954
+    source "member3230"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 266
-    target 10359
+    source "member550"
+    target "member3230"
+    weight 3
   ]
   edge [
-    source 1358
-    target 10471
+    source "member3230"
+    target "member3770"
+    weight 3
   ]
   edge [
-    source 8414
-    target 13199
+    source "member3230"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 490
-    target 5408
+    source "member3230"
+    target "member4209"
+    weight 3
   ]
   edge [
-    source 2260
-    target 9111
+    source "member3230"
+    target "member3908"
+    weight 3
   ]
   edge [
-    source 163
-    target 6182
+    source "member3230"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 4810
-    target 5543
+    source "member3230"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 4468
-    target 4531
+    source "member3230"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 334
-    target 9856
+    source "member3230"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 5005
-    target 8900
+    source "member3230"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 436
-    target 4125
+    source "member3230"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 1360
-    target 9614
+    source "member2342"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 6202
-    target 12189
+    source "member550"
+    target "member2342"
+    weight 3
   ]
   edge [
-    source 6077
-    target 10431
+    source "member2342"
+    target "member3770"
+    weight 3
   ]
   edge [
-    source 9982
-    target 10616
+    source "member2342"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 3970
-    target 6060
+    source "member2342"
+    target "member4209"
+    weight 3
   ]
   edge [
-    source 33
-    target 4531
+    source "member2342"
+    target "member3908"
+    weight 3
   ]
   edge [
-    source 3424
-    target 4840
+    source "member2342"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 8467
-    target 12652
+    source "member2342"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 1038
-    target 5398
+    source "member2342"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 8168
-    target 11044
+    source "member2342"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 8414
-    target 9299
+    source "member2342"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 163
-    target 8698
+    source "member2342"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 1390
-    target 5557
+    source "member550"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 5830
-    target 7069
+    source "member3770"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 538
-    target 9627
+    source "member10678"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 7536
-    target 9375
+    source "member4209"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 436
-    target 2031
+    source "member3908"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 10471
-    target 10636
+    source "member9731"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 3345
-    target 4323
+    source "member11260"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 490
-    target 10898
+    source "member11260"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 7213
-    target 9953
+    source "member9643"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 1746
-    target 9627
+    source "member8391"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 1431
-    target 9386
+    source "member9199"
+    target "member11260"
+    weight 3
   ]
   edge [
-    source 11
-    target 8685
+    source "member550"
+    target "member3770"
+    weight 3
   ]
   edge [
-    source 6973
-    target 12452
+    source "member550"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 1841
-    target 7155
+    source "member550"
+    target "member4209"
+    weight 3
   ]
   edge [
-    source 4532
-    target 10005
+    source "member550"
+    target "member3908"
+    weight 3
   ]
   edge [
-    source 11099
-    target 11373
+    source "member550"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 11044
-    target 11437
+    source "member550"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 3724
-    target 7208
+    source "member550"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 8196
-    target 11821
+    source "member550"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 2341
-    target 9198
+    source "member550"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 2863
-    target 3990
+    source "member550"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 5541
-    target 10205
+    source "member3770"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 1663
-    target 8725
+    source "member3770"
+    target "member4209"
+    weight 3
   ]
   edge [
-    source 1819
-    target 2148
+    source "member3770"
+    target "member3908"
+    weight 3
   ]
   edge [
-    source 4412
-    target 8893
+    source "member3770"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 9198
-    target 9730
+    source "member3770"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 1976
-    target 10762
+    source "member3770"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 3582
-    target 9375
+    source "member3770"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 8268
-    target 8893
+    source "member3770"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 8137
-    target 11362
+    source "member3770"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 9070
-    target 11387
+    source "member4209"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 227
-    target 7756
+    source "member3908"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 7016
-    target 11452
+    source "member9731"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 11072
-    target 11800
+    source "member10678"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 2458
-    target 7095
+    source "member10678"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 1026
-    target 2368
+    source "member9643"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 6567
-    target 11885
+    source "member8391"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 2887
-    target 11293
+    source "member9199"
+    target "member10678"
+    weight 3
   ]
   edge [
-    source 4436
-    target 8203
+    source "member3908"
+    target "member4209"
+    weight 3
   ]
   edge [
-    source 10471
-    target 11022
+    source "member4209"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 437
-    target 841
+    source "member4209"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 3234
-    target 3264
+    source "member4209"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 4995
-    target 8167
+    source "member4209"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 5042
-    target 9819
+    source "member4209"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 8730
-    target 9103
+    source "member4209"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 560
-    target 3392
+    source "member3908"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 7488
-    target 9232
+    source "member3908"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 3944
-    target 12436
+    source "member3908"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 1043
-    target 1145
+    source "member3908"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 1240
-    target 11373
+    source "member3908"
+    target "member8391"
+    weight 3
   ]
   edge [
-    source 8678
-    target 10490
+    source "member3908"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 169
-    target 11463
+    source "member9731"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 1636
-    target 9503
+    source "member9731"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 9158
-    target 12030
+    source "member9643"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 2887
-    target 4504
+    source "member8391"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 5585
-    target 9694
+    source "member9199"
+    target "member9731"
+    weight 3
   ]
   edge [
-    source 3461
-    target 5005
+    source "member13235"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 766
-    target 1281
+    source "member9643"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 490
-    target 5398
+    source "member8391"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 3234
-    target 4468
+    source "member9199"
+    target "member13235"
+    weight 3
   ]
   edge [
-    source 21
-    target 9386
+    source "member9643"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 266
-    target 6822
+    source "member8391"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 4995
-    target 8059
+    source "member9199"
+    target "member13264"
+    weight 2
   ]
   edge [
-    source 1450
-    target 9232
+    source "member8391"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 11158
-    target 11701
+    source "member9199"
+    target "member9643"
+    weight 3
   ]
   edge [
-    source 1746
-    target 7016
+    source "member8391"
+    target "member9199"
+    weight 3
   ]
   edge [
-    source 10677
-    target 13234
+    source "member5116"
+    target "member7033"
+    weight 1
   ]
   edge [
-    source 740
-    target 2540
+    source "member8679"
+    target "member12549"
+    weight 2
   ]
   edge [
-    source 10062
-    target 11618
+    source "member5496"
+    target "member8679"
+    weight 2
   ]
   edge [
-    source 1358
-    target 2998
+    source "member8679"
+    target "member10491"
+    weight 2
   ]
   edge [
-    source 5543
-    target 10636
+    source "member5562"
+    target "member8679"
+    weight 2
   ]
   edge [
-    source 196
-    target 3990
+    source "member8679"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 1281
-    target 8493
+    source "member5842"
+    target "member8679"
+    weight 2
   ]
   edge [
-    source 7495
-    target 10560
+    source "member8169"
+    target "member8679"
+    weight 2
   ]
   edge [
-    source 7297
-    target 13019
+    source "member10491"
+    target "member12549"
+    weight 2
   ]
   edge [
-    source 2130
-    target 12002
+    source "member5842"
+    target "member12549"
+    weight 2
   ]
   edge [
-    source 2891
-    target 5233
+    source "member5496"
+    target "member10491"
+    weight 2
   ]
   edge [
-    source 2148
-    target 13182
+    source "member5496"
+    target "member5842"
+    weight 2
   ]
   edge [
-    source 1315
-    target 2893
+    source "member5562"
+    target "member10491"
+    weight 2
   ]
   edge [
-    source 4125
-    target 11293
+    source "member10491"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 317
-    target 9649
+    source "member5842"
+    target "member10491"
+    weight 2
   ]
   edge [
-    source 1349
-    target 6678
+    source "member8169"
+    target "member10491"
+    weight 2
   ]
   edge [
-    source 11860
-    target 12652
+    source "member5562"
+    target "member5842"
+    weight 2
   ]
   edge [
-    source 1886
-    target 11461
+    source "member5842"
+    target "member12031"
+    weight 2
   ]
   edge [
-    source 5528
-    target 8414
+    source "member5842"
+    target "member8169"
+    weight 2
   ]
   edge [
-    source 3709
-    target 10560
+    source "member696"
+    target "member3855"
+    weight 2
   ]
   edge [
-    source 2560
-    target 6567
+    source "member3855"
+    target "member10106"
+    weight 1
   ]
   edge [
-    source 3264
-    target 4468
+    source "member1446"
+    target "member3855"
+    weight 1
   ]
   edge [
-    source 2123
-    target 11962
+    source "member1473"
+    target "member3855"
+    weight 2
   ]
   edge [
-    source 4318
-    target 12776
+    source "member3855"
+    target "member8381"
+    weight 1
   ]
   edge [
-    source 1483
-    target 9158
+    source "member668"
+    target "member3855"
+    weight 2
   ]
   edge [
-    source 4323
-    target 13263
+    source "member696"
+    target "member10106"
+    weight 1
   ]
   edge [
-    source 8390
-    target 12809
+    source "member696"
+    target "member1446"
+    weight 1
   ]
   edge [
-    source 398
-    target 4209
+    source "member696"
+    target "member1473"
+    weight 2
   ]
   edge [
-    source 560
-    target 1010
+    source "member696"
+    target "member8381"
+    weight 1
   ]
   edge [
-    source 8467
-    target 11860
+    source "member668"
+    target "member696"
+    weight 2
   ]
   edge [
-    source 63
-    target 13152
+    source "member1446"
+    target "member10106"
+    weight 1
   ]
   edge [
-    source 7179
-    target 12776
+    source "member1473"
+    target "member10106"
+    weight 1
   ]
   edge [
-    source 10712
-    target 12940
+    source "member8381"
+    target "member10106"
+    weight 2
   ]
   edge [
-    source 7837
-    target 11284
+    source "member668"
+    target "member10106"
+    weight 1
   ]
   edge [
-    source 1876
-    target 8414
+    source "member1446"
+    target "member1473"
+    weight 1
   ]
   edge [
-    source 5543
-    target 11022
+    source "member1446"
+    target "member8381"
+    weight 1
   ]
   edge [
-    source 6110
-    target 8217
+    source "member668"
+    target "member1446"
+    weight 1
   ]
   edge [
-    source 2732
-    target 8664
+    source "member1473"
+    target "member8381"
+    weight 1
   ]
   edge [
-    source 12554
-    target 13104
+    source "member668"
+    target "member1473"
+    weight 2
   ]
   edge [
-    source 163
-    target 2887
+    source "member668"
+    target "member8381"
+    weight 1
   ]
   edge [
-    source 5541
-    target 5585
+    source "member5559"
+    target "member11702"
+    weight 1
   ]
   edge [
-    source 7497
-    target 11135
+    source "member3583"
+    target "member6946"
+    weight 1
   ]
   edge [
-    source 2260
-    target 10511
+    source "member2326"
+    target "member3583"
+    weight 1
   ]
   edge [
-    source 8414
-    target 11481
+    source "member6946"
+    target "member7536"
+    weight 2
   ]
   edge [
-    source 2998
-    target 7179
+    source "member2326"
+    target "member7536"
+    weight 2
   ]
   edge [
-    source 2341
-    target 11259
+    source "member6946"
+    target "member9753"
+    weight 1
   ]
   edge [
-    source 11604
-    target 11800
+    source "member2326"
+    target "member6946"
+    weight 2
   ]
   edge [
-    source 8217
-    target 11461
+    source "member6946"
+    target "member9376"
+    weight 2
   ]
   edge [
-    source 163
-    target 3152
+    source "member6946"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 5557
-    target 9730
+    source "member1451"
+    target "member6946"
+    weight 1
   ]
   edge [
-    source 9232
-    target 13096
+    source "member5656"
+    target "member6946"
+    weight 2
   ]
   edge [
-    source 13003
-    target 13052
+    source "member1173"
+    target "member6946"
+    weight 2
   ]
   edge [
-    source 121
-    target 7356
+    source "member6946"
+    target "member7537"
+    weight 2
   ]
   edge [
-    source 8730
-    target 12211
+    source "member6946"
+    target "member8379"
+    weight 2
   ]
   edge [
-    source 11387
-    target 13199
+    source "member6946"
+    target "member9233"
+    weight 1
   ]
   edge [
-    source 1746
-    target 12892
+    source "member6946"
+    target "member7489"
+    weight 2
   ]
   edge [
-    source 3345
-    target 9394
+    source "member6946"
+    target "member10970"
+    weight 1
   ]
   edge [
-    source 162
-    target 4504
+    source "member2813"
+    target "member6946"
+    weight 2
   ]
   edge [
-    source 6973
-    target 12648
+    source "member6677"
+    target "member6946"
+    weight 1
   ]
   edge [
-    source 3944
-    target 6684
+    source "member2326"
+    target "member9753"
+    weight 1
   ]
   edge [
-    source 1240
-    target 10954
+    source "member9376"
+    target "member9753"
+    weight 1
   ]
   edge [
-    source 11
-    target 21
+    source "member7489"
+    target "member9753"
+    weight 1
   ]
   edge [
-    source 1431
-    target 1625
+    source "member2326"
+    target "member9376"
+    weight 2
   ]
   edge [
-    source 2732
-    target 7064
+    source "member2326"
+    target "member13097"
+    weight 2
   ]
   edge [
-    source 12558
-    target 13052
+    source "member1451"
+    target "member2326"
+    weight 1
   ]
   edge [
-    source 3769
-    target 4208
+    source "member2326"
+    target "member5656"
+    weight 2
   ]
   edge [
-    source 5005
-    target 9109
+    source "member1173"
+    target "member2326"
+    weight 2
   ]
   edge [
-    source 4508
-    target 4776
+    source "member2326"
+    target "member7537"
+    weight 2
   ]
   edge [
-    source 10855
-    target 12062
+    source "member2326"
+    target "member8379"
+    weight 2
   ]
   edge [
-    source 2571
-    target 4114
+    source "member2326"
+    target "member9233"
+    weight 1
   ]
   edge [
-    source 1547
-    target 9649
+    source "member2326"
+    target "member7489"
+    weight 2
   ]
   edge [
-    source 5830
-    target 8325
+    source "member2326"
+    target "member10970"
+    weight 1
   ]
   edge [
-    source 10403
-    target 10855
+    source "member2326"
+    target "member2813"
+    weight 2
   ]
   edge [
-    source 5830
-    target 6110
+    source "member2326"
+    target "member6677"
+    weight 1
   ]
   edge [
-    source 10712
-    target 11461
+    source "member1451"
+    target "member9376"
+    weight 1
   ]
   edge [
-    source 12483
-    target 12648
+    source "member5656"
+    target "member9376"
+    weight 2
   ]
   edge [
-    source 4932
-    target 10967
+    source "member1173"
+    target "member9376"
+    weight 3
   ]
   edge [
-    source 10362
-    target 12394
+    source "member9233"
+    target "member9376"
+    weight 1
   ]
   edge [
-    source 7837
-    target 9576
+    source "member9376"
+    target "member10970"
+    weight 1
   ]
   edge [
-    source 13156
-    target 13271
+    source "member6677"
+    target "member9376"
+    weight 1
   ]
   edge [
-    source 1653
-    target 7946
+    source "member1451"
+    target "member7489"
+    weight 1
   ]
   edge [
-    source 8725
-    target 13156
+    source "member5656"
+    target "member7489"
+    weight 2
   ]
   edge [
-    source 8168
-    target 11253
+    source "member1173"
+    target "member7489"
+    weight 2
   ]
   edge [
-    source 2694
-    target 9819
+    source "member7489"
+    target "member9233"
+    weight 1
   ]
   edge [
-    source 1699
-    target 10048
+    source "member7489"
+    target "member10970"
+    weight 1
   ]
   edge [
-    source 11125
-    target 11370
+    source "member6677"
+    target "member7489"
+    weight 1
   ]
   edge [
-    source 8196
-    target 9694
+    source "member6144"
+    target "member10312"
+    weight 1
   ]
   edge [
-    source 3970
-    target 7208
+    source "member2366"
+    target "member3425"
+    weight 2
   ]
   edge [
-    source 2998
-    target 13199
+    source "member2366"
+    target "member11023"
+    weight 2
   ]
   edge [
-    source 11881
-    target 12436
+    source "member2366"
+    target "member12212"
+    weight 2
   ]
   edge [
-    source 2540
-    target 11072
+    source "member2366"
+    target "member6187"
+    weight 2
   ]
   edge [
-    source 1315
-    target 11370
+    source "member2366"
+    target "member9457"
+    weight 2
   ]
   edge [
-    source 12554
-    target 12564
+    source "member3425"
+    target "member11023"
+    weight 2
   ]
   edge [
-    source 3500
-    target 4177
+    source "member3425"
+    target "member12212"
+    weight 2
   ]
   edge [
-    source 4952
-    target 9111
+    source "member3425"
+    target "member6187"
+    weight 2
   ]
   edge [
-    source 63
-    target 2260
+    source "member3425"
+    target "member9457"
+    weight 2
   ]
   edge [
-    source 5830
-    target 8217
+    source "member11023"
+    target "member12212"
+    weight 2
   ]
   edge [
-    source 5619
-    target 8900
+    source "member6187"
+    target "member11023"
+    weight 2
   ]
   edge [
-    source 973
-    target 2481
+    source "member9457"
+    target "member11023"
+    weight 2
   ]
   edge [
-    source 6202
-    target 11881
+    source "member6187"
+    target "member12212"
+    weight 2
   ]
   edge [
-    source 6182
-    target 9651
+    source "member9457"
+    target "member12212"
+    weight 2
   ]
   edge [
-    source 1360
-    target 6008
+    source "member6187"
+    target "member9457"
+    weight 2
   ]
   edge [
-    source 110
-    target 7179
+    source "member6238"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 1390
-    target 2998
+    source "member6238"
+    target "member8665"
+    weight 1
   ]
   edge [
-    source 1472
-    target 3854
+    source "member6050"
+    target "member6238"
+    weight 1
   ]
   edge [
-    source 21
-    target 1625
+    source "member8371"
+    target "member8665"
+    weight 1
   ]
   edge [
-    source 9503
-    target 13199
+    source "member2733"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 6000
-    target 8893
+    source "member399"
+    target "member8371"
+    weight 1
   ]
   edge [
-    source 1349
-    target 9907
+    source "member6050"
+    target "member8665"
+    weight 1
   ]
   edge [
-    source 2863
-    target 3970
+    source "member2733"
+    target "member8665"
+    weight 1
   ]
   edge [
-    source 6065
-    target 10005
+    source "member399"
+    target "member8665"
+    weight 2
   ]
   edge [
-    source 1876
-    target 2891
+    source "member2733"
+    target "member6050"
+    weight 1
   ]
   edge [
-    source 9375
-    target 9752
+    source "member399"
+    target "member6050"
+    weight 1
   ]
   edge [
-    source 2560
-    target 10205
+    source "member7320"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 11
-    target 1431
+    source "member165"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 1431
-    target 10125
+    source "member7320"
+    target "member12565"
+    weight 1
   ]
   edge [
-    source 6202
-    target 11099
+    source "member12003"
+    target "member12565"
+    weight 1
   ]
   edge [
-    source 4318
-    target 10672
+    source "member12565"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 9329
-    target 13019
+    source "member165"
+    target "member12565"
+    weight 1
   ]
   edge [
-    source 4255
-    target 4874
+    source "member7320"
+    target "member9802"
+    weight 1
   ]
   edge [
-    source 7756
-    target 9070
+    source "member165"
+    target "member9802"
+    weight 1
   ]
   edge [
-    source 11492
-    target 12452
+    source "member3961"
+    target "member7320"
+    weight 1
   ]
   edge [
-    source 7179
-    target 10672
+    source "member7320"
+    target "member8828"
+    weight 1
   ]
   edge [
-    source 2176
-    target 13104
+    source "member7320"
+    target "member12555"
+    weight 1
   ]
   edge [
-    source 1431
-    target 4468
+    source "member7320"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 2998
-    target 4810
+    source "member7320"
+    target "member8726"
+    weight 1
   ]
   edge [
-    source 8059
-    target 11099
+    source "member7320"
+    target "member12003"
+    weight 1
   ]
   edge [
-    source 1420
-    target 12452
+    source "member7320"
+    target "member13157"
+    weight 1
   ]
   edge [
-    source 11885
-    target 12648
+    source "member7320"
+    target "member13272"
+    weight 1
   ]
   edge [
-    source 3234
-    target 4412
+    source "member7320"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 4436
-    target 8268
+    source "member1664"
+    target "member7320"
+    weight 1
   ]
   edge [
-    source 3392
-    target 9953
+    source "member165"
+    target "member7320"
+    weight 2
   ]
   edge [
-    source 164
-    target 12002
+    source "member2131"
+    target "member7320"
+    weight 1
   ]
   edge [
-    source 766
-    target 816
+    source "member3914"
+    target "member7320"
+    weight 1
   ]
   edge [
-    source 1292
-    target 1420
+    source "member165"
+    target "member3961"
+    weight 1
   ]
   edge [
-    source 3039
-    target 3944
+    source "member165"
+    target "member8828"
+    weight 1
   ]
   edge [
-    source 2031
-    target 11293
+    source "member12003"
+    target "member12555"
+    weight 1
   ]
   edge [
-    source 2920
-    target 3169
+    source "member12555"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 3724
-    target 11860
+    source "member165"
+    target "member12555"
+    weight 1
   ]
   edge [
-    source 3819
-    target 11603
+    source "member165"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 1636
-    target 10471
+    source "member165"
+    target "member8726"
+    weight 1
   ]
   edge [
-    source 5495
-    target 8325
+    source "member165"
+    target "member12003"
+    weight 1
   ]
   edge [
-    source 2273
-    target 12483
+    source "member165"
+    target "member13157"
+    weight 1
   ]
   edge [
-    source 5495
-    target 6110
+    source "member165"
+    target "member13272"
+    weight 1
   ]
   edge [
-    source 2195
-    target 9940
+    source "member165"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 841
-    target 5541
+    source "member165"
+    target "member1664"
+    weight 1
   ]
   edge [
-    source 2341
-    target 3907
+    source "member165"
+    target "member2131"
+    weight 1
   ]
   edge [
-    source 1123
-    target 13104
+    source "member165"
+    target "member3914"
+    weight 1
   ]
   edge [
-    source 5745
-    target 8616
+    source "member1146"
+    target "member1415"
+    weight 1
   ]
   edge [
-    source 10401
-    target 11967
+    source "member1415"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 3229
-    target 8390
+    source "member1044"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 196
-    target 3970
+    source "member4126"
+    target "member11294"
+    weight 1
   ]
   edge [
-    source 1954
-    target 3992
+    source "member1176"
+    target "member1415"
+    weight 1
   ]
   edge [
-    source 21
-    target 10125
+    source "member1044"
+    target "member1176"
+    weight 1
   ]
   edge [
-    source 2891
-    target 2998
+    source "member1176"
+    target "member11294"
+    weight 1
   ]
   edge [
-    source 8414
-    target 10401
+    source "member1178"
+    target "member1415"
+    weight 1
   ]
   edge [
-    source 3264
-    target 4412
+    source "member1044"
+    target "member1415"
+    weight 1
   ]
   edge [
-    source 3960
-    target 8725
+    source "member1415"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 4208
-    target 9730
+    source "member1415"
+    target "member11294"
+    weight 1
   ]
   edge [
-    source 67
-    target 5811
+    source "member881"
+    target "member1415"
+    weight 1
   ]
   edge [
-    source 8659
-    target 10577
+    source "member8423"
+    target "member9330"
+    weight 2
   ]
   edge [
-    source 163
-    target 2072
+    source "member8423"
+    target "member11464"
+    weight 2
   ]
   edge [
-    source 8217
-    target 11284
+    source "member4178"
+    target "member8423"
+    weight 1
   ]
   edge [
-    source 2893
-    target 5408
+    source "member8423"
+    target "member10578"
+    weight 2
   ]
   edge [
-    source 3295
-    target 12658
+    source "member3501"
+    target "member8423"
+    weight 1
   ]
   edge [
-    source 1761
-    target 1876
+    source "member8423"
+    target "member8660"
+    weight 1
   ]
   edge [
-    source 1358
-    target 9070
+    source "member9330"
+    target "member10578"
+    weight 2
   ]
   edge [
-    source 863
-    target 3386
+    source "member3501"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 4177
-    target 8659
+    source "member8660"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 1358
-    target 5543
+    source "member10578"
+    target "member11464"
+    weight 2
   ]
   edge [
-    source 7511
-    target 11881
+    source "member3501"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 8084
-    target 9299
+    source "member8660"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 5528
-    target 5999
+    source "member4178"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 21
-    target 4468
+    source "member3501"
+    target "member4178"
+    weight 1
   ]
   edge [
-    source 8084
-    target 9070
+    source "member4178"
+    target "member8660"
+    weight 1
   ]
   edge [
-    source 8730
-    target 9819
+    source "member3501"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 9232
-    target 10969
+    source "member8660"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 10205
-    target 11884
+    source "member3501"
+    target "member8660"
+    weight 1
   ]
   edge [
-    source 9299
-    target 11962
+    source "member10721"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 266
-    target 5876
+    source "member1192"
+    target "member10721"
+    weight 1
   ]
   edge [
-    source 3959
-    target 13052
+    source "member5627"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 443
-    target 4197
+    source "member1192"
+    target "member5627"
+    weight 1
   ]
   edge [
-    source 11387
-    target 11481
+    source "member3048"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 121
-    target 12548
+    source "member1192"
+    target "member3048"
+    weight 1
   ]
   edge [
-    source 1092
-    target 7495
+    source "member1220"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 6810
-    target 11461
+    source "member1192"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 9576
-    target 11044
+    source "member10856"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 2920
-    target 3411
+    source "member5010"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 1625
-    target 4468
+    source "member1192"
+    target "member1220"
+    weight 1
   ]
   edge [
-    source 2571
-    target 10762
+    source "member1192"
+    target "member10856"
+    weight 1
   ]
   edge [
-    source 33
-    target 277
+    source "member1192"
+    target "member5010"
+    weight 1
   ]
   edge [
-    source 164
-    target 1663
+    source "member197"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 5005
-    target 9606
+    source "member1258"
+    target "member3010"
+    weight 1
   ]
   edge [
-    source 4952
-    target 11437
+    source "member3010"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1554
-    target 2458
+    source "member197"
+    target "member1258"
+    weight 1
   ]
   edge [
-    source 2195
-    target 2863
+    source "member197"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 4208
-    target 13234
+    source "member1258"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 1636
-    target 11387
+    source "member365"
+    target "member6700"
+    weight 1
   ]
   edge [
-    source 269
-    target 8855
+    source "member5083"
+    target "member5234"
+    weight 1
   ]
   edge [
-    source 1199
-    target 6202
+    source "member5083"
+    target "member8138"
+    weight 2
   ]
   edge [
-    source 2148
-    target 4508
+    source "member5083"
+    target "member5620"
+    weight 1
   ]
   edge [
-    source 5830
-    target 7016
+    source "member5083"
+    target "member6164"
+    weight 2
   ]
   edge [
-    source 2893
-    target 10898
+    source "member5083"
+    target "member11363"
+    weight 2
   ]
   edge [
-    source 5528
-    target 9503
+    source "member1762"
+    target "member1950"
+    weight 4
   ]
   edge [
-    source 2981
-    target 12030
+    source "member1762"
+    target "member10227"
+    weight 2
   ]
   edge [
-    source 1733
-    target 2545
+    source "member1762"
+    target "member6889"
+    weight 2
   ]
   edge [
-    source 3500
-    target 11463
+    source "member1762"
+    target "member6811"
+    weight 2
   ]
   edge [
-    source 1750
-    target 7064
+    source "member1762"
+    target "member6596"
+    weight 2
   ]
   edge [
-    source 6237
-    target 8422
+    source "member1950"
+    target "member10227"
+    weight 2
   ]
   edge [
-    source 12070
-    target 12189
+    source "member1950"
+    target "member6889"
+    weight 2
   ]
   edge [
-    source 7069
-    target 11284
+    source "member1950"
+    target "member6811"
+    weight 2
   ]
   edge [
-    source 6163
-    target 11362
+    source "member1950"
+    target "member11363"
+    weight 5
   ]
   edge [
-    source 161
-    target 5422
+    source "member1950"
+    target "member6596"
+    weight 2
   ]
   edge [
-    source 3724
-    target 8467
+    source "member6889"
+    target "member10227"
+    weight 2
   ]
   edge [
-    source 227
-    target 10471
+    source "member6811"
+    target "member10227"
+    weight 2
   ]
   edge [
-    source 7297
-    target 13097
+    source "member6596"
+    target "member10227"
+    weight 2
   ]
   edge [
-    source 9907
-    target 11035
+    source "member6811"
+    target "member6889"
+    weight 2
   ]
   edge [
-    source 2998
-    target 11481
+    source "member6889"
+    target "member11363"
+    weight 2
   ]
   edge [
-    source 4197
-    target 9819
+    source "member6596"
+    target "member6889"
+    weight 2
   ]
   edge [
-    source 10490
-    target 12030
+    source "member6811"
+    target "member11363"
+    weight 2
   ]
   edge [
-    source 9730
-    target 11259
+    source "member6596"
+    target "member6811"
+    weight 2
   ]
   edge [
-    source 8217
-    target 9576
+    source "member6596"
+    target "member11363"
+    weight 2
   ]
   edge [
-    source 6036
-    target 9191
+    source "member351"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 5182
-    target 9396
+    source "member351"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 8059
-    target 8730
+    source "member351"
+    target "member2196"
+    weight 1
   ]
   edge [
-    source 2365
-    target 12211
+    source "member351"
+    target "member4933"
+    weight 1
   ]
   edge [
-    source 447
-    target 9693
+    source "member10617"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 5745
-    target 7029
+    source "member2196"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 9458
-    target 9982
+    source "member4933"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 11437
-    target 12892
+    source "member2196"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 13019
-    target 13097
+    source "member4933"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 4436
-    target 7476
+    source "member2196"
+    target "member4933"
+    weight 1
   ]
   edge [
-    source 8137
-    target 10226
+    source "member2112"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 3907
-    target 9198
+    source "member974"
+    target "member13154"
+    weight 1
   ]
   edge [
-    source 9503
-    target 11481
+    source "member974"
+    target "member2112"
+    weight 1
   ]
   edge [
-    source 6077
-    target 6684
+    source "member8298"
+    target "member9954"
+    weight 1
   ]
   edge [
-    source 162
-    target 6182
+    source "member9954"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 7208
-    target 12652
+    source "member9954"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 2130
-    target 13104
+    source "member8298"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 3769
-    target 9642
+    source "member8298"
+    target "member10968"
+    weight 1
   ]
   edge [
-    source 1636
-    target 2998
+    source "member10968"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 3959
-    target 7179
+    source "member4482"
+    target "member10617"
+    weight 2
   ]
   edge [
-    source 3461
-    target 5999
+    source "member491"
+    target "member10617"
+    weight 2
   ]
   edge [
-    source 2893
-    target 5398
+    source "member10617"
+    target "member11371"
+    weight 2
   ]
   edge [
-    source 33
-    target 3264
+    source "member5409"
+    target "member10617"
+    weight 2
   ]
   edge [
-    source 3730
-    target 7435
+    source "member4437"
+    target "member7096"
+    weight 2
   ]
   edge [
-    source 841
-    target 6964
+    source "member4532"
+    target "member7096"
+    weight 2
   ]
   edge [
-    source 163
-    target 1653
+    source "member7096"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 1819
-    target 6008
+    source "member7096"
+    target "member7334"
+    weight 2
   ]
   edge [
-    source 2325
-    target 9752
+    source "member7096"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 3468
-    target 7435
+    source "member7096"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 6237
-    target 8664
+    source "member4413"
+    target "member7096"
+    weight 2
   ]
   edge [
-    source 1854
-    target 5557
+    source "member22"
+    target "member7096"
+    weight 2
   ]
   edge [
-    source 8380
-    target 10105
+    source "member4437"
+    target "member4532"
+    weight 2
   ]
   edge [
-    source 11259
-    target 12189
+    source "member4437"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 8196
-    target 12648
+    source "member4437"
+    target "member7334"
+    weight 2
   ]
   edge [
-    source 3913
-    target 8725
+    source "member4437"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 9466
-    target 11126
+    source "member4437"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 11
-    target 2458
+    source "member4413"
+    target "member4437"
+    weight 2
   ]
   edge [
-    source 447
-    target 11885
+    source "member22"
+    target "member4437"
+    weight 2
   ]
   edge [
-    source 163
-    target 9008
+    source "member4532"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 3709
-    target 7497
+    source "member4532"
+    target "member7334"
+    weight 2
   ]
   edge [
-    source 7535
-    target 9375
+    source "member4532"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 7069
-    target 9576
+    source "member4532"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 1358
-    target 9819
+    source "member4413"
+    target "member4532"
+    weight 2
   ]
   edge [
-    source 7497
-    target 7542
+    source "member22"
+    target "member4532"
+    weight 2
   ]
   edge [
-    source 1750
-    target 2732
+    source "member7334"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 9907
-    target 11133
+    source "member8204"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 67
-    target 1986
+    source "member8269"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 3461
-    target 9503
+    source "member4413"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 110
-    target 370
+    source "member22"
+    target "member9387"
+    weight 2
   ]
   edge [
-    source 9458
-    target 10898
+    source "member7334"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 11044
-    target 11253
+    source "member7334"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 1177
-    target 5350
+    source "member4413"
+    target "member7334"
+    weight 2
   ]
   edge [
-    source 1653
-    target 4376
+    source "member22"
+    target "member7334"
+    weight 2
   ]
   edge [
-    source 2243
-    target 3424
+    source "member8204"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 5528
-    target 10311
+    source "member4413"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 3819
-    target 10788
+    source "member22"
+    target "member8204"
+    weight 2
   ]
   edge [
-    source 6060
-    target 12652
+    source "member4413"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 6237
-    target 7064
+    source "member22"
+    target "member8269"
+    weight 2
   ]
   edge [
-    source 275
-    target 2100
+    source "member22"
+    target "member4413"
+    weight 2
   ]
   edge [
-    source 11362
-    target 12322
+    source "member3393"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 3970
-    target 11860
+    source "member3393"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 9576
-    target 12467
+    source "member3393"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1177
-    target 1414
+    source "member3393"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 1190
-    target 6866
+    source "member3393"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 227
-    target 11099
+    source "member3393"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 1358
-    target 3295
+    source "member3393"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 1450
-    target 6676
+    source "member3393"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 5999
-    target 11967
+    source "member1011"
+    target "member3393"
+    weight 2
   ]
   edge [
-    source 2365
-    target 9456
+    source "member3393"
+    target "member4533"
+    weight 2
   ]
   edge [
-    source 9008
-    target 9651
+    source "member3040"
+    target "member3393"
+    weight 2
   ]
   edge [
-    source 2732
-    target 12776
+    source "member3393"
+    target "member3945"
+    weight 2
   ]
   edge [
-    source 3039
-    target 11881
+    source "member3393"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 5495
-    target 8678
+    source "member3393"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 8414
-    target 9815
+    source "member561"
+    target "member3393"
+    weight 2
   ]
   edge [
-    source 981
-    target 12470
+    source "member3393"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 7542
-    target 10560
+    source "member6066"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 3411
-    target 11115
+    source "member9954"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 121
-    target 2981
+    source "member6685"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 5830
-    target 7356
+    source "member7512"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 2195
-    target 10967
+    source "member6078"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 3944
-    target 6065
+    source "member9954"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 2365
-    target 4208
+    source "member7214"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 2130
-    target 12564
+    source "member1011"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 7356
-    target 11452
+    source "member4533"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 11618
-    target 12549
+    source "member3040"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 163
-    target 8167
+    source "member3945"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 45
-    target 218
+    source "member9954"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 9070
-    target 11962
+    source "member9954"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 5009
-    target 10855
+    source "member561"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 7476
-    target 8893
+    source "member9174"
+    target "member9954"
+    weight 2
   ]
   edge [
-    source 2130
-    target 10614
+    source "member6066"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1554
-    target 8203
+    source "member6066"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 9158
-    target 11437
+    source "member6066"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 149
-    target 275
+    source "member6066"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 8168
-    target 11452
+    source "member6066"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 1112
-    target 8873
+    source "member6066"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 4376
-    target 7946
+    source "member1011"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 8059
-    target 8167
+    source "member4533"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 8378
-    target 9375
+    source "member3040"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 12467
-    target 13104
+    source "member3945"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 56
-    target 986
+    source "member6066"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 164
-    target 13271
+    source "member6066"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 3907
-    target 11259
+    source "member561"
+    target "member6066"
+    weight 2
   ]
   edge [
-    source 3345
-    target 11147
+    source "member6066"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 1445
-    target 7069
+    source "member6685"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 5655
-    target 9547
+    source "member7512"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 5406
-    target 10712
+    source "member6078"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 9329
-    target 13097
+    source "member10432"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 740
-    target 11072
+    source "member7214"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1391
-    target 5557
+    source "member1011"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 7095
-    target 8685
+    source "member4533"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1390
-    target 1391
+    source "member3040"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1002
-    target 11603
+    source "member3945"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 1625
-    target 4412
+    source "member10432"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 3920
-    target 10560
+    source "member10006"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 437
-    target 12648
+    source "member561"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 214
-    target 1199
+    source "member9174"
+    target "member10432"
+    weight 2
   ]
   edge [
-    source 7698
-    target 10146
+    source "member6685"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 8390
-    target 13263
+    source "member6078"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 2998
-    target 10401
+    source "member6685"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 8370
-    target 13019
+    source "member6685"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 1431
-    target 3234
+    source "member1011"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 560
-    target 3944
+    source "member4533"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 121
-    target 2176
+    source "member3040"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 5528
-    target 9627
+    source "member3945"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 3970
-    target 8467
+    source "member6685"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 7488
-    target 9375
+    source "member6685"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 7016
-    target 7430
+    source "member561"
+    target "member6685"
+    weight 2
   ]
   edge [
-    source 4504
-    target 9649
+    source "member6685"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 2072
-    target 9008
+    source "member6078"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 3709
-    target 11135
+    source "member7512"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 1131
-    target 7179
+    source "member7214"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 986
-    target 1199
+    source "member1011"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 9503
-    target 10401
+    source "member4533"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 3295
-    target 8414
+    source "member3040"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 6567
-    target 11884
+    source "member3945"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 7965
-    target 9299
+    source "member7512"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 3944
-    target 7511
+    source "member7512"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 1177
-    target 13153
+    source "member561"
+    target "member7512"
+    weight 2
   ]
   edge [
-    source 1976
-    target 3069
+    source "member7512"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 3100
-    target 11701
+    source "member6078"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 10560
-    target 11135
+    source "member6078"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 4224
-    target 8059
+    source "member1011"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 1450
-    target 9375
+    source "member4533"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 4468
-    target 8685
+    source "member3040"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 164
-    target 13104
+    source "member3945"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 3769
-    target 9730
+    source "member6078"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 1172
-    target 9547
+    source "member6078"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 816
-    target 1281
+    source "member561"
+    target "member6078"
+    weight 2
   ]
   edge [
-    source 1746
-    target 9819
+    source "member6078"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 2123
-    target 12658
+    source "member7214"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 2130
-    target 12554
+    source "member1011"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 5042
-    target 9216
+    source "member4533"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 8137
-    target 11253
+    source "member3040"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 2031
-    target 2861
+    source "member3945"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 437
-    target 2273
+    source "member11882"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 169
-    target 7297
+    source "member10006"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 4810
-    target 10636
+    source "member561"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 538
-    target 11072
+    source "member9174"
+    target "member11882"
+    weight 2
   ]
   edge [
-    source 1717
-    target 9203
+    source "member1011"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 1780
-    target 5350
+    source "member4533"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 21
-    target 3234
+    source "member3040"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 5543
-    target 9503
+    source "member3945"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 277
-    target 7095
+    source "member7214"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 2123
-    target 8084
+    source "member7214"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 2981
-    target 8325
+    source "member561"
+    target "member7214"
+    weight 2
   ]
   edge [
-    source 1131
-    target 8059
+    source "member7214"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 7356
-    target 13104
+    source "member1011"
+    target "member4533"
+    weight 2
   ]
   edge [
-    source 5561
-    target 8325
+    source "member1011"
+    target "member3040"
+    weight 2
   ]
   edge [
-    source 2891
-    target 12322
+    source "member1011"
+    target "member3945"
+    weight 2
   ]
   edge [
-    source 5561
-    target 6110
+    source "member1011"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 1315
-    target 9982
+    source "member1011"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 1625
-    target 3234
+    source "member561"
+    target "member1011"
+    weight 2
   ]
   edge [
-    source 4323
-    target 11456
+    source "member1011"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 370
-    target 7179
+    source "member3040"
+    target "member4533"
+    weight 2
   ]
   edge [
-    source 4436
-    target 6000
+    source "member3945"
+    target "member4533"
+    weight 2
   ]
   edge [
-    source 10560
-    target 11786
+    source "member4533"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 4810
-    target 11022
+    source "member4533"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 136
-    target 187
+    source "member561"
+    target "member4533"
+    weight 2
   ]
   edge [
-    source 33
-    target 4412
+    source "member4533"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 447
-    target 2560
+    source "member3040"
+    target "member3945"
+    weight 2
   ]
   edge [
-    source 1315
-    target 5408
+    source "member3040"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 9466
-    target 9794
+    source "member3040"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 3921
-    target 9203
+    source "member561"
+    target "member3040"
+    weight 2
   ]
   edge [
-    source 3234
-    target 7333
+    source "member3040"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 317
-    target 1547
+    source "member3945"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 5561
-    target 8217
+    source "member3945"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 196
-    target 1257
+    source "member561"
+    target "member3945"
+    weight 2
   ]
   edge [
-    source 63
-    target 1746
+    source "member3945"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 7319
-    target 12031
+    source "member10006"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 164
-    target 12070
+    source "member561"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 1278
-    target 5462
+    source "member9174"
+    target "member12437"
+    weight 2
   ]
   edge [
-    source 8370
-    target 8664
+    source "member561"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 4323
-    target 9627
+    source "member9174"
+    target "member10006"
+    weight 2
   ]
   edge [
-    source 164
-    target 12564
+    source "member561"
+    target "member9174"
+    weight 2
   ]
   edge [
-    source 63
-    target 8168
+    source "member2196"
+    target "member2864"
+    weight 1
   ]
   edge [
-    source 1983
-    target 10009
+    source "member2864"
+    target "member4829"
+    weight 2
   ]
   edge [
-    source 1750
-    target 12776
+    source "member2864"
+    target "member6122"
+    weight 2
   ]
   edge [
-    source 1092
-    target 1170
+    source "member2864"
+    target "member9242"
+    weight 1
   ]
   edge [
-    source 11967
-    target 13199
+    source "member2864"
+    target "member9941"
+    weight 2
   ]
   edge [
-    source 1278
-    target 8616
+    source "member2196"
+    target "member4829"
+    weight 1
   ]
   edge [
-    source 277
-    target 8685
+    source "member2196"
+    target "member6122"
+    weight 1
   ]
   edge [
-    source 1123
-    target 7430
+    source "member2196"
+    target "member9242"
+    weight 1
   ]
   edge [
-    source 3264
-    target 7333
+    source "member2196"
+    target "member9941"
+    weight 1
   ]
   edge [
-    source 1315
-    target 10898
+    source "member4829"
+    target "member6122"
+    weight 2
   ]
   edge [
-    source 1170
-    target 4881
+    source "member4829"
+    target "member9242"
+    weight 1
   ]
   edge [
-    source 4932
-    target 10616
+    source "member4829"
+    target "member9941"
+    weight 2
   ]
   edge [
-    source 2176
-    target 5830
+    source "member6122"
+    target "member9242"
+    weight 1
   ]
   edge [
-    source 3709
-    target 7454
+    source "member6122"
+    target "member9941"
+    weight 2
   ]
   edge [
-    source 1819
-    target 10251
+    source "member9242"
+    target "member9941"
+    weight 1
   ]
   edge [
-    source 1092
-    target 10560
+    source "member8665"
+    target "member10063"
+    weight 2
   ]
   edge [
-    source 1298
-    target 5561
+    source "member10063"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 6822
-    target 8493
+    source "member10063"
+    target "member12550"
+    weight 2
   ]
   edge [
-    source 398
-    target 8422
+    source "member399"
+    target "member10063"
+    weight 1
   ]
   edge [
-    source 11884
-    target 12648
+    source "member8665"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 7488
-    target 7536
+    source "member8665"
+    target "member12550"
+    weight 2
   ]
   edge [
-    source 3582
-    target 7535
+    source "member11619"
+    target "member12550"
+    weight 1
   ]
   edge [
-    source 3169
-    target 7891
+    source "member399"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 3944
-    target 7213
+    source "member399"
+    target "member12550"
+    weight 1
   ]
   edge [
-    source 1002
-    target 10788
+    source "member5006"
+    target "member5620"
+    weight 1
   ]
   edge [
-    source 2863
-    target 3992
+    source "member5006"
+    target "member8901"
+    weight 1
   ]
   edge [
-    source 9394
-    target 11099
+    source "member5620"
+    target "member8901"
+    weight 1
   ]
   edge [
-    source 63
-    target 8325
+    source "member6811"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 63
-    target 6110
+    source "member1299"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 63
-    target 11443
+    source "member7838"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 8217
-    target 11437
+    source "member7838"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 863
-    target 1733
+    source "member5562"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 2998
-    target 9815
+    source "member7838"
+    target "member8326"
+    weight 2
   ]
   edge [
-    source 6110
-    target 13104
+    source "member7838"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 2072
-    target 9649
+    source "member6111"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 9694
-    target 11885
+    source "member7838"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 2176
-    target 11284
+    source "member122"
+    target "member7838"
+    weight 2
   ]
   edge [
-    source 7965
-    target 11481
+    source "member5831"
+    target "member7838"
+    weight 3
   ]
   edge [
-    source 6684
-    target 12436
+    source "member7838"
+    target "member8218"
+    weight 2
   ]
   edge [
-    source 1123
-    target 5830
+    source "member7838"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 4995
-    target 9216
+    source "member7838"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 3959
-    target 12482
+    source "member7838"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 2981
-    target 5561
+    source "member7838"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 227
-    target 9070
+    source "member2982"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 8196
-    target 9693
+    source "member64"
+    target "member7838"
+    weight 2
   ]
   edge [
-    source 157
-    target 9649
+    source "member7838"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 1554
-    target 8268
+    source "member5496"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 4932
-    target 11002
+    source "member7838"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 1450
-    target 7536
+    source "member7838"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 1780
-    target 4293
+    source "member1299"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 227
-    target 5543
+    source "member6811"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 1954
-    target 8467
+    source "member6811"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 6163
-    target 10226
+    source "member5562"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 6973
-    target 11492
+    source "member6811"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 9693
-    target 10205
+    source "member6811"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 9982
-    target 11125
+    source "member6111"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 10311
-    target 11072
+    source "member6811"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 1349
-    target 11133
+    source "member122"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 8203
-    target 8685
+    source "member5831"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 45
-    target 813
+    source "member6811"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 9606
-    target 10316
+    source "member6811"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 9503
-    target 9815
+    source "member6811"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 1999
-    target 13084
+    source "member6811"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 4995
-    target 8434
+    source "member6811"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 9815
-    target 13199
+    source "member2982"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 1315
-    target 5398
+    source "member64"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 11
-    target 33
+    source "member6811"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 8873
-    target 9010
+    source "member5496"
+    target "member6811"
+    weight 1
   ]
   edge [
-    source 3920
-    target 7916
+    source "member6811"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 10636
-    target 13199
+    source "member6811"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 1445
-    target 9794
+    source "member1299"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 560
-    target 11881
+    source "member1299"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 398
-    target 8664
+    source "member1299"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 549
-    target 13263
+    source "member1299"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 7837
-    target 11044
+    source "member1299"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 2694
-    target 4197
+    source "member1299"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 5745
-    target 10359
+    source "member64"
+    target "member1299"
+    weight 1
   ]
   edge [
-    source 8325
-    target 12030
+    source "member1299"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 6036
-    target 8994
+    source "member1299"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 5181
-    target 5182
+    source "member1299"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 5495
-    target 12548
+    source "member10713"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 11044
-    target 11452
+    source "member5562"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 1414
-    target 4293
+    source "member8326"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 6237
-    target 12776
+    source "member10713"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 2341
-    target 13234
+    source "member6111"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 7069
-    target 11437
+    source "member10713"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 164
-    target 12554
+    source "member122"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 1298
-    target 11437
+    source "member5831"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 1278
-    target 7029
+    source "member8218"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 196
-    target 3992
+    source "member8169"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 4376
-    target 6182
+    source "member10713"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 2100
-    target 12470
+    source "member10713"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 3295
-    target 5999
+    source "member9159"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 6810
-    target 11362
+    source "member2982"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 2481
-    target 9458
+    source "member64"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 317
-    target 9651
+    source "member10713"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 11158
-    target 12462
+    source "member5496"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 2176
-    target 9576
+    source "member10713"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 149
-    target 8346
+    source "member10713"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 5585
-    target 6964
+    source "member5562"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 3582
-    target 9475
+    source "member8326"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 482
-    target 9458
+    source "member11453"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 8414
-    target 11362
+    source "member6111"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 169
-    target 13019
+    source "member11254"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 269
-    target 10742
+    source "member122"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 4293
-    target 11293
+    source "member5831"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 1636
-    target 11962
+    source "member8218"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 1653
-    target 2072
+    source "member8169"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 10005
-    target 11881
+    source "member11453"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 2981
-    target 11437
+    source "member11453"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 1750
-    target 10672
+    source "member9159"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 5561
-    target 8678
+    source "member2982"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 1131
-    target 11072
+    source "member64"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 1041
-    target 3005
+    source "member11045"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 9299
-    target 12658
+    source "member5496"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 6077
-    target 7511
+    source "member11438"
+    target "member11453"
+    weight 2
   ]
   edge [
-    source 3345
-    target 7698
+    source "member11453"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 11
-    target 8268
+    source "member5562"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 7511
-    target 9953
+    source "member5562"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 2887
-    target 3436
+    source "member5562"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 2130
-    target 8827
+    source "member5562"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 7837
-    target 8168
+    source "member64"
+    target "member5562"
+    weight 1
   ]
   edge [
-    source 10471
-    target 11387
+    source "member5562"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 11373
-    target 11604
+    source "member5562"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 8370
-    target 13097
+    source "member5562"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 3990
-    target 7435
+    source "member8326"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 12030
-    target 12548
+    source "member6111"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 9216
-    target 9627
+    source "member8326"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 2998
-    target 8084
+    source "member122"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 6110
-    target 9158
+    source "member5831"
+    target "member8326"
+    weight 2
   ]
   edge [
-    source 437
-    target 9693
+    source "member8218"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 2365
-    target 10306
+    source "member8169"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 2408
-    target 7495
+    source "member8326"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 5543
-    target 10471
+    source "member8326"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 2458
-    target 8893
+    source "member8326"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 10431
-    target 11881
+    source "member2982"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 9953
-    target 10005
+    source "member64"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 447
-    target 12483
+    source "member8326"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 2863
-    target 3874
+    source "member5496"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 164
-    target 7319
+    source "member8326"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 1949
-    target 6163
+    source "member8326"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 2123
-    target 8414
+    source "member5831"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 1131
-    target 5042
+    source "member8218"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 398
-    target 3959
+    source "member12031"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 1596
-    target 4318
+    source "member64"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 1172
-    target 3582
+    source "member11045"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 1131
-    target 3959
+    source "member11438"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 8827
-    target 12002
+    source "member11462"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 4508
-    target 11603
+    source "member5831"
+    target "member6111"
+    weight 1
   ]
   edge [
-    source 9576
-    target 11452
+    source "member6111"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 1554
-    target 7476
+    source "member6111"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 8167
-    target 9103
+    source "member64"
+    target "member6111"
+    weight 1
   ]
   edge [
-    source 2863
-    target 3730
+    source "member6111"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 10511
-    target 11437
+    source "member6111"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 11022
-    target 11387
+    source "member6111"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 5585
-    target 11492
+    source "member5831"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 1199
-    target 1506
+    source "member8218"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 8422
-    target 9329
+    source "member11254"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 3709
-    target 7542
+    source "member64"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 8730
-    target 9216
+    source "member11045"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 1547
-    target 9651
+    source "member11254"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 1717
-    target 10328
+    source "member11254"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 10636
-    target 11962
+    source "member122"
+    target "member5831"
+    weight 2
   ]
   edge [
-    source 3392
-    target 6065
+    source "member122"
+    target "member8218"
+    weight 2
   ]
   edge [
-    source 437
-    target 11885
+    source "member122"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 164
-    target 3913
+    source "member64"
+    target "member122"
+    weight 2
   ]
   edge [
-    source 227
-    target 3295
+    source "member122"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 85
-    target 9856
+    source "member122"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 2571
-    target 3069
+    source "member122"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 7965
-    target 10401
+    source "member5831"
+    target "member8218"
+    weight 2
   ]
   edge [
-    source 9070
-    target 9815
+    source "member5831"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 7837
-    target 12467
+    source "member5831"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 3730
-    target 6060
+    source "member5831"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 6110
-    target 10712
+    source "member5831"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 1123
-    target 13152
+    source "member2982"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 3975
-    target 11081
+    source "member5496"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 3468
-    target 6060
+    source "member5831"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 121
-    target 12030
+    source "member8169"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 8370
-    target 11618
+    source "member8218"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 11044
-    target 13104
+    source "member8218"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 3411
-    target 4214
+    source "member8218"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 161
-    target 317
+    source "member2982"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 2812
-    target 9547
+    source "member64"
+    target "member8218"
+    weight 2
   ]
   edge [
-    source 880
-    target 4125
+    source "member8218"
+    target "member11045"
+    weight 2
   ]
   edge [
-    source 5543
-    target 11387
+    source "member5496"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 2481
-    target 10616
+    source "member8218"
+    target "member11438"
+    weight 2
   ]
   edge [
-    source 277
-    target 1431
+    source "member8218"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 6237
-    target 10672
+    source "member8169"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 6008
-    target 11603
+    source "member64"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 162
-    target 5422
+    source "member8169"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 11135
-    target 11421
+    source "member8169"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 11452
-    target 12031
+    source "member8169"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 5999
-    target 10471
+    source "member12941"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 3921
-    target 10328
+    source "member9159"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 218
-    target 5811
+    source "member2982"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 482
-    target 10616
+    source "member64"
+    target "member13105"
+    weight 3
   ]
   edge [
-    source 266
-    target 1278
+    source "member11045"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 9815
-    target 11481
+    source "member5496"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 3975
-    target 10048
+    source "member11438"
+    target "member13105"
+    weight 2
   ]
   edge [
-    source 2416
-    target 7862
+    source "member11462"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 2686
-    target 7457
+    source "member64"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 3229
-    target 12809
+    source "member11045"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 7319
-    target 13156
+    source "member11438"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 6163
-    target 11253
+    source "member11462"
+    target "member12941"
+    weight 1
   ]
   edge [
-    source 880
-    target 2031
+    source "member64"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 1653
-    target 9008
+    source "member9159"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 1976
-    target 2571
+    source "member9159"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 12002
-    target 12031
+    source "member9159"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 1358
-    target 3461
+    source "member64"
+    target "member2982"
+    weight 1
   ]
   edge [
-    source 7542
-    target 11135
+    source "member2982"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 8414
-    target 11967
+    source "member2982"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 8217
-    target 11044
+    source "member2982"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 7155
-    target 10954
+    source "member64"
+    target "member5496"
+    weight 1
   ]
   edge [
-    source 4208
-    target 10887
+    source "member64"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 1358
-    target 10636
+    source "member5496"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 9982
-    target 11370
+    source "member11045"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 11
-    target 1554
+    source "member5496"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 12070
-    target 13104
+    source "member5496"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 8855
-    target 10742
+    source "member11438"
+    target "member11462"
+    weight 5
   ]
   edge [
-    source 8084
-    target 10636
+    source "member4875"
+    target "member9112"
+    weight 7
   ]
   edge [
-    source 7837
-    target 11253
+    source "member4875"
+    target "member11462"
+    weight 6
   ]
   edge [
-    source 9173
-    target 10005
+    source "member4875"
+    target "member10512"
+    weight 2
   ]
   edge [
-    source 811
-    target 9191
+    source "member9112"
+    target "member11438"
+    weight 5
   ]
   edge [
-    source 3039
-    target 9953
+    source "member9112"
+    target "member11462"
+    weight 5
   ]
   edge [
-    source 2260
-    target 13104
+    source "member9112"
+    target "member10512"
+    weight 2
   ]
   edge [
-    source 10069
-    target 10328
+    source "member10512"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 1663
-    target 12031
+    source "member10512"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 2895
-    target 2998
+    source "member2032"
+    target "member11294"
+    weight 1
   ]
   edge [
-    source 8698
-    target 11618
+    source "member881"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 5999
-    target 11387
+    source "member1178"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 3819
-    target 13182
+    source "member1044"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 9070
-    target 12658
+    source "member2032"
+    target "member4294"
+    weight 1
   ]
   edge [
-    source 3535
-    target 11437
+    source "member2032"
+    target "member3437"
+    weight 1
   ]
   edge [
-    source 1123
-    target 2260
+    source "member2032"
+    target "member2862"
+    weight 1
   ]
   edge [
-    source 9456
-    target 10887
+    source "member57"
+    target "member10317"
+    weight 2
   ]
   edge [
-    source 2195
-    target 10616
+    source "member57"
+    target "member9607"
+    weight 2
   ]
   edge [
-    source 3392
-    target 9173
+    source "member57"
+    target "member5006"
+    weight 2
   ]
   edge [
-    source 477
-    target 2148
+    source "member9607"
+    target "member10317"
+    weight 2
   ]
   edge [
-    source 7511
-    target 12436
+    source "member5006"
+    target "member10317"
+    weight 2
   ]
   edge [
-    source 1746
-    target 11284
+    source "member5006"
+    target "member9607"
+    weight 2
   ]
   edge [
-    source 1746
-    target 1750
+    source "member34"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 1358
-    target 11022
+    source "member4413"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 10712
-    target 11044
+    source "member8894"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 164
-    target 8827
+    source "member1626"
+    target "member8894"
+    weight 2
   ]
   edge [
-    source 1298
-    target 5495
+    source "member1432"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 4881
-    target 9452
+    source "member7096"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 8196
-    target 11492
+    source "member4437"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 8084
-    target 11022
+    source "member4532"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 6177
-    target 12189
+    source "member8269"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 436
-    target 5350
+    source "member7334"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 2732
-    target 11463
+    source "member12"
+    target "member8894"
+    weight 2
   ]
   edge [
-    source 4468
-    target 7333
+    source "member8204"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 4828
-    target 9940
+    source "member3235"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 1391
-    target 7794
+    source "member22"
+    target "member8894"
+    weight 1
   ]
   edge [
-    source 63
-    target 7356
+    source "member34"
+    target "member2459"
+    weight 1
   ]
   edge [
-    source 6110
-    target 11461
+    source "member2459"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 7356
-    target 7430
+    source "member2459"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 1131
-    target 6177
+    source "member1626"
+    target "member2459"
+    weight 2
   ]
   edge [
-    source 161
-    target 163
+    source "member1432"
+    target "member2459"
+    weight 1
   ]
   edge [
-    source 12462
-    target 12558
+    source "member2459"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 33
-    target 7333
+    source "member2459"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 695
-    target 1445
+    source "member2459"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 1092
-    target 7497
+    source "member2459"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 1145
-    target 4125
+    source "member2459"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 110
-    target 4318
+    source "member12"
+    target "member2459"
+    weight 2
   ]
   edge [
-    source 6595
-    target 10226
+    source "member2459"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 2981
-    target 5495
+    source "member2459"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 12462
-    target 13052
+    source "member22"
+    target "member2459"
+    weight 1
   ]
   edge [
-    source 4255
-    target 13052
+    source "member34"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 4323
-    target 9394
+    source "member34"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 4508
-    target 10788
+    source "member34"
+    target "member278"
+    weight 1
   ]
   edge [
-    source 6567
-    target 11821
+    source "member34"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 4412
-    target 8685
+    source "member34"
+    target "member3265"
+    weight 2
   ]
   edge [
-    source 7064
-    target 12776
+    source "member34"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 12070
-    target 12564
+    source "member34"
+    target "member1555"
+    weight 1
   ]
   edge [
-    source 317
-    target 4504
+    source "member34"
+    target "member1626"
+    weight 1
   ]
   edge [
-    source 7216
-    target 10546
+    source "member34"
+    target "member1432"
+    weight 1
   ]
   edge [
-    source 3920
-    target 11786
+    source "member34"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 2148
-    target 9614
+    source "member34"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 8827
-    target 11452
+    source "member34"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 12482
-    target 13003
+    source "member34"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 7216
-    target 12352
+    source "member34"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 700
-    target 4125
+    source "member34"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 3424
-    target 6186
+    source "member34"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 1026
-    target 1028
+    source "member34"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 2031
-    target 3436
+    source "member12"
+    target "member34"
+    weight 2
   ]
   edge [
-    source 1554
-    target 4531
+    source "member34"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 880
-    target 3009
+    source "member34"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 2540
-    target 5528
+    source "member22"
+    target "member34"
+    weight 1
   ]
   edge [
-    source 187
-    target 1999
+    source "member4413"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 5422
-    target 7946
+    source "member7477"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 4436
-    target 4468
+    source "member1626"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 11437
-    target 11461
+    source "member1432"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 218
-    target 1986
+    source "member7096"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 740
-    target 4197
+    source "member4437"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 8137
-    target 12322
+    source "member4532"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 1172
-    target 13096
+    source "member7477"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 1746
-    target 9576
+    source "member7334"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 1175
-    target 4125
+    source "member12"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 7069
-    target 12189
+    source "member7477"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 2123
-    target 5999
+    source "member3235"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 4698
-    target 12467
+    source "member22"
+    target "member7477"
+    weight 1
   ]
   edge [
-    source 3461
-    target 13199
+    source "member278"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 1172
-    target 6945
+    source "member3265"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 1191
-    target 12062
+    source "member4413"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 266
-    target 1281
+    source "member1555"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 2195
-    target 4828
+    source "member1626"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 6008
-    target 10788
+    source "member1432"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 11253
-    target 12548
+    source "member4413"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 9815
-    target 10401
+    source "member4413"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 169
-    target 13097
+    source "member4413"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 437
-    target 2560
+    source "member12"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 6049
-    target 11463
+    source "member3235"
+    target "member4413"
+    weight 1
   ]
   edge [
-    source 11259
-    target 12070
+    source "member278"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 2981
-    target 8217
+    source "member278"
+    target "member1626"
+    weight 2
   ]
   edge [
-    source 1175
-    target 2031
+    source "member278"
+    target "member1432"
+    weight 1
   ]
   edge [
-    source 5655
-    target 7488
+    source "member278"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 277
-    target 2458
+    source "member278"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 5561
-    target 12548
+    source "member278"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 1172
-    target 8378
+    source "member278"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 4532
-    target 11881
+    source "member278"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 398
-    target 12776
+    source "member12"
+    target "member278"
+    weight 2
   ]
   edge [
-    source 8434
-    target 8730
+    source "member278"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 8827
-    target 13271
+    source "member278"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 6964
-    target 11884
+    source "member22"
+    target "member278"
+    weight 1
   ]
   edge [
-    source 437
-    target 11492
+    source "member3265"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 2365
-    target 11022
+    source "member8686"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 3907
-    target 9730
+    source "member1555"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 12002
-    target 12564
+    source "member1626"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 3920
-    target 7454
+    source "member1432"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 436
-    target 1175
+    source "member4469"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 5619
-    target 11362
+    source "member6001"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 9606
-    target 11022
+    source "member9387"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 436
-    target 4293
+    source "member12"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 11044
-    target 12940
+    source "member3235"
+    target "member9387"
+    weight 1
   ]
   edge [
-    source 9801
-    target 13104
+    source "member1626"
+    target "member3265"
+    weight 2
   ]
   edge [
-    source 4810
-    target 9503
+    source "member1432"
+    target "member3265"
+    weight 1
   ]
   edge [
-    source 10720
-    target 12062
+    source "member3265"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 1547
-    target 4504
+    source "member3265"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 5408
-    target 9458
+    source "member3265"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 7155
-    target 9730
+    source "member3265"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 766
-    target 5745
+    source "member3265"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 11387
-    target 11967
+    source "member12"
+    target "member3265"
+    weight 3
   ]
   edge [
-    source 3461
-    target 4810
+    source "member3265"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 6810
-    target 11044
+    source "member3235"
+    target "member3265"
+    weight 1
   ]
   edge [
-    source 8167
-    target 9819
+    source "member22"
+    target "member3265"
+    weight 1
   ]
   edge [
-    source 11
-    target 4531
+    source "member1626"
+    target "member8686"
+    weight 2
   ]
   edge [
-    source 2861
-    target 13153
+    source "member1432"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 187
-    target 9452
+    source "member7096"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 12070
-    target 12554
+    source "member4437"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 6810
-    target 10226
+    source "member4532"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 2416
-    target 7698
+    source "member8269"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 1278
-    target 10359
+    source "member7334"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 13104
-    target 13156
+    source "member12"
+    target "member8686"
+    weight 2
   ]
   edge [
-    source 8217
-    target 11253
+    source "member8204"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 7756
-    target 8414
+    source "member3235"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 3907
-    target 13234
+    source "member22"
+    target "member8686"
+    weight 1
   ]
   edge [
-    source 7497
-    target 11421
+    source "member1555"
+    target "member1626"
+    weight 2
   ]
   edge [
-    source 11099
-    target 11456
+    source "member1432"
+    target "member1555"
+    weight 1
   ]
   edge [
-    source 1298
-    target 6810
+    source "member1555"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 5528
-    target 11481
+    source "member1555"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 3386
-    target 4114
+    source "member1555"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 4468
-    target 8203
+    source "member1555"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 8414
-    target 10226
+    source "member1555"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 3913
-    target 12002
+    source "member12"
+    target "member1555"
+    weight 2
   ]
   edge [
-    source 2812
-    target 3582
+    source "member1555"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 56
-    target 10316
+    source "member1555"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 110
-    target 1131
+    source "member22"
+    target "member1555"
+    weight 1
   ]
   edge [
-    source 5528
-    target 11072
+    source "member1432"
+    target "member1626"
+    weight 1
   ]
   edge [
-    source 11461
-    target 12940
+    source "member1626"
+    target "member4469"
+    weight 2
   ]
   edge [
-    source 7016
-    target 7069
+    source "member1626"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 1733
-    target 4114
+    source "member1626"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 549
-    target 2341
+    source "member1626"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 2560
-    target 11885
+    source "member1626"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 8827
-    target 13104
+    source "member1626"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 7064
-    target 10672
+    source "member1626"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 6000
-    target 7095
+    source "member1626"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 33
-    target 8203
+    source "member12"
+    target "member1626"
+    weight 2
   ]
   edge [
-    source 3500
-    target 8422
+    source "member1626"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 863
-    target 4114
+    source "member1626"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 3970
-    target 3990
+    source "member22"
+    target "member1626"
+    weight 1
   ]
   edge [
-    source 2998
-    target 11967
+    source "member1432"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 1746
-    target 4318
+    source "member1432"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 8196
-    target 12483
+    source "member1432"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 11452
-    target 13156
+    source "member1432"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 5876
-    target 8493
+    source "member1432"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 11044
-    target 11461
+    source "member1432"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 1699
-    target 6866
+    source "member1432"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 8059
-    target 9216
+    source "member1432"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 1120
-    target 8730
+    source "member12"
+    target "member1432"
+    weight 1
   ]
   edge [
-    source 213
-    target 5811
+    source "member1432"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 1177
-    target 2031
+    source "member1432"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 1360
-    target 4776
+    source "member22"
+    target "member1432"
+    weight 1
   ]
   edge [
-    source 1358
-    target 4995
+    source "member4469"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 3461
-    target 11962
+    source "member4437"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 10712
-    target 11253
+    source "member4469"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 10205
-    target 12648
+    source "member4469"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 12002
-    target 13156
+    source "member4469"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 7535
-    target 9475
+    source "member12"
+    target "member4469"
+    weight 2
   ]
   edge [
-    source 2408
-    target 10560
+    source "member4469"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 3724
-    target 3970
+    source "member3235"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 8325
-    target 11437
+    source "member22"
+    target "member4469"
+    weight 1
   ]
   edge [
-    source 9503
-    target 11967
+    source "member6001"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 9801
-    target 12564
+    source "member7096"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 8873
-    target 11800
+    source "member12"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 3461
-    target 9109
+    source "member3235"
+    target "member7096"
+    weight 1
   ]
   edge [
-    source 196
-    target 8467
+    source "member4437"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 4531
-    target 7333
+    source "member4437"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 7478
-    target 11421
+    source "member12"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 1315
-    target 4481
+    source "member3235"
+    target "member4437"
+    weight 1
   ]
   edge [
-    source 6567
-    target 9694
+    source "member4532"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 8059
-    target 8434
+    source "member6001"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 1431
-    target 8893
+    source "member6001"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 813
-    target 5811
+    source "member12"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 2863
-    target 6121
+    source "member6001"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 4214
-    target 7891
+    source "member3235"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 2998
-    target 5528
+    source "member22"
+    target "member6001"
+    weight 1
   ]
   edge [
-    source 1278
-    target 10048
+    source "member4532"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 5830
-    target 12030
+    source "member12"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 1002
-    target 13182
+    source "member3235"
+    target "member4532"
+    weight 1
   ]
   edge [
-    source 7488
-    target 7535
+    source "member8269"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 2998
-    target 6202
+    source "member12"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 9111
-    target 12467
+    source "member3235"
+    target "member8269"
+    weight 1
   ]
   edge [
-    source 398
-    target 10672
+    source "member7334"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 269
-    target 12773
+    source "member12"
+    target "member10126"
+    weight 2
   ]
   edge [
-    source 3819
-    target 4508
+    source "member8204"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 6000
-    target 8685
+    source "member3235"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 6684
-    target 7511
+    source "member22"
+    target "member10126"
+    weight 1
   ]
   edge [
-    source 1663
-    target 13156
+    source "member12"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 740
-    target 11604
+    source "member3235"
+    target "member7334"
+    weight 1
   ]
   edge [
-    source 1172
-    target 10969
+    source "member12"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 891
-    target 11099
+    source "member12"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 3730
-    target 12652
+    source "member12"
+    target "member22"
+    weight 1
   ]
   edge [
-    source 8827
-    target 12070
+    source "member3235"
+    target "member8204"
+    weight 1
   ]
   edge [
-    source 9694
-    target 11884
+    source "member22"
+    target "member3235"
+    weight 1
   ]
   edge [
-    source 5408
-    target 10616
+    source "member270"
+    target "member12773"
+    weight 2
   ]
   edge [
-    source 3468
-    target 12652
+    source "member8856"
+    target "member12773"
+    weight 2
   ]
   edge [
-    source 560
-    target 9953
+    source "member6122"
+    target "member12773"
+    weight 2
   ]
   edge [
-    source 10614
-    target 12564
+    source "member10743"
+    target "member12773"
+    weight 2
   ]
   edge [
-    source 3960
-    target 12031
+    source "member12773"
+    target "member12774"
+    weight 2
   ]
   edge [
-    source 4504
-    target 9651
+    source "member270"
+    target "member8856"
+    weight 2
   ]
   edge [
-    source 8827
-    target 12564
+    source "member270"
+    target "member6122"
+    weight 2
   ]
   edge [
-    source 121
-    target 5561
+    source "member270"
+    target "member10743"
+    weight 2
   ]
   edge [
-    source 1450
-    target 7535
+    source "member270"
+    target "member12774"
+    weight 2
   ]
   edge [
-    source 973
-    target 10616
+    source "member6122"
+    target "member8856"
+    weight 2
   ]
   edge [
-    source 6684
-    target 9173
+    source "member8856"
+    target "member10743"
+    weight 2
   ]
   edge [
-    source 4874
-    target 6746
+    source "member8856"
+    target "member12774"
+    weight 2
   ]
   edge [
-    source 436
-    target 1780
+    source "member6122"
+    target "member10743"
+    weight 2
   ]
   edge [
-    source 5999
-    target 9070
+    source "member6122"
+    target "member12774"
+    weight 2
   ]
   edge [
-    source 841
-    target 1420
+    source "member10743"
+    target "member12774"
+    weight 2
   ]
   edge [
-    source 7095
-    target 8893
+    source "member814"
+    target "member1042"
+    weight 1
   ]
   edge [
-    source 8664
-    target 10062
+    source "member64"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 3582
-    target 9232
+    source "member64"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 8827
-    target 10614
+    source "member64"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 4208
-    target 10677
+    source "member7070"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 5558
-    target 12482
+    source "member7070"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 1092
-    target 7454
+    source "member7017"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 10471
-    target 11962
+    source "member7070"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 7837
-    target 11452
+    source "member1747"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 1010
-    target 4532
+    source "member2177"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 1281
-    target 10359
+    source "member7070"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 1701
-    target 8730
+    source "member7070"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 1120
-    target 12211
+    source "member7070"
+    target "member7357"
+    weight 1
   ]
   edge [
-    source 8378
-    target 9475
+    source "member7070"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 4376
-    target 5422
+    source "member7070"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 266
-    target 816
+    source "member7070"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 9627
-    target 13263
+    source "member122"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 2998
-    target 7756
+    source "member5831"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 11967
-    target 12658
+    source "member7070"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 1636
-    target 12658
+    source "member7070"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 437
-    target 12483
+    source "member1747"
+    target "member11045"
+    weight 1
   ]
   edge [
-    source 2148
-    target 6008
+    source "member11045"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 3100
-    target 12462
+    source "member8218"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 8612
-    target 9907
+    source "member1747"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 4115
-    target 12211
+    source "member11453"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 2957
-    target 7495
+    source "member7838"
+    target "member12893"
+    weight 2
   ]
   edge [
-    source 1483
-    target 11253
+    source "member11285"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 121
-    target 1746
+    source "member122"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 5082
-    target 11362
+    source "member12893"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 4995
-    target 10311
+    source "member7017"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 538
-    target 1131
+    source "member1747"
+    target "member7017"
+    weight 1
   ]
   edge [
-    source 8994
-    target 9191
+    source "member7017"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 1636
-    target 8084
+    source "member7017"
+    target "member7838"
+    weight 2
   ]
   edge [
-    source 2368
-    target 11237
+    source "member7017"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 9801
-    target 12554
+    source "member122"
+    target "member7017"
+    weight 1
   ]
   edge [
-    source 4318
-    target 7179
+    source "member7017"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 110
-    target 6202
+    source "member1747"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 1717
-    target 2416
+    source "member2177"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 6065
-    target 11881
+    source "member7357"
+    target "member8218"
+    weight 1
   ]
   edge [
-    source 10577
-    target 11463
+    source "member8218"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 11259
-    target 12809
+    source "member8218"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 766
-    target 8493
+    source "member8218"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 8390
-    target 9198
+    source "member1747"
+    target "member2177"
+    weight 1
   ]
   edge [
-    source 85
-    target 7457
+    source "member1747"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 5422
-    target 6182
+    source "member1747"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 11022
-    target 11962
+    source "member1747"
+    target "member7357"
+    weight 1
   ]
   edge [
-    source 5528
-    target 10401
+    source "member1747"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 1190
-    target 5788
+    source "member1747"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 1733
-    target 10762
+    source "member1747"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 5495
-    target 12030
+    source "member122"
+    target "member1747"
+    weight 1
   ]
   edge [
-    source 7095
-    target 8268
+    source "member1747"
+    target "member5831"
+    weight 1
   ]
   edge [
-    source 11492
-    target 11884
+    source "member1747"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 121
-    target 11437
+    source "member1747"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 863
-    target 10762
+    source "member2177"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 213
-    target 1986
+    source "member2177"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 161
-    target 7946
+    source "member2177"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 6810
-    target 11253
+    source "member122"
+    target "member2177"
+    weight 1
   ]
   edge [
-    source 447
-    target 841
+    source "member2177"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 811
-    target 8994
+    source "member11285"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 7946
-    target 9651
+    source "member7357"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 227
-    target 3461
+    source "member9577"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 3913
-    target 11452
+    source "member11285"
+    target "member11453"
+    weight 1
   ]
   edge [
-    source 2176
-    target 11044
+    source "member11453"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 12658
-    target 13199
+    source "member7357"
+    target "member7838"
+    weight 2
   ]
   edge [
-    source 3229
-    target 13263
+    source "member7357"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 10614
-    target 12554
+    source "member122"
+    target "member7357"
+    weight 1
   ]
   edge [
-    source 447
-    target 8196
+    source "member7357"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 6678
-    target 9907
+    source "member7838"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 5543
-    target 11962
+    source "member9577"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 8827
-    target 12554
+    source "member122"
+    target "member9577"
+    weight 1
   ]
   edge [
-    source 7016
-    target 8325
+    source "member9577"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 1240
-    target 11099
+    source "member7838"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 1390
-    target 8414
+    source "member7838"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 10636
-    target 12658
+    source "member122"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 12564
-    target 13271
+    source "member5831"
+    target "member11285"
+    weight 1
   ]
   edge [
-    source 227
-    target 10636
+    source "member11285"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 4531
-    target 8203
+    source "member11285"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 986
-    target 10316
+    source "member122"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 5528
-    target 6177
+    source "member12468"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 2812
-    target 13096
+    source "member1350"
+    target "member9908"
+    weight 2
   ]
   edge [
-    source 6177
-    target 9103
+    source "member8613"
+    target "member9908"
+    weight 2
   ]
   edge [
-    source 667
-    target 3854
+    source "member9908"
+    target "member11036"
+    weight 2
   ]
   edge [
-    source 9158
-    target 13104
+    source "member9908"
+    target "member11134"
+    weight 2
   ]
   edge [
-    source 9010
-    target 10954
+    source "member6679"
+    target "member9908"
+    weight 2
   ]
   edge [
-    source 3345
-    target 10069
+    source "member1350"
+    target "member8613"
+    weight 2
   ]
   edge [
-    source 2540
-    target 2694
+    source "member1350"
+    target "member11036"
+    weight 2
   ]
   edge [
-    source 6684
-    target 7213
+    source "member1350"
+    target "member11134"
+    weight 2
   ]
   edge [
-    source 3461
-    target 9606
+    source "member1350"
+    target "member6679"
+    weight 2
   ]
   edge [
-    source 6973
-    target 10205
+    source "member8613"
+    target "member11036"
+    weight 2
   ]
   edge [
-    source 2812
-    target 6945
+    source "member8613"
+    target "member11134"
+    weight 2
   ]
   edge [
-    source 5585
-    target 6567
+    source "member6679"
+    target "member8613"
+    weight 2
   ]
   edge [
-    source 4468
-    target 8268
+    source "member11036"
+    target "member11134"
+    weight 2
   ]
   edge [
-    source 1281
-    target 6822
+    source "member6679"
+    target "member11036"
+    weight 2
   ]
   edge [
-    source 7016
-    target 8217
+    source "member6679"
+    target "member11134"
+    weight 2
   ]
   edge [
-    source 6163
-    target 12322
+    source "member8874"
+    target "member9011"
+    weight 1
   ]
   edge [
-    source 981
-    target 2100
+    source "member9011"
+    target "member11429"
+    weight 1
   ]
   edge [
-    source 3582
-    target 9752
+    source "member9011"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 8855
-    target 12773
+    source "member8874"
+    target "member11429"
+    weight 2
   ]
   edge [
-    source 1841
-    target 10048
+    source "member8874"
+    target "member10955"
+    weight 1
   ]
   edge [
-    source 4177
-    target 11618
+    source "member10955"
+    target "member11429"
+    weight 1
   ]
   edge [
-    source 1819
-    target 4776
+    source "member1293"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 4995
-    target 9627
+    source "member1293"
+    target "member6974"
+    weight 1
   ]
   edge [
-    source 227
-    target 11022
+    source "member1293"
+    target "member11493"
+    weight 1
   ]
   edge [
-    source 477
-    target 10788
+    source "member1421"
+    target "member9695"
+    weight 1
   ]
   edge [
-    source 5005
-    target 5619
+    source "member1421"
+    target "member6974"
+    weight 1
   ]
   edge [
-    source 134
-    target 214
+    source "member1421"
+    target "member11493"
+    weight 1
   ]
   edge [
-    source 2072
-    target 9651
+    source "member9695"
+    target "member12453"
+    weight 1
   ]
   edge [
-    source 2812
-    target 8378
+    source "member6974"
+    target "member12453"
+    weight 1
   ]
   edge [
-    source 7756
-    target 9503
+    source "member11493"
+    target "member12453"
+    weight 1
   ]
   edge [
-    source 1596
-    target 4209
+    source "member6238"
+    target "member7065"
+    weight 2
   ]
   edge [
-    source 6822
-    target 8616
+    source "member2733"
+    target "member7065"
+    weight 2
   ]
   edge [
-    source 3913
-    target 13271
+    source "member399"
+    target "member7065"
+    weight 2
   ]
   edge [
-    source 443
-    target 740
+    source "member7065"
+    target "member12777"
+    weight 2
   ]
   edge [
-    source 4810
-    target 11387
+    source "member7065"
+    target "member10673"
+    weight 2
   ]
   edge [
-    source 63
-    target 2176
+    source "member741"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 7297
-    target 8580
+    source "member444"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 157
-    target 9651
+    source "member2695"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 8873
-    target 9794
+    source "member4198"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 3157
-    target 11158
+    source "member2541"
+    target "member5529"
+    weight 2
   ]
   edge [
-    source 447
-    target 11821
+    source "member444"
+    target "member741"
+    weight 2
   ]
   edge [
-    source 4255
-    target 12482
+    source "member741"
+    target "member2695"
+    weight 2
   ]
   edge [
-    source 12564
-    target 13104
+    source "member741"
+    target "member4198"
+    weight 2
   ]
   edge [
-    source 2891
-    target 6163
+    source "member741"
+    target "member2541"
+    weight 2
   ]
   edge [
-    source 436
-    target 700
+    source "member444"
+    target "member2695"
+    weight 2
   ]
   edge [
-    source 162
-    target 317
+    source "member444"
+    target "member4198"
+    weight 2
   ]
   edge [
-    source 1358
-    target 5999
+    source "member444"
+    target "member2541"
+    weight 2
   ]
   edge [
-    source 3234
-    target 4436
+    source "member2695"
+    target "member4198"
+    weight 2
   ]
   edge [
-    source 11452
-    target 12030
+    source "member2541"
+    target "member2695"
+    weight 2
   ]
   edge [
-    source 8390
-    target 11259
+    source "member2541"
+    target "member4198"
+    weight 2
   ]
   edge [
-    source 9216
-    target 11072
+    source "member371"
+    target "member4210"
+    weight 2
   ]
   edge [
-    source 6567
-    target 12648
+    source "member371"
+    target "member10673"
+    weight 3
   ]
   edge [
-    source 1043
-    target 1414
+    source "member371"
+    target "member6238"
+    weight 3
   ]
   edge [
-    source 3295
-    target 13199
+    source "member399"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 2998
-    target 12189
+    source "member1132"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 1177
-    target 11293
+    source "member7180"
+    target "member10673"
+    weight 1
   ]
   edge [
-    source 477
-    target 1002
+    source "member7065"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 7319
-    target 8725
+    source "member3960"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 1092
-    target 7542
+    source "member2733"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 8725
-    target 12002
+    source "member6238"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 11884
-    target 12483
+    source "member399"
+    target "member1132"
+    weight 1
   ]
   edge [
-    source 437
-    target 6973
+    source "member399"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 1172
-    target 2812
+    source "member399"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 3392
-    target 6077
+    source "member111"
+    target "member399"
+    weight 1
   ]
   edge [
-    source 8217
-    target 11452
+    source "member371"
+    target "member399"
+    weight 1
   ]
   edge [
-    source 549
-    target 10677
+    source "member399"
+    target "member1751"
+    weight 1
   ]
   edge [
-    source 7155
-    target 11362
+    source "member1132"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 85
-    target 334
+    source "member1132"
+    target "member10673"
+    weight 1
   ]
   edge [
-    source 9547
-    target 9752
+    source "member1132"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 8203
-    target 8893
+    source "member1132"
+    target "member1597"
+    weight 1
   ]
   edge [
-    source 7698
-    target 10069
+    source "member1132"
+    target "member12777"
+    weight 1
   ]
   edge [
-    source 482
-    target 973
+    source "member1132"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 7891
-    target 11138
+    source "member111"
+    target "member1132"
+    weight 1
   ]
   edge [
-    source 3264
-    target 4436
+    source "member1132"
+    target "member2733"
+    weight 1
   ]
   edge [
-    source 3152
-    target 8167
+    source "member371"
+    target "member1132"
+    weight 1
   ]
   edge [
-    source 3913
-    target 13104
+    source "member1132"
+    target "member1751"
+    weight 1
   ]
   edge [
-    source 1358
-    target 9503
+    source "member1132"
+    target "member6238"
+    weight 1
   ]
   edge [
-    source 3100
-    target 7711
+    source "member4319"
+    target "member10673"
+    weight 1
   ]
   edge [
-    source 1663
-    target 8827
+    source "member4319"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 277
-    target 8268
+    source "member3960"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 2176
-    target 12467
+    source "member2733"
+    target "member4319"
+    weight 1
   ]
   edge [
-    source 6810
-    target 7837
+    source "member4319"
+    target "member6238"
+    weight 1
   ]
   edge [
-    source 1123
-    target 11443
+    source "member3960"
+    target "member10673"
+    weight 1
   ]
   edge [
-    source 5619
-    target 10226
+    source "member111"
+    target "member10673"
+    weight 2
   ]
   edge [
-    source 5541
-    target 11884
+    source "member1751"
+    target "member10673"
+    weight 2
   ]
   edge [
-    source 3535
-    target 12892
+    source "member1597"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 2253
-    target 9452
+    source "member3960"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 1002
-    target 4508
+    source "member111"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 1554
-    target 3264
+    source "member371"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 2998
-    target 7965
+    source "member1751"
+    target "member7065"
+    weight 1
   ]
   edge [
-    source 7711
-    target 11701
+    source "member1597"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 1954
-    target 7435
+    source "member3960"
+    target "member12777"
+    weight 1
   ]
   edge [
-    source 3345
-    target 11456
+    source "member111"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 5528
-    target 9815
+    source "member2733"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 11
-    target 277
+    source "member371"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 12892
-    target 13104
+    source "member1751"
+    target "member3960"
+    weight 1
   ]
   edge [
-    source 3295
-    target 4810
+    source "member3960"
+    target "member6238"
+    weight 1
   ]
   edge [
-    source 6822
-    target 7029
+    source "member111"
+    target "member2733"
+    weight 1
   ]
   edge [
-    source 7476
-    target 8685
+    source "member111"
+    target "member6238"
+    weight 2
   ]
   edge [
-    source 10712
-    target 11452
+    source "member371"
+    target "member2733"
+    weight 1
   ]
   edge [
-    source 1123
-    target 12467
+    source "member1751"
+    target "member2733"
+    weight 1
   ]
   edge [
-    source 7862
-    target 10069
+    source "member1751"
+    target "member6238"
+    weight 2
   ]
   edge [
-    source 5585
-    target 10205
+    source "member6700"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 4952
-    target 11461
+    source "member197"
+    target "member11569"
+    weight 1
   ]
   edge [
-    source 350
-    target 4932
+    source "member197"
+    target "member6700"
+    weight 1
   ]
   edge [
-    source 1554
-    target 4468
+    source "member3346"
+    target "member4324"
+    weight 1
   ]
   edge [
-    source 4468
-    target 7476
+    source "member228"
+    target "member3346"
+    weight 1
   ]
   edge [
-    source 3960
-    target 13156
+    source "member3346"
+    target "member9395"
+    weight 1
   ]
   edge [
-    source 7891
-    target 11115
+    source "member3346"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 7069
-    target 11452
+    source "member3346"
+    target "member11457"
+    weight 1
   ]
   edge [
-    source 891
-    target 8059
+    source "member3346"
+    target "member11148"
+    weight 1
   ]
   edge [
-    source 7965
-    target 11967
+    source "member228"
+    target "member4324"
+    weight 1
   ]
   edge [
-    source 6177
-    target 8167
+    source "member4324"
+    target "member9395"
+    weight 1
   ]
   edge [
-    source 11481
-    target 11962
+    source "member4324"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 1219
-    target 12062
+    source "member4324"
+    target "member11457"
+    weight 1
   ]
   edge [
-    source 2408
-    target 7497
+    source "member4324"
+    target "member11148"
+    weight 1
   ]
   edge [
-    source 2514
-    target 2560
+    source "member228"
+    target "member9395"
+    weight 1
   ]
   edge [
-    source 110
-    target 12189
+    source "member228"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 33
-    target 7476
+    source "member228"
+    target "member11457"
+    weight 1
   ]
   edge [
-    source 7511
-    target 9173
+    source "member228"
+    target "member11148"
+    weight 1
   ]
   edge [
-    source 4208
-    target 12211
+    source "member9395"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 5042
-    target 8730
+    source "member9395"
+    target "member11457"
+    weight 2
   ]
   edge [
-    source 549
-    target 9198
+    source "member9395"
+    target "member11148"
+    weight 2
   ]
   edge [
-    source 11443
-    target 13104
+    source "member11100"
+    target "member11457"
+    weight 1
   ]
   edge [
-    source 2325
-    target 2889
+    source "member11100"
+    target "member11148"
+    weight 1
   ]
   edge [
-    source 7297
-    target 9329
+    source "member11148"
+    target "member11457"
+    weight 2
   ]
   edge [
-    source 8203
-    target 8268
+    source "member4215"
+    target "member11139"
+    weight 2
   ]
   edge [
-    source 10205
-    target 11885
+    source "member4215"
+    target "member11116"
+    weight 2
   ]
   edge [
-    source 1131
-    target 1746
+    source "member3412"
+    target "member11139"
+    weight 2
   ]
   edge [
-    source 56
-    target 11022
+    source "member3412"
+    target "member11116"
+    weight 2
   ]
   edge [
-    source 1636
-    target 8414
+    source "member2921"
+    target "member11139"
+    weight 2
   ]
   edge [
-    source 1043
-    target 13153
+    source "member11116"
+    target "member11139"
+    weight 2
   ]
   edge [
-    source 9158
-    target 10712
+    source "member7892"
+    target "member11139"
+    weight 2
   ]
   edge [
-    source 5655
-    target 9375
+    source "member2921"
+    target "member11116"
+    weight 2
   ]
   edge [
-    source 164
-    target 9801
+    source "member7892"
+    target "member11116"
+    weight 2
   ]
   edge [
-    source 3913
-    target 12070
+    source "member1950"
+    target "member8138"
+    weight 3
   ]
   edge [
-    source 1112
-    target 3044
+    source "member1762"
+    target "member8138"
+    weight 2
   ]
   edge [
-    source 2812
-    target 10969
+    source "member1950"
+    target "member5620"
+    weight 1
   ]
   edge [
-    source 886
-    target 10954
+    source "member1762"
+    target "member5620"
+    weight 1
   ]
   edge [
-    source 2887
-    target 4318
+    source "member1877"
+    target "member1950"
+    weight 2
   ]
   edge [
-    source 10616
-    target 10967
+    source "member1950"
+    target "member6164"
+    weight 3
   ]
   edge [
-    source 121
-    target 5495
+    source "member1950"
+    target "member5234"
+    weight 1
   ]
   edge [
-    source 162
-    target 163
+    source "member5559"
+    target "member9112"
+    weight 2
   ]
   edge [
-    source 10490
-    target 12548
+    source "member2261"
+    target "member9112"
+    weight 1
   ]
   edge [
-    source 3913
-    target 12564
+    source "member9112"
+    target "member12483"
+    weight 2
   ]
   edge [
-    source 2148
-    target 10251
+    source "member9112"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 3234
-    target 9386
+    source "member4699"
+    target "member9112"
+    weight 2
   ]
   edge [
-    source 9456
-    target 12211
+    source "member2261"
+    target "member5559"
+    weight 1
   ]
   edge [
-    source 63
-    target 2372
+    source "member5559"
+    target "member10512"
+    weight 1
   ]
   edge [
-    source 7495
-    target 11421
+    source "member5559"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 1177
-    target 2243
+    source "member4875"
+    target "member5559"
+    weight 2
   ]
   edge [
-    source 6810
-    target 6888
+    source "member5559"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 370
-    target 1131
+    source "member4699"
+    target "member5559"
+    weight 2
   ]
   edge [
-    source 3913
-    target 10614
+    source "member2261"
+    target "member10512"
+    weight 1
   ]
   edge [
-    source 370
-    target 11568
+    source "member2261"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 11
-    target 3264
+    source "member2261"
+    target "member4875"
+    weight 1
   ]
   edge [
-    source 10788
-    target 11603
+    source "member2261"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 110
-    target 4209
+    source "member2261"
+    target "member4699"
+    weight 1
   ]
   edge [
-    source 6049
-    target 6237
+    source "member10512"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 7069
-    target 9070
+    source "member10512"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 3461
-    target 9815
+    source "member4699"
+    target "member10512"
+    weight 1
   ]
   edge [
-    source 4531
-    target 8268
+    source "member12468"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 8217
-    target 13104
+    source "member4699"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 4874
-    target 11002
+    source "member4875"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 5528
-    target 12658
+    source "member4699"
+    target "member4875"
+    weight 2
   ]
   edge [
-    source 4532
-    target 9953
+    source "member4699"
+    target "member12468"
+    weight 1
   ]
   edge [
-    source 9010
-    target 11428
+    source "member8391"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 3157
-    target 12558
+    source "member10678"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 8059
-    target 11126
+    source "member2342"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 3264
-    target 9386
+    source "member11260"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 4177
-    target 6049
+    source "member3770"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 6888
-    target 10226
+    source "member3908"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 161
-    target 4376
+    source "member9731"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 8434
-    target 12809
+    source "member4209"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 447
-    target 9694
+    source "member9643"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 3157
-    target 13052
+    source "member9199"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 370
-    target 1746
+    source "member12810"
+    target "member13235"
+    weight 1
   ]
   edge [
-    source 45
-    target 1986
+    source "member3230"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 8659
-    target 10712
+    source "member550"
+    target "member12810"
+    weight 1
   ]
   edge [
-    source 134
-    target 1506
+    source "member2572"
+    target "member9457"
+    weight 1
   ]
   edge [
-    source 5528
-    target 8084
+    source "member2572"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 4412
-    target 8203
+    source "member1734"
+    target "member2572"
+    weight 2
   ]
   edge [
-    source 136
-    target 2253
+    source "member1977"
+    target "member9457"
+    weight 1
   ]
   edge [
-    source 443
-    target 1358
+    source "member9457"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 2499
-    target 5009
+    source "member1734"
+    target "member9457"
+    weight 1
   ]
   edge [
-    source 4208
-    target 9456
+    source "member1977"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 136
-    target 1170
+    source "member1734"
+    target "member1977"
+    weight 1
   ]
   edge [
-    source 10251
-    target 13182
+    source "member1734"
+    target "member12484"
+    weight 1
   ]
   edge [
-    source 482
-    target 2481
+    source "member9894"
+    target "member11211"
+    weight 1
   ]
   edge [
-    source 3295
-    target 11481
+    source "member9894"
+    target "member10615"
+    weight 1
   ]
   edge [
-    source 9070
-    target 9794
+    source "member10615"
+    target "member11211"
+    weight 1
   ]
   edge [
-    source 277
-    target 1554
+    source "member4933"
+    target "member9112"
+    weight 1
   ]
   edge [
-    source 121
-    target 8217
+    source "member4933"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 2920
-    target 7891
+    source "member11462"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 1746
-    target 11044
+    source "member11605"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 7333
-    target 9386
+    source "member11073"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 6049
-    target 7297
+    source "member1241"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 1010
-    target 12436
+    source "member11100"
+    target "member11801"
+    weight 1
   ]
   edge [
-    source 11072
-    target 11604
+    source "member11073"
+    target "member11605"
+    weight 2
   ]
   edge [
-    source 1234
-    target 6402
+    source "member11374"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 4224
-    target 11126
+    source "member1241"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 2408
-    target 11099
+    source "member1113"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 11253
-    target 12030
+    source "member11100"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 8725
-    target 11452
+    source "member11073"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 6060
-    target 10546
+    source "member1241"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 2273
-    target 5541
+    source "member1113"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 2732
-    target 8370
+    source "member11073"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 7069
-    target 13104
+    source "member1241"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 1298
-    target 13104
+    source "member11100"
+    target "member11374"
+    weight 1
   ]
   edge [
-    source 816
-    target 5745
+    source "member1241"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 477
-    target 10251
+    source "member1113"
+    target "member11100"
+    weight 1
   ]
   edge [
-    source 3990
-    target 12652
+    source "member3153"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 6177
-    target 9819
+    source "member3153"
+    target "member8581"
+    weight 1
   ]
   edge [
-    source 6810
-    target 11452
+    source "member8699"
+    target "member11619"
+    weight 1
   ]
   edge [
-    source 1131
-    target 5528
+    source "member8581"
+    target "member8699"
+    weight 1
   ]
   edge [
-    source 2957
-    target 10560
+    source "member3158"
+    target "member11159"
+    weight 2
   ]
   edge [
-    source 549
-    target 11259
+    source "member3158"
+    target "member12559"
+    weight 2
   ]
   edge [
-    source 7016
-    target 7356
+    source "member3158"
+    target "member12463"
+    weight 2
   ]
   edge [
-    source 10362
-    target 10546
+    source "member11159"
+    target "member12559"
+    weight 2
   ]
   edge [
-    source 2481
-    target 11125
+    source "member11159"
+    target "member12463"
+    weight 2
   ]
   edge [
-    source 2072
-    target 4504
+    source "member12463"
+    target "member12559"
+    weight 2
   ]
   edge [
-    source 5561
-    target 12030
+    source "member1173"
+    target "member9476"
+    weight 1
   ]
   edge [
-    source 3582
-    target 6676
+    source "member57"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 3913
-    target 12554
+    source "member57"
+    target "member987"
+    weight 1
   ]
   edge [
-    source 1445
-    target 3854
+    source "member57"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 10362
-    target 12352
+    source "member57"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 9198
-    target 12809
+    source "member57"
+    target "member3462"
+    weight 1
   ]
   edge [
-    source 9693
-    target 11885
+    source "member9110"
+    target "member10317"
+    weight 1
   ]
   edge [
-    source 157
-    target 4504
+    source "member987"
+    target "member10317"
+    weight 1
   ]
   edge [
-    source 7535
-    target 9232
+    source "member10317"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 2458
-    target 3264
+    source "member4841"
+    target "member10317"
+    weight 1
   ]
   edge [
-    source 5830
-    target 11437
+    source "member3462"
+    target "member10317"
+    weight 1
   ]
   edge [
-    source 9466
-    target 11428
+    source "member987"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 9158
-    target 11461
+    source "member9110"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 482
-    target 11125
+    source "member4841"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 4808
-    target 10251
+    source "member3462"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 12031
-    target 13156
+    source "member9110"
+    target "member9607"
+    weight 1
   ]
   edge [
-    source 2514
-    target 12470
+    source "member5006"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 695
-    target 8380
+    source "member987"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 5619
-    target 11253
+    source "member987"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 2732
-    target 7179
+    source "member987"
+    target "member3462"
+    weight 1
   ]
   edge [
-    source 1596
-    target 6237
+    source "member987"
+    target "member9607"
+    weight 1
   ]
   edge [
-    source 2981
-    target 13104
+    source "member987"
+    target "member5006"
+    weight 1
   ]
   edge [
-    source 8167
-    target 9216
+    source "member4841"
+    target "member11023"
+    weight 2
   ]
   edge [
-    source 3461
-    target 12658
+    source "member9607"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 3724
-    target 3992
+    source "member5006"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 447
-    target 12452
+    source "member3462"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 986
-    target 3461
+    source "member4841"
+    target "member9607"
+    weight 1
   ]
   edge [
-    source 5495
-    target 5561
+    source "member4841"
+    target "member5006"
+    weight 1
   ]
   edge [
-    source 5398
-    target 11370
+    source "member3462"
+    target "member9607"
+    weight 1
   ]
   edge [
-    source 5042
-    target 8059
+    source "member3462"
+    target "member5006"
+    weight 1
   ]
   edge [
-    source 2341
-    target 10677
+    source "member135"
+    target "member1507"
+    weight 2
   ]
   edge [
-    source 2560
-    target 11884
+    source "member135"
+    target "member467"
+    weight 2
   ]
   edge [
-    source 2176
-    target 7837
+    source "member135"
+    target "member215"
+    weight 2
   ]
   edge [
-    source 482
-    target 1038
+    source "member467"
+    target "member1507"
+    weight 2
   ]
   edge [
-    source 5841
-    target 8678
+    source "member215"
+    target "member1507"
+    weight 2
   ]
   edge [
-    source 3461
-    target 8084
+    source "member215"
+    target "member467"
+    weight 2
   ]
   edge [
-    source 1625
-    target 4436
+    source "member4777"
+    target "member12659"
+    weight 1
   ]
   edge [
-    source 8217
-    target 9158
+    source "member2892"
+    target "member12659"
+    weight 1
   ]
   edge [
-    source 8725
-    target 13271
+    source "member2999"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 9694
-    target 11821
+    source "member2892"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 8325
-    target 12892
+    source "member4777"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 1554
-    target 4412
+    source "member2892"
+    target "member2999"
+    weight 1
   ]
   edge [
-    source 2416
-    target 10069
+    source "member2892"
+    target "member8415"
+    weight 1
   ]
   edge [
-    source 7356
-    target 11044
+    source "member4777"
+    target "member13183"
+    weight 1
   ]
   edge [
-    source 8084
-    target 10471
+    source "member1820"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 1088
-    target 10009
+    source "member1361"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 3874
-    target 7435
+    source "member4777"
+    target "member6009"
+    weight 1
   ]
   edge [
-    source 4531
-    target 7476
+    source "member2149"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 1780
-    target 2243
+    source "member4777"
+    target "member10789"
+    weight 1
   ]
   edge [
-    source 63
-    target 6131
+    source "member4509"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 9815
-    target 11967
+    source "member3820"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 149
-    target 12470
+    source "member4777"
+    target "member10252"
+    weight 1
   ]
   edge [
-    source 10401
-    target 10636
+    source "member478"
+    target "member4777"
+    weight 1
   ]
   edge [
-    source 7069
-    target 12070
+    source "member4777"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 1445
-    target 1472
+    source "member4777"
+    target "member11604"
+    weight 1
   ]
   edge [
-    source 10636
-    target 11967
+    source "member4777"
+    target "member9615"
+    weight 1
   ]
   edge [
-    source 1191
-    target 3047
+    source "member1820"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 8414
-    target 9070
+    source "member1361"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 7297
-    target 8370
+    source "member4809"
+    target "member6009"
+    weight 1
   ]
   edge [
-    source 3913
-    target 7319
+    source "member2149"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 6567
-    target 9693
+    source "member4509"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 9627
-    target 10311
+    source "member478"
+    target "member4809"
+    weight 1
   ]
   edge [
-    source 11259
-    target 13263
+    source "member4809"
+    target "member11604"
+    weight 1
   ]
   edge [
-    source 4468
-    target 6000
+    source "member987"
+    target "member1200"
+    weight 1
   ]
   edge [
-    source 986
-    target 11022
+    source "member1124"
+    target "member1551"
+    weight 2
   ]
   edge [
-    source 6237
-    target 9329
+    source "member1124"
+    target "member13153"
+    weight 2
   ]
   edge [
-    source 8378
-    target 9232
+    source "member1551"
+    target "member13153"
+    weight 2
   ]
   edge [
-    source 2123
-    target 9299
+    source "member64"
+    target "member1551"
+    weight 2
   ]
   edge [
-    source 4504
-    target 6182
+    source "member1551"
+    target "member11444"
+    weight 2
   ]
   edge [
-    source 9103
-    target 10311
+    source "member1551"
+    target "member6132"
+    weight 1
   ]
   edge [
-    source 1746
-    target 12467
+    source "member64"
+    target "member13153"
+    weight 2
   ]
   edge [
-    source 63
-    target 12030
+    source "member11444"
+    target "member13153"
+    weight 2
   ]
   edge [
-    source 33
-    target 6000
+    source "member6132"
+    target "member13153"
+    weight 1
   ]
   edge [
-    source 121
-    target 7016
+    source "member1887"
+    target "member4875"
+    weight 1
   ]
   edge [
-    source 1636
-    target 5999
+    source "member2890"
+    target "member4875"
+    weight 1
   ]
   edge [
-    source 10471
-    target 12658
+    source "member1887"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 3960
-    target 8827
+    source "member2890"
+    target "member11462"
+    weight 1
   ]
   edge [
-    source 8217
-    target 10712
+    source "member1887"
+    target "member2890"
+    weight 1
   ]
   edge [
-    source 10401
-    target 11022
+    source "member987"
+    target "member5789"
+    weight 1
   ]
   edge [
-    source 269
-    target 12772
+    source "member987"
+    target "member1759"
+    weight 1
   ]
   edge [
-    source 1976
-    target 12483
+    source "member987"
+    target "member6867"
+    weight 1
   ]
   edge [
-    source 4532
-    target 12436
+    source "member5182"
+    target "member5183"
+    weight 2
   ]
   edge [
-    source 1177
-    target 2861
+    source "member111"
+    target "member4210"
+    weight 1
   ]
   edge [
-    source 1358
-    target 11387
+    source "member1751"
+    target "member4210"
+    weight 1
   ]
   edge [
-    source 1298
-    target 9158
+    source "member335"
+    target "member12063"
+    weight 1
   ]
   edge [
-    source 10205
-    target 11492
+    source "member2515"
+    target "member4225"
+    weight 1
   ]
   edge [
-    source 891
-    target 4224
+    source "member2515"
+    target "member2561"
+    weight 1
   ]
   edge [
-    source 5495
-    target 11437
+    source "member2561"
+    target "member4225"
+    weight 1
   ]
   edge [
-    source 161
-    target 2887
+    source "member1734"
+    target "member2546"
+    weight 1
   ]
   edge [
-    source 110
-    target 11881
+    source "member864"
+    target "member1734"
+    weight 1
   ]
   edge [
-    source 1819
-    target 4808
+    source "member1734"
+    target "member10763"
+    weight 1
   ]
   edge [
-    source 8725
-    target 13104
+    source "member1734"
+    target "member4115"
+    weight 1
   ]
   edge [
-    source 1092
-    target 1999
+    source "member1734"
+    target "member3070"
+    weight 1
   ]
   edge [
-    source 8084
-    target 11387
+    source "member1734"
+    target "member3387"
+    weight 1
   ]
   edge [
-    source 8059
-    target 10311
+    source "member111"
+    target "member11882"
+    weight 1
   ]
   edge [
-    source 1123
-    target 7356
+    source "member111"
+    target "member2999"
+    weight 1
   ]
   edge [
-    source 6810
-    target 13104
+    source "member111"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 3295
-    target 10401
+    source "member111"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 2123
-    target 4810
+    source "member111"
+    target "member6203"
+    weight 1
   ]
   edge [
-    source 2887
-    target 7946
+    source "member2999"
+    target "member11882"
+    weight 1
   ]
   edge [
-    source 8493
-    target 10359
+    source "member11882"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 3234
-    target 10125
+    source "member9731"
+    target "member11882"
+    weight 1
   ]
   edge [
-    source 5082
-    target 5233
+    source "member6203"
+    target "member11882"
+    weight 1
   ]
   edge [
-    source 398
-    target 12549
+    source "member7180"
+    target "member11882"
+    weight 1
   ]
   edge [
-    source 2889
-    target 4874
+    source "member2999"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 7535
-    target 9752
+    source "member2999"
+    target "member6203"
+    weight 1
   ]
   edge [
-    source 2981
-    target 9158
+    source "member2999"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 852
-    target 9458
+    source "member9731"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 11
-    target 4412
+    source "member6203"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 9203
-    target 10146
+    source "member7180"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 8612
-    target 11133
+    source "member6203"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 4776
-    target 10788
+    source "member7180"
+    target "member9731"
+    weight 1
   ]
   edge [
-    source 437
-    target 8196
+    source "member6203"
+    target "member7180"
+    weight 1
   ]
   edge [
-    source 1554
-    target 3234
+    source "member11702"
+    target "member12559"
+    weight 1
   ]
   edge [
-    source 277
-    target 4531
+    source "member12559"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 549
-    target 3907
+    source "member7712"
+    target "member12559"
+    weight 1
   ]
   edge [
-    source 11022
-    target 12658
+    source "member3101"
+    target "member12559"
+    weight 1
   ]
   edge [
-    source 7478
-    target 7497
+    source "member11702"
+    target "member12463"
+    weight 1
   ]
   edge [
-    source 6065
-    target 9953
+    source "member12463"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 12554
-    target 13271
+    source "member7712"
+    target "member12463"
+    weight 1
   ]
   edge [
-    source 33
-    target 4436
+    source "member3101"
+    target "member12463"
+    weight 1
   ]
   edge [
-    source 6110
-    target 11044
+    source "member3158"
+    target "member11702"
+    weight 1
   ]
   edge [
-    source 2732
-    target 8422
+    source "member3158"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 8217
-    target 12940
+    source "member3158"
+    target "member7712"
+    weight 1
   ]
   edge [
-    source 1886
-    target 2889
+    source "member3101"
+    target "member3158"
+    weight 1
   ]
   edge [
-    source 3724
-    target 3874
+    source "member11702"
+    target "member13053"
+    weight 2
   ]
   edge [
-    source 1298
-    target 10712
+    source "member11159"
+    target "member11702"
+    weight 1
   ]
   edge [
-    source 1190
-    target 4125
+    source "member7712"
+    target "member13053"
+    weight 2
   ]
   edge [
-    source 8168
-    target 8325
+    source "member3101"
+    target "member13053"
+    weight 2
   ]
   edge [
-    source 3264
-    target 10125
+    source "member11159"
+    target "member13053"
+    weight 1
   ]
   edge [
-    source 1625
-    target 9386
+    source "member7712"
+    target "member11159"
+    weight 1
   ]
   edge [
-    source 7155
-    target 10226
+    source "member3101"
+    target "member11159"
+    weight 1
   ]
   edge [
-    source 6049
-    target 13019
+    source "member6238"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 3392
-    target 4532
+    source "member6238"
+    target "member8423"
+    weight 1
   ]
   edge [
-    source 5082
-    target 5619
+    source "member6238"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 447
-    target 12648
+    source "member6238"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 816
-    target 8493
+    source "member399"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 1876
-    target 11362
+    source "member399"
+    target "member8423"
+    weight 1
   ]
   edge [
-    source 4412
-    target 8268
+    source "member399"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 3724
-    target 3730
+    source "member399"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 121
-    target 12892
+    source "member2733"
+    target "member10578"
+    weight 1
   ]
   edge [
-    source 12548
-    target 12940
+    source "member2733"
+    target "member8423"
+    weight 1
   ]
   edge [
-    source 1131
-    target 10311
+    source "member2733"
+    target "member9330"
+    weight 1
   ]
   edge [
-    source 7356
-    target 12467
+    source "member2733"
+    target "member11464"
+    weight 1
   ]
   edge [
-    source 5543
-    target 12658
+    source "member8326"
+    target "member12893"
+    weight 1
   ]
   edge [
-    source 5558
-    target 9111
+    source "member7017"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 4874
-    target 4952
+    source "member3536"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 1746
-    target 2887
+    source "member7357"
+    target "member8326"
+    weight 1
   ]
   edge [
-    source 227
-    target 5999
+    source "member3536"
+    target "member7838"
+    weight 1
   ]
   edge [
-    source 2458
-    target 8685
+    source "member1392"
+    target "member7795"
+    weight 1
   ]
   edge [
-    source 2981
-    target 10712
+    source "member3855"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 157
-    target 162
+    source "member8660"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 9103
-    target 9627
+    source "member5407"
+    target "member10713"
+    weight 1
   ]
   edge [
-    source 7333
-    target 10125
+    source "member10713"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 110
-    target 6237
+    source "member3855"
+    target "member8660"
+    weight 1
   ]
   edge [
-    source 3944
-    target 10005
+    source "member3855"
+    target "member5407"
+    weight 1
   ]
   edge [
-    source 8725
-    target 12564
+    source "member3855"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 560
-    target 6065
+    source "member5407"
+    target "member8660"
+    weight 1
   ]
   edge [
-    source 8422
-    target 10577
+    source "member8660"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 9649
-    target 9651
+    source "member5407"
+    target "member12483"
+    weight 1
   ]
   edge [
-    source 8168
-    target 8217
+    source "member1984"
+    target "member10010"
+    weight 2
   ]
   edge [
-    source 1028
-    target 11237
+    source "member1089"
+    target "member10010"
+    weight 2
   ]
   edge [
-    source 2325
-    target 3582
+    source "member10010"
+    target "member10599"
+    weight 2
   ]
   edge [
-    source 3709
-    target 7478
+    source "member1089"
+    target "member1984"
+    weight 2
   ]
   edge [
-    source 1088
-    target 1983
+    source "member1984"
+    target "member10599"
+    weight 2
   ]
   edge [
-    source 5543
-    target 8084
+    source "member1089"
+    target "member10599"
+    weight 2
   ]
   edge [
-    source 6678
-    target 11133
+    source "member3425"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 8370
-    target 8580
+    source "member10888"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 3392
-    target 10431
+    source "member4841"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 437
-    target 5585
+    source "member10888"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 2812
-    target 5655
+    source "member10307"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 4208
-    target 9642
+    source "member4209"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 3970
-    target 3992
+    source "member6187"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 4810
-    target 11962
+    source "member9457"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 437
-    target 11821
+    source "member2366"
+    target "member10888"
+    weight 1
   ]
   edge [
-    source 2176
-    target 11452
+    source "member3425"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 8725
-    target 10614
+    source "member3425"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 7435
-    target 12652
+    source "member3425"
+    target "member4209"
+    weight 1
   ]
   edge [
-    source 8873
-    target 9466
+    source "member10307"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 8059
-    target 9627
+    source "member4209"
+    target "member11023"
+    weight 1
   ]
   edge [
-    source 1733
-    target 3069
+    source "member4841"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 3152
-    target 11618
+    source "member4841"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 8378
-    target 9752
+    source "member4209"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 1360
-    target 11603
+    source "member4841"
+    target "member6187"
+    weight 1
   ]
   edge [
-    source 4932
-    target 12482
+    source "member4841"
+    target "member9457"
+    weight 1
   ]
   edge [
-    source 1750
-    target 7179
+    source "member2366"
+    target "member4841"
+    weight 1
   ]
   edge [
-    source 1547
-    target 5422
+    source "member10307"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 162
-    target 7946
+    source "member4209"
+    target "member12212"
+    weight 1
   ]
   edge [
-    source 1298
-    target 12940
+    source "member4209"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 9375
-    target 13096
+    source "member6187"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 863
-    target 3069
+    source "member9457"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 3913
-    target 8827
+    source "member2366"
+    target "member10307"
+    weight 1
   ]
   edge [
-    source 9109
-    target 10316
+    source "member4209"
+    target "member6187"
+    weight 1
   ]
   edge [
-    source 1761
-    target 10226
+    source "member4209"
+    target "member9457"
+    weight 1
   ]
   edge [
-    source 227
-    target 9503
+    source "member2366"
+    target "member4209"
+    weight 1
   ]
   edge [
-    source 6810
-    target 9158
+    source "member7795"
+    target "member8874"
+    weight 1
   ]
   edge [
-    source 2123
-    target 11481
+    source "member7795"
+    target "member11429"
+    weight 1
   ]
   edge [
-    source 5999
-    target 10636
+    source "member7795"
+    target "member9467"
+    weight 1
   ]
   edge [
-    source 3992
-    target 7435
+    source "member7795"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 2863
-    target 7435
+    source "member8874"
+    target "member9467"
+    weight 1
   ]
   edge [
-    source 5876
-    target 8616
+    source "member8874"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 2981
-    target 12940
+    source "member9467"
+    target "member11429"
+    weight 1
   ]
   edge [
-    source 1038
-    target 9458
+    source "member9795"
+    target "member11429"
+    weight 1
   ]
   edge [
-    source 8434
-    target 9216
+    source "member9467"
+    target "member9795"
+    weight 1
   ]
   edge [
-    source 2863
-    target 9241
+    source "member741"
+    target "member1359"
+    weight 1
   ]
   edge [
-    source 157
-    target 6182
+    source "member741"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 1819
-    target 9614
+    source "member741"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 4209
-    target 6237
+    source "member741"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 852
-    target 10616
+    source "member741"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 2499
-    target 2957
+    source "member444"
+    target "member1359"
+    weight 1
   ]
   edge [
-    source 7488
-    target 9752
+    source "member1359"
+    target "member2695"
+    weight 1
   ]
   edge [
-    source 1391
-    target 1854
+    source "member1359"
+    target "member4198"
+    weight 1
   ]
   edge [
-    source 3582
-    target 7536
+    source "member1359"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 67
-    target 1041
+    source "member1359"
+    target "member2541"
+    weight 1
   ]
   edge [
-    source 2540
-    target 9819
+    source "member1359"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 8855
-    target 12772
+    source "member1359"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 7213
-    target 12436
+    source "member1359"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 477
-    target 13182
+    source "member444"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 11099
-    target 11147
+    source "member444"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 9953
-    target 11881
+    source "member444"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 9730
-    target 10677
+    source "member444"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 880
-    target 5350
+    source "member2695"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 33
-    target 9386
+    source "member2695"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 7478
-    target 11135
+    source "member2695"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 7794
-    target 9794
+    source "member2695"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 3461
-    target 8414
+    source "member4198"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 986
-    target 1841
+    source "member4198"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 1131
-    target 9627
+    source "member4198"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 5999
-    target 11022
+    source "member4198"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 4208
-    target 12809
+    source "member2541"
+    target "member9820"
+    weight 1
   ]
   edge [
-    source 6237
-    target 8370
+    source "member9820"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 880
-    target 1414
+    source "member2541"
+    target "member4996"
+    weight 1
   ]
   edge [
-    source 1450
-    target 9752
+    source "member2541"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 9299
-    target 13199
+    source "member2541"
+    target "member11073"
+    weight 1
   ]
   edge [
-    source 1298
-    target 11461
+    source "member4996"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 2243
-    target 3009
+    source "member5529"
+    target "member11605"
+    weight 1
   ]
   edge [
-    source 4808
-    target 13182
+    source "member2032"
+    target "member4126"
+    weight 1
   ]
   edge [
-    source 161
-    target 2072
+    source "member1176"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 4531
-    target 6000
+    source "member437"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 6810
-    target 10712
+    source "member2032"
+    target "member5351"
+    weight 1
   ]
   edge [
-    source 10205
-    target 12483
+    source "member1781"
+    target "member2032"
+    weight 1
   ]
   edge [
-    source 6049
-    target 8664
+    source "member3976"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 7542
-    target 11421
+    source "member8995"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 13234
-    target 13263
+    source "member812"
+    target "member10049"
+    weight 1
   ]
   edge [
-    source 3295
-    target 9815
+    source "member8138"
+    target "member12323"
+    weight 5
   ]
   edge [
-    source 2416
-    target 3345
+    source "member4953"
+    target "member9112"
+    weight 3
   ]
   edge [
-    source 5528
-    target 11967
+    source "member4953"
+    target "member11438"
+    weight 3
   ]
   edge [
-    source 8725
-    target 12554
+    source "member4953"
+    target "member11462"
+    weight 3
   ]
   edge [
-    source 560
-    target 9173
+    source "member4875"
+    target "member4953"
+    weight 3
   ]
   edge [
-    source 2408
-    target 7542
+    source "member4699"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 7965
-    target 10471
+    source "member5559"
+    target "member11438"
+    weight 1
   ]
   edge [
-    source 6110
-    target 6810
+    source "member1124"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 2365
-    target 4840
+    source "member1124"
+    target "member2261"
+    weight 1
   ]
   edge [
-    source 1190
-    target 1841
+    source "member1551"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 5557
-    target 7155
+    source "member1551"
+    target "member2261"
+    weight 1
   ]
   edge [
-    source 477
-    target 1819
+    source "member13105"
+    target "member13153"
+    weight 1
   ]
   edge [
-    source 2732
-    target 3959
+    source "member2261"
+    target "member13153"
+    weight 1
   ]
   edge [
-    source 4412
-    target 7476
+    source "member11444"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 44
-    target 3100
+    source "member2261"
+    target "member13105"
+    weight 1
   ]
   edge [
-    source 2998
-    target 9299
+    source "member64"
+    target "member2261"
+    weight 1
   ]
   edge [
-    source 3234
-    target 7095
+    source "member2261"
+    target "member11444"
+    weight 1
   ]
   edge [
-    source 1746
-    target 7837
+    source "member2896"
+    target "member2999"
+    weight 1
   ]
   edge [
-    source 2998
-    target 9070
+    source "member1484"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 3005
-    target 5811
+    source "member1484"
+    target "member12549"
+    weight 1
   ]
   edge [
-    source 196
-    target 7435
+    source "member1484"
+    target "member9159"
+    weight 1
   ]
   edge [
-    source 1450
-    target 2325
+    source "member1484"
+    target "member5496"
+    weight 1
   ]
   edge [
-    source 5558
-    target 11437
+    source "member1484"
+    target "member12031"
+    weight 1
   ]
   edge [
-    source 6237
-    target 7179
+    source "member10070"
+    target "member10329"
+    weight 2
   ]
   edge [
-    source 2998
-    target 5543
+    source "member3346"
+    target "member10070"
+    weight 1
   ]
   edge [
-    source 2981
-    target 11461
+    source "member10070"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 1733
-    target 1976
+    source "member2417"
+    target "member10070"
+    weight 3
   ]
   edge [
-    source 1190
-    target 3009
+    source "member3922"
+    target "member10070"
+    weight 1
   ]
   edge [
-    source 4208
-    target 10306
+    source "member3346"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 6065
-    target 12436
+    source "member10147"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 9111
-    target 12482
+    source "member2417"
+    target "member10329"
+    weight 2
   ]
   edge [
-    source 2957
-    target 7497
+    source "member3922"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 863
-    target 1976
+    source "member3346"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 5841
-    target 12548
+    source "member2417"
+    target "member3346"
+    weight 1
   ]
   edge [
-    source 11437
-    target 12467
+    source "member3346"
+    target "member3922"
+    weight 2
   ]
   edge [
-    source 8370
-    target 9329
+    source "member2417"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 11158
-    target 13052
+    source "member3922"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 4874
-    target 12467
+    source "member2417"
+    target "member3922"
+    weight 1
   ]
   edge [
-    source 490
-    target 9458
+    source "member1950"
+    target "member12323"
+    weight 1
   ]
   edge [
-    source 5408
-    target 11125
+    source "member467"
+    target "member1200"
+    weight 1
   ]
   edge [
-    source 5876
-    target 7029
+    source "member215"
+    target "member1200"
+    weight 1
   ]
   edge [
-    source 164
-    target 3960
+    source "member135"
+    target "member1200"
+    weight 1
   ]
   edge [
-    source 1949
-    target 8137
+    source "member1200"
+    target "member1507"
+    weight 1
   ]
   edge [
-    source 3264
-    target 7095
+    source "member2417"
+    target "member9204"
+    weight 2
   ]
   edge [
-    source 8664
-    target 11618
+    source "member1718"
+    target "member2417"
+    weight 2
   ]
   edge [
-    source 6810
-    target 12940
+    source "member2417"
+    target "member7699"
+    weight 1
   ]
   edge [
-    source 11481
-    target 12658
+    source "member9204"
+    target "member10070"
+    weight 2
   ]
   edge [
-    source 4995
-    target 11072
+    source "member1718"
+    target "member9204"
+    weight 2
   ]
   edge [
-    source 6567
-    target 11492
+    source "member7699"
+    target "member9204"
+    weight 2
   ]
   edge [
-    source 973
-    target 11125
+    source "member9204"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 8168
-    target 8678
+    source "member1718"
+    target "member10070"
+    weight 2
   ]
   edge [
-    source 5233
-    target 10226
+    source "member7699"
+    target "member10070"
+    weight 1
   ]
   edge [
-    source 5558
-    target 10511
+    source "member1718"
+    target "member7699"
+    weight 1
   ]
   edge [
-    source 1761
-    target 5233
+    source "member1718"
+    target "member10147"
+    weight 1
   ]
   edge [
-    source 6110
-    target 11253
+    source "member7699"
+    target "member10147"
+    weight 2
   ]
   edge [
-    source 2130
-    target 11452
+    source "member2894"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 2861
-    target 11293
+    source "member1316"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 12211
-    target 13263
+    source "member974"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 8414
-    target 10954
+    source "member9983"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 1038
-    target 10616
+    source "member4482"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 7756
-    target 13199
+    source "member491"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 1002
-    target 2148
+    source "member5399"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 10511
-    target 11461
+    source "member1039"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 67
-    target 213
+    source "member10617"
+    target "member11126"
+    weight 1
   ]
   edge [
-    source 6000
-    target 8268
+    source "member483"
+    target "member974"
+    weight 1
   ]
   edge [
-    source 973
-    target 1038
+    source "member483"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 538
-    target 9103
+    source "member853"
+    target "member2894"
+    weight 1
   ]
   edge [
-    source 1699
-    target 5788
+    source "member974"
+    target "member2894"
+    weight 1
   ]
   edge [
-    source 880
-    target 13153
+    source "member2894"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 9642
-    target 13263
+    source "member853"
+    target "member1316"
+    weight 1
   ]
   edge [
-    source 4776
-    target 10251
+    source "member853"
+    target "member974"
+    weight 1
   ]
   edge [
-    source 4177
-    target 11463
+    source "member853"
+    target "member9983"
+    weight 1
   ]
   edge [
-    source 2887
-    target 4376
+    source "member853"
+    target "member4482"
+    weight 1
   ]
   edge [
-    source 9173
-    target 11881
+    source "member491"
+    target "member853"
+    weight 1
   ]
   edge [
-    source 3047
-    target 12062
+    source "member853"
+    target "member5399"
+    weight 1
   ]
   edge [
-    source 437
-    target 9694
+    source "member853"
+    target "member1039"
+    weight 1
   ]
   edge [
-    source 3461
-    target 11967
+    source "member853"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 880
-    target 4293
+    source "member974"
+    target "member11371"
+    weight 1
   ]
   edge [
-    source 9232
-    target 9752
+    source "member974"
+    target "member1316"
+    weight 1
   ]
   edge [
-    source 2887
-    target 6182
+    source "member1316"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 5830
-    target 6810
+    source "member974"
+    target "member9983"
+    weight 1
   ]
   edge [
-    source 4995
-    target 5042
+    source "member974"
+    target "member5409"
+    weight 1
   ]
   edge [
-    source 2341
-    target 4208
+    source "member974"
+    target "member10899"
+    weight 1
   ]
   edge [
-    source 1746
-    target 9103
+    source "member974"
+    target "member4482"
+    weight 1
   ]
   edge [
-    source 1625
-    target 10125
+    source "member491"
+    target "member974"
+    weight 1
   ]
   edge [
-    source 1145
-    target 5350
+    source "member974"
+    target "member5399"
+    weight 1
   ]
   edge [
-    source 7356
-    target 7837
+    source "member974"
+    target "member1039"
+    weight 1
   ]
   edge [
-    source 5495
-    target 8217
+    source "member974"
+    target "member2482"
+    weight 1
   ]
   edge [
-    source 161
-    target 1653
+    source "member974"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 538
-    target 8730
+    source "member9983"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 9375
-    target 10969
+    source "member10617"
+    target "member10899"
+    weight 1
   ]
   edge [
-    source 5042
-    target 5528
+    source "member5399"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 1761
-    target 5619
+    source "member1039"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 2123
-    target 10401
+    source "member2482"
+    target "member10617"
+    weight 1
   ]
   edge [
-    source 5528
-    target 7756
+    source "member7431"
+    target "member10801"
+    weight 1
   ]
   edge [
-    source 1010
-    target 6065
+    source "member197"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 549
-    target 9642
+    source "member3993"
+    target "member12653"
+    weight 2
   ]
   edge [
-    source 3959
-    target 13003
+    source "member3993"
+    target "member7436"
+    weight 2
   ]
   edge [
-    source 2325
-    target 13096
+    source "member3991"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 6060
-    target 7208
+    source "member3469"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 1145
-    target 1414
+    source "member3993"
+    target "member11861"
+    weight 2
   ]
   edge [
-    source 3044
-    target 11800
+    source "member3993"
+    target "member8468"
+    weight 2
   ]
   edge [
-    source 8390
-    target 13234
+    source "member3971"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 2571
-    target 12483
+    source "member3731"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 841
-    target 11885
+    source "member2864"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 161
-    target 9008
+    source "member3993"
+    target "member6061"
+    weight 2
   ]
   edge [
-    source 3295
-    target 8084
+    source "member1955"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 5181
-    target 9109
+    source "member3725"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 3907
-    target 10677
+    source "member3875"
+    target "member3993"
+    weight 2
   ]
   edge [
-    source 1746
-    target 8730
+    source "member511"
+    target "member3170"
+    weight 1
   ]
   edge [
-    source 1360
-    target 3819
+    source "member267"
+    target "member1282"
+    weight 1
   ]
   edge [
-    source 700
-    target 5350
+    source "member267"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 2325
-    target 6945
+    source "member1282"
+    target "member6823"
+    weight 1
   ]
   edge [
-    source 398
-    target 9329
+    source "member6823"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 8325
-    target 13104
+    source "member1282"
+    target "member5877"
+    weight 1
   ]
   edge [
-    source 6060
-    target 10362
+    source "member1282"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 1298
-    target 5830
+    source "member1279"
+    target "member1282"
+    weight 1
   ]
   edge [
-    source 2130
-    target 13271
+    source "member817"
+    target "member1282"
+    weight 1
   ]
   edge [
-    source 7476
-    target 8203
+    source "member1282"
+    target "member10360"
+    weight 1
   ]
   edge [
-    source 3730
-    target 3990
+    source "member767"
+    target "member1282"
+    weight 1
   ]
   edge [
-    source 11253
-    target 11437
+    source "member1282"
+    target "member5746"
+    weight 1
   ]
   edge [
-    source 1733
-    target 3386
+    source "member5877"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 1596
-    target 7064
+    source "member1279"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 3468
-    target 3990
+    source "member817"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 2560
-    target 4224
+    source "member8494"
+    target "member10360"
+    weight 1
   ]
   edge [
-    source 1554
-    target 7333
+    source "member767"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 33
-    target 1625
+    source "member5746"
+    target "member8494"
+    weight 1
   ]
   edge [
-    source 1550
-    target 13104
+    source "member887"
+    target "member1391"
+    weight 1
   ]
   edge [
-    source 4840
-    target 10887
+    source "member1391"
+    target "member1392"
+    weight 1
   ]
   edge [
-    source 5042
-    target 6177
+    source "member3922"
+    target "member9204"
+    weight 1
   ]
   edge [
-    source 9198
-    target 13263
+    source "member3346"
+    target "member9204"
+    weight 1
   ]
   edge [
-    source 1175
-    target 5350
+    source "member3922"
+    target "member7699"
+    weight 1
   ]
   edge [
-    source 6077
-    target 10005
+    source "member3346"
+    target "member7699"
+    weight 1
   ]
   edge [
-    source 1112
-    target 11072
+    source "member2417"
+    target "member7863"
+    weight 1
   ]
   edge [
-    source 2957
-    target 11099
+    source "member7863"
+    target "member9204"
+    weight 1
   ]
   edge [
-    source 5543
-    target 8414
+    source "member9204"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 1358
-    target 13199
+    source "member7863"
+    target "member10070"
+    weight 1
   ]
   edge [
-    source 3461
-    target 5528
+    source "member1718"
+    target "member7863"
+    weight 1
   ]
   edge [
-    source 5398
-    target 9982
+    source "member7863"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 6676
-    target 9547
+    source "member1718"
+    target "member10329"
+    weight 1
   ]
   edge [
-    source 1281
-    target 1841
+    source "member9110"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 5005
-    target 10316
+    source "member5182"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 5561
-    target 11437
+    source "member5183"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 2325
-    target 8378
+    source "member3170"
+    target "member9110"
+    weight 1
   ]
   edge [
-    source 1092
-    target 2957
+    source "member5182"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 1175
-    target 1414
+    source "member5183"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 490
-    target 10616
+    source "member3170"
+    target "member9397"
+    weight 1
   ]
   edge [
-    source 8873
-    target 11373
+    source "member3170"
+    target "member5182"
+    weight 1
   ]
   edge [
-    source 9070
-    target 13199
+    source "member3170"
+    target "member5183"
+    weight 1
   ]
   edge [
-    source 436
-    target 2243
+    source "member5463"
+    target "member9802"
+    weight 1
   ]
   edge [
-    source 6049
-    target 13097
+    source "member11260"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 2981
-    target 5830
+    source "member11260"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 973
-    target 2893
+    source "member11260"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 63
-    target 5561
+    source "member7070"
+    target "member11260"
+    weight 1
   ]
   edge [
-    source 1170
-    target 13084
+    source "member6178"
+    target "member11260"
+    weight 1
   ]
   edge [
-    source 9694
-    target 12648
+    source "member12032"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 9299
-    target 11481
+    source "member12071"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 11044
-    target 12467
+    source "member7070"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 656
-    target 2957
+    source "member6178"
+    target "member12190"
+    weight 1
   ]
   edge [
-    source 5398
-    target 5408
+    source "member7070"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 1120
-    target 13263
+    source "member6178"
+    target "member12032"
+    weight 1
   ]
   edge [
-    source 169
-    target 8580
+    source "member7070"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 667
-    target 10105
+    source "member6178"
+    target "member12071"
+    weight 1
   ]
   edge [
-    source 3229
-    target 9198
+    source "member6178"
+    target "member7070"
+    weight 1
   ]
   edge [
-    source 8827
-    target 9801
+    source "member8138"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 11443
-    target 13152
+    source "member8138"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 9070
-    target 9299
+    source "member5620"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 1717
-    target 7862
+    source "member5620"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 6945
-    target 13096
+    source "member5620"
+    target "member12323"
+    weight 1
   ]
   edge [
-    source 1043
-    target 4125
+    source "member1877"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 162
-    target 4376
+    source "member1877"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 1746
-    target 11452
+    source "member6164"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 266
-    target 5745
+    source "member6164"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 6684
-    target 10431
+    source "member8169"
+    target "member11363"
+    weight 1
   ]
   edge [
-    source 5619
-    target 12322
+    source "member11254"
+    target "member11363"
+    weight 1
   ]
   edge [
-    source 334
-    target 7457
+    source "member5234"
+    target "member8169"
+    weight 1
   ]
   edge [
-    source 1010
-    target 7511
+    source "member8169"
+    target "member12323"
+    weight 1
   ]
   edge [
-    source 7756
-    target 11962
+    source "member5234"
+    target "member11254"
+    weight 1
   ]
   edge [
-    source 3461
-    target 7756
+    source "member11254"
+    target "member12323"
+    weight 1
   ]
   edge [
-    source 6110
-    target 7837
+    source "member3045"
+    target "member10888"
+    weight 1
   ]
 ]
