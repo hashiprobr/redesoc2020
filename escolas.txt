@@ -1,0 +1,189 @@
+===============================================================================
+
+
+ESCOLA
+SÉRIE
+DATADEINÍCIO
+IDADE
+SEXO
+RELIGIÃO
+RAÇA
+
+PAI
+PADRASTO
+PAIADOTIVO
+MÃE
+MADRASTA
+MÃEADOTIVA
+IRMÃO
+IRMÃ
+AVÓ
+MEUCONJUGE
+MEUFILHO
+OUTROSPARENTES
+PESSOASQUENÃOSÃOPARENTES
+
+HORASNAINTERNETPARAESTUDAR
+HORASNAINTERNETPARACOMUNICAÇÃO
+HORASNAINTERNETPARAJOGAR
+HORASNATELEVISÃO
+
+
+===============================================================================
+
+
+CORDEPELE
+1 (mais clara) a 15 (mais escura)
+
+
+SATISFEITOCOMSITUAÇÃOFINANCEIRA
+1 (extremamente insatisfeito) a 10 (extremamente satisfeito)
+
+
+===============================================================================
+
+
+1 Nunca
+2 Quase Nunca
+3 Quase Sempre
+4 Sempre
+
+
+Parcepção dos Alunos sobre a Situação de sua Famı́lia
+----------------------------------------------------
+FREQUENCIASEMCOMIDA               Não ter o suficiente para comer.
+FREQUENCIADESENTIREMINSEGUROS     Se sentir inseguro com crime em sua casa.
+FREQUENCIASEMREMEDIO              Acabar os remédio que você precisa.
+FREQUENCIASEMDINHEIRO             Não ter nenhum dinheiro.
+
+
+Apoio dos Pais
+--------------
+PAISENCORAJADORES                Encorajam você a se esforçar na escola?
+PAISAPOIAMATIVIDADESEXTERNAS     Apoiam você nas coisas que você gosta de fazer fora da escola?
+PAISQUEOUVEM                     Ouvem você quando você precisa precisa conversar?
+PAISORGULHOSOS                   Mostram que estão orgulhosos de você?
+PAISQUEAJUDAMATOMARDECISÕES      Arrumam tempo para ajudar você a tomar decisões?
+
+
+Como alunos se sentem a respeito de suas vidas
+----------------------------------------------
+BEMCONSIGOMESMO                      Me sinto bem comigo mesmo.
+ALGOMEIMPEDEDECONQUISTARASCOISAS     Sempre que eu tento seguir em frente e conquistar algo, alguma coisa ou alguém acaba me impedindo.
+ACREDITOEMSORTEMAISDOQUETRABALHO     Na minha vida, sorte é mais importante que estudar a me esforçar para ter sucesso.
+PLANOSSEMPREDÃOERRADO                Meus planos raramente dão certos, então fazer planos só me deixa triste.
+INÚTIL                               Eu me sinto inútil a maior parte do tempo.
+ACREDITONOSMEUSPLANOS                Quando eu faço planos, eu tenho quase certeza que consiguirei realizá-los.
+
+
+Sentimento dos Alunos quanto ao bullying
+----------------------------------------
+MEDODESOFRERBULLYINGNAESCOLA       Você já teve medo de sofrer bullying na escola?
+MEDODESOFRERBULLYINGNAINTERNET     Você já teve medo de sofrer bullying na internet?
+
+
+Violência Entre Alunos
+----------------------
+BRIGAENTREALUNOS            Violência fı́sica entre alunos.
+DESORDEMNASSALAS            Desordem na sala de aula.
+ROUBOSNAESCOLA              Roubo e furto.
+DESRESPEITOCOMPROFESSOR     Alunos desrespeitam professores.
+AMEAÇAAPROFESSORES          Ameaças de violência contra professores.
+ALUNOSCOMBEBIDA             Alunos consomem álcool.
+ALUNOSCOMDROGAS             Alunos usam drogas ilegais.
+ALUNOSFAZEMBULLYING         Alunos fazem bullying com outros alunos.
+
+
+Violência no bairro
+-------------------
+ROUBONOBAIRRO                    Roubo e furto no bairro?
+BEBIDANOBAIRRO                   Consumo de álcool nas ruas do bairro?
+INTERFERENCIAMILITARNOBAIRRO     Interferência da polı́cia na vida privada das pessoas?
+COMPORTAMENTORACISTANOBAIRRO     Comportamento racista no bairro?
+VENDADEDROGASNOBAIRRO            Venda de drogas ilegais nas ruas?
+
+
+===============================================================================
+
+
+1 Discorda Fortemente
+2 Discorda
+3 Concorda
+4 Concorda Fortemente
+
+
+Comportamento dos alunos com seus estudos
+-----------------------------------------
+SEMPREESTUDO                     Eu sempre estudo para provas.
+FAÇOBEMMINHALIÇÃO                Eu tento me sair bem nos trabalhos da escola mesmo quando eles não me parecem interessantes.
+PREFIROESTUDARASAIRCOMAMIGOS     Se eu preciso estudar, eu evito sair com meus amigos.
+
+
+Relação dos Estudantes com seus Professores
+-------------------------------------------
+RESPEITOAOSPROFESSORES      Quando meus professores me dizem para não fazer algo, eu sei que eles tem um bom motivo para isso.
+SEGURANÇACOMPROFESSORES     Eu me sinto seguro e à vontade com meus professores.
+PROFESSORESRESPEITOSOS      Meus professores me tratam com respeito.
+
+
+Clima Social na Escola
+----------------------
+ALUNOSGOSTAMDEDIMINUIROSOUTROS     A maioria dos alunos na minha escola gostam de humilhar os outros.
+ALUNOSSEAJUDAMAAPRENDER            A maioria dos estudantes ajudam uns aos outros a estudar.
+ALUNOSNÃOSEDÃOBEM                  A maioria dos alunos na minha escola não se dá bem.
+ALUNOSSETRATAMCOMRESPEITO          A maioria dos alunos na minha escola trata um ao outro com respeito.
+
+
+Violência nas escolas
+---------------------
+CRIMENAESCOLA        Eu me preocupo com crime e violência em minha escola.
+BULLYINGNAESCOLA     Alunos na minha escola são vı́timas de bullying com frequência.
+AMEAÇASNAESCOLA      Alunos na minha escola sofrem ameaças e tem medo com frequêcia.
+
+
+Posições sobre inclusão
+-----------------------
+INCLUSÃODEPORTADORESDEDEFICIÊNCIAEMSALASCOMUNS            Eu apoio a inclusão de alunos com deficiência em salas de aula tradicionais.
+FILHALÉSBICA                                              No futuro, se eu tiver uma filha lésbica, eu não vou me importar se ela tiver relação intimas com outra mulher.
+TANTOFAZBRANCOSOUNEGROS                                   Eu não me importo se eu tenho amigos brancos ou negros.
+IMPORTANTEESCOLASESPECIAISPARAPORTADORESDEDEFICIÊNCIA     Para seu próprio bem, é importante que haja escolas especiais, trabalhos especı́ficos e formas de lazer próprios para pessoas com deficiência, permitindo agrupá-los.
+GAYSREVEJAMSUAOPÇÃO                                       Em alguns casos, é importante que gays ou lésbicas tenham tratamento psicológico para rever sua escolha sexual.
+BRANCOSMAISDISCIPLINADOS                                  Pessoas brancas geralmente conseguem melhores trabalhos porque elas são mais disciplinadas quanto às regras estabelecidas pelas empresas.
+
+
+Posições sobre os valores das minorias
+--------------------------------------
+GAYSSEMVALORES                      Eu acho que os valores religiosos e éticos de gays e lésbicas são diferentes de outras pessoas.
+DEFICIÊNCIASEPARADA                 Alunos com deficiência deveriam estudar em salas separadas de outros alunos.
+NEGROSCOMOBRANCOS                   Em sociedades democráticas, pessoas negras deveriam se comportar como a maioria das pessoas brancas.
+CHEFEGAY                            Quando eu trabalhar, eu não vou me importar se um gay for meu chefe.
+GAYSTRANSIMITEMIDEIASDIFERENTES     As ideias que gays e lésbicas podem colocar na cabeça das crianças são diferentes das ideias transmitidas por quem não é gay.
+NEGROSMENOSTRABALHADORES            Os negros, geralmente, são menos preocupados com o trabalho do que as outras pessoas.
+
+
+Posições sobre Estratificação Social
+------------------------------------
+ALGUNSGRUPOSTEMMAISVALOR             Alguns grupos de pessoas sim simplesmente melhores que outros.
+USARFORÇACONTRAOUTROS                Para um grupo alcançar o que quer, às vezes, é necessário usar a força contra outros grupos.
+TANTOFAZAMIGOSBRANCOSENEGROS         Para mim tanto faz ter amigos brancos ou negros.
+NORMALUMGRUPOTERMAISOPORTUNIDADE     Está tudo bem se alguns grupos tiverem mais oportunidade na vida do que outros.
+GRUPOSSUPERIORESDEVEMCONDUZIR        Os grupos superiores devem conduzir os grupos inferiores.
+
+
+Posições sobre Autoritarismo
+----------------------------
+AUTORIDADEÉVIRTUDE         A Obediência e o respeito à autoridade são as principais virtudes que devemos ensinar às nossas crianças.
+HOMENSSÃOFRACOSOUFORTES    Os homens podem ser divididos em duas classes definidas: os fracos e os fortes.
+FALEMENOSETRABALHEMAIS     Se falássemos menos e trabalhássemos mais, todos estarı́amos melhor.
+CASTIGARINSULTOS           Deve-se castigar sempre, todo insulto à nossa honra.
+SEMPREHAVERÁGUERRAS        Tal como é a natureza humana, sempre haverá guerras e conflitos.
+DISCIPLINAFIRME            Do que mais necessita a nossa juventude é de uma disciplina firme, determinação e vontade de trabalhar e lutar pela famı́lia e pela pátria.
+PENADEMORTE                Se a pena de morte diminuir a criminalidade, ela deve ser aprovada.
+
+
+Posições sobre Desigualdade
+---------------------------
+GRUPOSINFERIORESPERMANCEMNOSEULUGAR     Os grupos inferiores devem permanecer em seu lugar.
+GRUPOSDEVEMTERMESMAOPORTUNIDADE         Todos os grupos devem ter as mesmas oportunidades na vida.
+AUMENTARIGUALDADESOCIAL                 Deverı́amos aumentar a igualdade social entre todos os grupos.
+SALÁRIOSMAISIGUAIS                      Devemos nos esdorçar para tornar os rendimentos e salários mais iguais.
